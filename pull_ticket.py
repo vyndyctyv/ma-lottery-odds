@@ -1,32 +1,29 @@
-#This program pulls the ticket information from the MA Lottery Site
-
-import numpy as np
 import pandas as pd
 import re
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
-def pull_table(url):
+def pull_table(url): #Pulls the information from the tables on each of the tickets' pages
     chrome_options = Options()
-    chrome_options.add_argument("--headless=new")
+    chrome_options.add_argument("--headless=new") #Headless browser
     browser = webdriver.Chrome(options=chrome_options)
     browser.get(url)
-    soup=BeautifulSoup(browser.page_source, "html.parser")
-    table = soup.find('table')
+    soup=BeautifulSoup(browser.page_source, "html.parser") #Parse HTML
+    table = soup.find('table') #Find lottery odds information (only 1 table per page)
     if table:
-        table_rows = table.find_all('tr')
-        ticket_name = re.search(r'(.*)(?= \| Games \| Massachusetts Lottery)',soup.find('title').get_text()).group(0)
-        ticket_price = int(soup.find('div',class_='scratch-game-detail-card-price-text').get_text().replace('$',''))
-        total_tickets = re.search(r'(\d+(?:,\d+)*)', soup.find('div',class_='game-prizes-remaining-text-info-container').get_text())
-        total_tickets = int(total_tickets.group(0).replace(',',''))
+        table_rows = table.find_all('tr') #Find all table cells
+        ticket_name = re.search(r'(.*)(?= \| Games \| Massachusetts Lottery)',soup.find('title').get_text()).group(0) #Pull ticket name without common ending
+        ticket_price = int(soup.find('div',class_='scratch-game-detail-card-price-text').get_text().replace('$','')) #Pull ticket price
+        total_tickets = re.search(r'(\d+(?:,\d+)*)', soup.find('div',class_='game-prizes-remaining-text-info-container').get_text()) #Find total tickets available for sale
+        total_tickets = int(total_tickets.group(0).replace(',','')) #Convert total tickets to int
         ticket = []
-        for tr in table_rows:
+        for tr in table_rows: #Append all cell information to ticket list
             td = tr.find_all('td')
             row = [i.text for i in td]
             ticket.append(row)
         clean_ticket = []
-        for prizes in ticket:
+        for prizes in ticket: #Uses regex to pull information regarding the prize, odds, starting, and remaining tickets to the clean_ticket list
             if prizes:
                 prize = re.search(r'\$(\d+(?:,\d+)*)(\s.*)?(\s.*)?(?=1\s+in)',prizes[0])
                 odds = re.search(r'(?<=in\s)(\d{1,3}(?:,\d{3})*(?:\.\d+)?)(?=\s+odds)',prizes[0])
@@ -43,9 +40,9 @@ def pull_table(url):
         df = pd.DataFrame(clean_ticket,columns=['Prize','Odds','Start','Claimed','Remaining'])
         return df,ticket_name,url
     else:
-        print(f'{url} is not functioning.')
+        print(f'{url} is not functioning.') #Failsafe if browser is unable to load the table/ticket page is deprecated
 
-def pull_tickets(ticket_urls):
+def pull_tickets(ticket_urls): #Pulls the dataframe from each ticket using pull_table()
     ticket_dfs = []
     for ticket in ticket_urls['0']:
         try:
