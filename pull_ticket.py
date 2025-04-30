@@ -16,7 +16,7 @@ def pull_table(url):
     table = soup.find('table')
     if table:
         table_rows = table.find_all('tr')
-        ticket_name = soup.find('title').get_text()
+        ticket_name = re.search(r'(.*)(?= \| Games \| Massachusetts Lottery)',soup.find('title').get_text()).group(0)
         ticket_price = int(soup.find('div',class_='scratch-game-detail-card-price-text').get_text().replace('$',''))
         total_tickets = re.search(r'(\d+(?:,\d+)*)', soup.find('div',class_='game-prizes-remaining-text-info-container').get_text())
         total_tickets = int(total_tickets.group(0).replace(',',''))
@@ -47,6 +47,9 @@ def pull_table(url):
 
 def pull_tickets(ticket_urls):
     ticket_dfs = []
-    for ticket in ticket_urls:
-        ticket_dfs.append(pull_table(ticket))
+    for ticket in ticket_urls['0']:
+        try:
+            ticket_dfs.append(pull_table(ticket))
+        except:
+            print(f'Issue with ticket: {ticket}')
     return ticket_dfs

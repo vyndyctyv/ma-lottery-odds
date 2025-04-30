@@ -41,4 +41,5 @@ def break_or_broke(df, num_of_tickets=5, attempts_to_average=50):
     results_average = sum(results)/len(results)
     attempt_average = sum(attempt)/len(attempt)
     print(f'You are willing to buy up to {num_of_tickets} ticket(s). On average, you will make {attempt_average} pull(s) and you will earn ${results_average}.')
+    return results_average
     
