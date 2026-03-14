@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MA Lottery Odds</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg-deep:    #1A0D00;
+      --bg-panel:   #241200;
+      --bg-input:   #2e1800;
+      --bg-hover:   #3a2000;
+      --gold:       #DDC165;
+      --gold-light: #FFE9A3;
+      --orange:     #E5591C;
+      --red:        #c0392b;
+      --green:      #6aaa64;
+      --text-muted: #8a6a3a;
+      --border:     #3d2200;
+    }
+
+    html, body { height: 100%; background: var(--bg-deep); color: var(--gold); font-family: 'SF Mono', 'Fira Code', monospace; font-size: 13px; }
+
+    .app { max-width: 1200px; margin: 0 auto; padding: 16px; }
+
+    header {
+      display: flex; align-items: center; gap: 12px;
+      padding: 12px 16px; margin-bottom: 16px;
+      background: var(--bg-panel); border: 1px solid var(--border); border-radius: 6px;
+    }
+    header h1 { font-size: 15px; font-weight: 600; color: var(--gold-light); flex: 1; }
+
+    .btn {
+      background: var(--orange); border: none; border-radius: 4px;
+      color: #fff; padding: 6px 14px; font-family: inherit; font-size: 12px;
+      font-weight: 600; cursor: pointer; transition: opacity 0.15s;
+    }
+    .btn:hover { opacity: 0.85; }
+    .btn:disabled { opacity: 0.4; cursor: default; }
+    .btn.secondary { background: var(--bg-input); border: 1px solid var(--border); color: var(--gold); }
+
+    .meta {
+      display: flex; gap: 16px; margin-bottom: 16px; flex-wrap: wrap;
+    }
+    .meta-card {
+      background: var(--bg-panel); border: 1px solid var(--border); border-radius: 6px;
+      padding: 12px 16px; flex: 1; min-width: 150px;
+    }
+    .meta-label { font-size: 10px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 4px; }
+    .meta-value { color: var(--gold-light); font-size: 18px; font-weight: 600; }
+    .meta-value.good { color: var(--green); }
+    .meta-value.bad { color: var(--red); }
+
+    .notable-banner {
+      display: none; background: var(--green); color: #fff; padding: 10px 16px;
+      border-radius: 6px; margin-bottom: 16px; font-weight: 600; font-size: 13px;
+    }
+    .notable-banner.visible { display: block; }
+
+    .section-label {
+      font-size: 11px; color: var(--text-muted); text-transform: uppercase;
+      letter-spacing: 0.1em; margin: 20px 0 8px; padding-bottom: 4px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    table { width: 100%; border-collapse: collapse; }
+    th {
+      text-align: left; font-size: 10px; color: var(--text-muted);
+      text-transform: uppercase; letter-spacing: 0.08em;
+      padding: 6px 10px; border-bottom: 1px solid var(--border);
+      cursor: pointer; user-select: none;
+    }
+    th:hover { color: var(--gold); }
+    th.sorted { color: var(--orange); }
+    td {
+      padding: 7px 10px; border-bottom: 1px solid var(--border);
+      color: var(--gold); font-size: 12px; white-space: nowrap;
+    }
+    tr:hover td { background: var(--bg-hover); }
+    tr.notable td { background: rgba(106, 170, 100, 0.08); }
+    tr.notable td:first-child { border-left: 3px solid var(--green); }
+
+    .ev-good { color: var(--green); font-weight: 600; }
+    .ev-bad { color: var(--red); }
+    .ev-ok { color: var(--gold); }
+
+    .alert-tag {
+      display: inline-block; background: var(--green); color: #fff;
+      font-size: 10px; font-weight: 700; padding: 1px 6px; border-radius: 3px;
+      margin-left: 4px;
+    }
+
+    .detail-panel {
+      display: none; position: fixed; top: 0; right: 0; width: 420px; height: 100vh;
+      background: var(--bg-panel); border-left: 1px solid var(--border);
+      overflow-y: auto; padding: 16px; z-index: 100;
+    }
+    .detail-panel.open { display: block; }
+    .detail-panel h2 { font-size: 14px; color: var(--gold-light); margin-bottom: 12px; }
+    .detail-close {
+      position: absolute; top: 10px; right: 14px; background: none; border: none;
+      color: var(--text-muted); font-size: 18px; cursor: pointer;
+    }
+    .detail-close:hover { color: var(--gold); }
+
+    .prize-table { margin-top: 12px; }
+    .prize-table th { font-size: 9px; }
+    .prize-table td { font-size: 11px; }
+
+    .loading { text-align: center; padding: 40px; color: var(--text-muted); }
+
+    @media (max-width: 640px) {
+      .meta { flex-direction: column; }
+      .detail-panel { width: 100%; }
+    }
+  </style>
+</head>
+<body>
+<div class="app">
+  <header>
+    <h1>MA Lottery Odds</h1>
+    <span id="last-scrape" style="font-size:11px;color:var(--text-muted)"></span>
+    <label style="font-size:11px;color:var(--text-muted);display:flex;align-items:center;gap:4px;cursor:pointer">
+      <input type="checkbox" id="chk-hide-ending" checked> Hide ended
+    </label>
+    <button class="btn secondary" id="btn-notify">Send Report</button>
+    <button class="btn" id="btn-scrape">Scrape Now</button>
+  </header>
+
+  <div class="notable-banner" id="notable-banner"></div>
+
+  <div class="meta" id="meta"></div>
+
+  <div class="section-label">All Scratch Tickets — sorted by adjusted expected value</div>
+
+  <div id="table-container">
+    <div class="loading" id="loading">Loading data...</div>
+  </div>
+
+  <div class="detail-panel" id="detail-panel">
+    <button class="detail-close" id="detail-close">&times;</button>
+    <div id="detail-content"></div>
+  </div>
+</div>
+
+<script>
+(async () => {
+  const metaEl = document.getElementById('meta');
+  const tableEl = document.getElementById('table-container');
+  const loadingEl = document.getElementById('loading');
+  const bannerEl = document.getElementById('notable-banner');
+  const scrapeBtn = document.getElementById('btn-scrape');
+  const notifyBtn = document.getElementById('btn-notify');
+  const lastScrapeEl = document.getElementById('last-scrape');
+  const detailPanel = document.getElementById('detail-panel');
+  const detailContent = document.getElementById('detail-content');
+  const detailClose = document.getElementById('detail-close');
+
+  let data = null;
+  let sortKey = 'adjustedEvPercent';
+  let sortDir = -1; // -1 = best first
+  let hideEnding = true;
+
+  const hideEndingChk = document.getElementById('chk-hide-ending');
+  hideEndingChk.addEventListener('change', () => { hideEnding = hideEndingChk.checked; render(); });
+
+  detailClose.addEventListener('click', () => detailPanel.classList.remove('open'));
+
+  scrapeBtn.addEventListener('click', async () => {
+    scrapeBtn.disabled = true;
+    scrapeBtn.textContent = 'Scraping...';
+    await fetch('/api/scrape', { method: 'POST' });
+    pollScrape();
+  });
+
+  notifyBtn.addEventListener('click', async () => {
+    notifyBtn.disabled = true;
+    notifyBtn.textContent = 'Sending...';
+    const res = await fetch('/api/notify', { method: 'POST' }).then(r => r.json());
+    notifyBtn.textContent = res.ok ? 'Sent!' : 'Failed';
+    setTimeout(() => { notifyBtn.textContent = 'Send Report'; notifyBtn.disabled = false; }, 3000);
+  });
+
+  async function pollScrape() {
+    const { scraping } = await fetch('/api/scrape-status').then(r => r.json());
+    if (scraping) {
+      setTimeout(pollScrape, 5000);
+    } else {
+      scrapeBtn.textContent = 'Scrape Now';
+      scrapeBtn.disabled = false;
+      loadData();
+    }
+  }
+
+  async function loadData() {
+    const res = await fetch('/api/analysis').then(r => r.json());
+    if (res.error) {
+      loadingEl.textContent = res.error;
+      return;
+    }
+    data = res;
+    render();
+  }
+
+  function render() {
+    if (!data) return;
+    loadingEl.style.display = 'none';
+
+    // Filter
+    const filtered = hideEnding ? data.tickets.filter(t => t.status !== 'ending') : data.tickets;
+    if (!filtered.length) { tableEl.innerHTML = '<div class="loading">No tickets match filter.</div>'; return; }
+
+    // Meta cards
+    const bestTicket = filtered[0];
+    const worstTicket = filtered[filtered.length - 1];
+    const filteredNotable = filtered.filter(t => t.isNotable).length;
+    metaEl.innerHTML = `
+      <div class="meta-card">
+        <div class="meta-label">Tickets Shown</div>
+        <div class="meta-value">${filtered.length}</div>
+      </div>
+      <div class="meta-card">
+        <div class="meta-label">Notable Tickets</div>
+        <div class="meta-value ${filteredNotable > 0 ? 'good' : ''}">${filteredNotable}</div>
+      </div>
+      <div class="meta-card">
+        <div class="meta-label">Best EV</div>
+        <div class="meta-value ${bestTicket.adjustedEvPercent > -20 ? 'good' : ''}">${bestTicket.adjustedEvPercent}%</div>
+        <div style="font-size:10px;color:var(--text-muted);margin-top:2px">${bestTicket.name}</div>
+      </div>
+      <div class="meta-card">
+        <div class="meta-label">Worst EV</div>
+        <div class="meta-value bad">${worstTicket.adjustedEvPercent}%</div>
+        <div style="font-size:10px;color:var(--text-muted);margin-top:2px">${worstTicket.name}</div>
+      </div>
+    `;
+
+    // Last scrape
+    lastScrapeEl.textContent = 'Last scrape: ' + new Date(data.timestamp).toLocaleString();
+
+    // Notable banner
+    if (filteredNotable > 0) {
+      bannerEl.classList.add('visible');
+      bannerEl.textContent = `${filteredNotable} ticket${filteredNotable > 1 ? 's' : ''} with notably good odds right now`;
+    }
+
+    renderTable();
+  }
+
+  function renderTable() {
+    const pool = hideEnding ? data.tickets.filter(t => t.status !== 'ending') : data.tickets;
+    const sorted = [...pool].sort((a, b) => {
+      const av = a[sortKey], bv = b[sortKey];
+      if (typeof av === 'string') return sortDir * av.localeCompare(bv);
+      return sortDir * (bv - av);
+    });
+
+    const cols = [
+      { key: 'name', label: 'Ticket' },
+      { key: 'price', label: 'Price' },
+      { key: 'status', label: 'Status' },
+      { key: 'evPercent', label: 'Base EV%' },
+      { key: 'adjustedEvPercent', label: 'Adj EV%' },
+      { key: 'adjustedEv', label: 'Adj EV $' },
+      { key: 'simAvgNet', label: 'Sim Net' },
+      { key: 'simAvgPulls', label: 'Sim Pulls' },
+      { key: 'totalRemaining', label: 'Remaining' },
+    ];
+
+    let html = '<table><thead><tr>';
+    for (const col of cols) {
+      const isSorted = sortKey === col.key;
+      html += `<th class="${isSorted ? 'sorted' : ''}" data-key="${col.key}">${col.label}${isSorted ? (sortDir === 1 ? ' ▲' : ' ▼') : ''}</th>`;
+    }
+    html += '</tr></thead><tbody>';
+
+    for (const t of sorted) {
+      const evClass = t.adjustedEvPercent > -20 ? 'ev-good' : t.adjustedEvPercent > -35 ? 'ev-ok' : 'ev-bad';
+      const notable = t.isNotable ? ' notable' : '';
+      const statusClass = t.status === 'ending' ? 'ev-bad' : t.status === 'active' ? 'ev-good' : 'ev-ok';
+      const statusLabel = t.status === 'ending' ? 'Ending' : t.status === 'active' ? 'Active' : t.status;
+      html += `<tr class="${notable}" data-id="${t.identifier}" style="cursor:pointer">
+        <td>${t.name}${t.bigPrizeAlerts.length ? '<span class="alert-tag">ALERT</span>' : ''}</td>
+        <td>$${t.price}</td>
+        <td class="${statusClass}">${statusLabel}</td>
+        <td class="${evClass}">${t.evPercent}%</td>
+        <td class="${evClass}">${t.adjustedEvPercent}%</td>
+        <td class="${evClass}">$${t.adjustedEv}</td>
+        <td class="${t.simAvgNet >= 0 ? 'ev-good' : 'ev-bad'}">$${t.simAvgNet}</td>
+        <td>${t.simAvgPulls}</td>
+        <td>${t.totalRemaining.toLocaleString()}</td>
+      </tr>`;
+    }
+    html += '</tbody></table>';
+    tableEl.innerHTML = html;
+
+    // Sort headers
+    tableEl.querySelectorAll('th').forEach(th => {
+      th.addEventListener('click', () => {
+        const key = th.dataset.key;
+        if (sortKey === key) sortDir *= -1;
+        else { sortKey = key; sortDir = key === 'name' ? 1 : -1; }
+        renderTable();
+      });
+    });
+
+    // Row click → detail panel
+    tableEl.querySelectorAll('tr[data-id]').forEach(tr => {
+      tr.addEventListener('click', () => showDetail(tr.dataset.id));
+    });
+  }
+
+  function showDetail(identifier) {
+    const t = data.tickets.find(t => t.identifier === identifier);
+    if (!t) return;
+
+    let html = `<h2>${t.name} — $${t.price}</h2>`;
+    if (t.url) html += `<div style="margin-bottom:8px"><a href="${t.url}" target="_blank" style="color:var(--orange);font-size:12px">View on masslottery.com ↗</a></div>`;
+    if (t.status === 'ending') html += `<div style="color:var(--red);font-size:11px;margin-bottom:6px">⚠ Ending Soon${t.expirationDate ? ' — expires ' + t.expirationDate : ''}</div>`;
+    html += `<div style="margin-bottom:12px">`;
+    html += `<div><b>Base EV:</b> $${t.ev} (${t.evPercent}%)</div>`;
+    html += `<div><b>Adjusted EV:</b> $${t.adjustedEv} (${t.adjustedEvPercent}%)</div>`;
+    html += `<div><b>Simulation (3-ticket budget):</b> avg $${t.simAvgNet} over ${t.simAvgPulls} pulls</div>`;
+    html += `<div><b>Total remaining:</b> ${t.totalRemaining.toLocaleString()}</div>`;
+    html += `</div>`;
+
+    if (t.bigPrizeAlerts.length) {
+      html += `<div class="section-label" style="margin-top:8px">Prize Alerts</div>`;
+      for (const a of t.bigPrizeAlerts) {
+        html += `<div style="margin:6px 0;padding:8px;background:rgba(106,170,100,0.1);border-radius:4px">`;
+        html += `<b>$${a.prize.toLocaleString()}</b> — odds improved <b>${a.improvement}%</b><br>`;
+        html += `Now 1 in ${a.currentOdds.toLocaleString()} (was 1 in ${a.originalOdds.toLocaleString()})<br>`;
+        html += `${a.remaining} prizes remaining`;
+        html += `</div>`;
+      }
+    }
+
+    html += `<div class="section-label" style="margin-top:16px">Prize Breakdown</div>`;
+    html += `<table class="prize-table"><thead><tr>`;
+    html += `<th>Prize</th><th>Net</th><th>Odds</th><th>Start</th><th>Claimed</th><th>Remaining</th>`;
+    html += `</tr></thead><tbody>`;
+    for (const p of t.prizes) {
+      const pct = p.start > 0 ? Math.round((p.claimed / p.start) * 100) : 0;
+      html += `<tr>
+        <td>$${p.prize.toLocaleString()}</td>
+        <td class="${p.netPrize >= 0 ? 'ev-good' : 'ev-bad'}">$${p.netPrize}</td>
+        <td>1 in ${p.oddsOneIn.toLocaleString()}</td>
+        <td>${p.start.toLocaleString()}</td>
+        <td>${p.claimed.toLocaleString()} (${pct}%)</td>
+        <td>${p.remaining.toLocaleString()}</td>
+      </tr>`;
+    }
+    html += '</tbody></table>';
+
+    detailContent.innerHTML = html;
+    detailPanel.classList.add('open');
+  }
+
+  await loadData();
+
+  // Check scrape status
+  const status = await fetch('/api/scrape-status').then(r => r.json());
+  if (status.lastScrape) {
+    lastScrapeEl.textContent = 'Last scrape: ' + new Date(status.lastScrape).toLocaleString();
+  }
+})();
+</script>
+</body>
+</html>
