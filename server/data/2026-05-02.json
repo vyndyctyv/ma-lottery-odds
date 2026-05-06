@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-03T11:20:03.842Z",
+  "timestamp": "2026-05-02T11:15:56.339Z",
   "scraped": 131,
   "failed": 0,
   "tickets": [
@@ -33,57 +33,57 @@
           "prize": 200,
           "oddsOneIn": 3600,
           "start": 4200,
-          "claimed": 37,
-          "remaining": 4163
+          "claimed": 32,
+          "remaining": 4168
         },
         {
           "prize": 100,
           "oddsOneIn": 1469.39,
           "start": 10290,
-          "claimed": 68,
-          "remaining": 10222
+          "claimed": 59,
+          "remaining": 10231
         },
         {
           "prize": 50,
           "oddsOneIn": 514.29,
           "start": 29400,
-          "claimed": 217,
-          "remaining": 29183
+          "claimed": 194,
+          "remaining": 29206
         },
         {
           "prize": 20,
           "oddsOneIn": 62.5,
           "start": 241920,
-          "claimed": 1697,
-          "remaining": 240223
+          "claimed": 1453,
+          "remaining": 240467
         },
         {
           "prize": 10,
           "oddsOneIn": 50,
           "start": 302400,
-          "claimed": 2074,
-          "remaining": 300326
+          "claimed": 1775,
+          "remaining": 300625
         },
         {
           "prize": 5,
           "oddsOneIn": 41.67,
           "start": 362880,
-          "claimed": 2505,
-          "remaining": 360375
+          "claimed": 2126,
+          "remaining": 360754
         },
         {
           "prize": 4,
           "oddsOneIn": 13.64,
           "start": 1108800,
-          "claimed": 7616,
-          "remaining": 1101184
+          "claimed": 6579,
+          "remaining": 1102221
         },
         {
           "prize": 2,
           "oddsOneIn": 10,
           "start": 1512000,
-          "claimed": 10009,
-          "remaining": 1501991
+          "claimed": 8607,
+          "remaining": 1503393
         }
       ],
       "identifier": "50k-star-cashword-2026",
@@ -125,57 +125,57 @@
           "prize": 1000,
           "oddsOneIn": 1161.29,
           "start": 13020,
-          "claimed": 514,
-          "remaining": 12506
+          "claimed": 507,
+          "remaining": 12513
         },
         {
           "prize": 500,
           "oddsOneIn": 268.66,
           "start": 56280,
-          "claimed": 2628,
-          "remaining": 53652
+          "claimed": 2550,
+          "remaining": 53730
         },
         {
           "prize": 200,
           "oddsOneIn": 458.6,
           "start": 32970,
-          "claimed": 1537,
-          "remaining": 31433
+          "claimed": 1493,
+          "remaining": 31477
         },
         {
           "prize": 100,
           "oddsOneIn": 19.07,
           "start": 792960,
-          "claimed": 36787,
-          "remaining": 756173
+          "claimed": 35657,
+          "remaining": 757303
         },
         {
           "prize": 60,
           "oddsOneIn": 50,
           "start": 302400,
-          "claimed": 13995,
-          "remaining": 288405
+          "claimed": 13559,
+          "remaining": 288841
         },
         {
           "prize": 50,
           "oddsOneIn": 12.5,
           "start": 1209600,
-          "claimed": 56268,
-          "remaining": 1153332
+          "claimed": 54538,
+          "remaining": 1155062
         },
         {
           "prize": 40,
           "oddsOneIn": 12.5,
           "start": 1209600,
-          "claimed": 56168,
-          "remaining": 1153432
+          "claimed": 54388,
+          "remaining": 1155212
         },
         {
           "prize": 30,
           "oddsOneIn": 8.33,
           "start": 1814400,
-          "claimed": 83902,
-          "remaining": 1730498
+          "claimed": 81235,
+          "remaining": 1733165
         }
       ],
       "identifier": "15000000-magnificent-millions-2026",
@@ -203,71 +203,71 @@
           "prize": 1000,
           "oddsOneIn": 2086.96,
           "start": 4830,
-          "claimed": 709,
-          "remaining": 4121
+          "claimed": 705,
+          "remaining": 4125
         },
         {
           "prize": 500,
           "oddsOneIn": 1200,
           "start": 8400,
-          "claimed": 1411,
-          "remaining": 6989
+          "claimed": 1374,
+          "remaining": 7026
         },
         {
           "prize": 200,
           "oddsOneIn": 1333.33,
           "start": 7560,
-          "claimed": 1284,
-          "remaining": 6276
+          "claimed": 1244,
+          "remaining": 6316
         },
         {
           "prize": 150,
           "oddsOneIn": 1152,
           "start": 8750,
-          "claimed": 1499,
-          "remaining": 7251
+          "claimed": 1459,
+          "remaining": 7291
         },
         {
           "prize": 100,
           "oddsOneIn": 66.73,
           "start": 151060,
-          "claimed": 25672,
-          "remaining": 125388
+          "claimed": 24905,
+          "remaining": 126155
         },
         {
           "prize": 50,
           "oddsOneIn": 100,
           "start": 100800,
-          "claimed": 17110,
-          "remaining": 83690
+          "claimed": 16615,
+          "remaining": 84185
         },
         {
           "prize": 25,
           "oddsOneIn": 100,
           "start": 100800,
-          "claimed": 16923,
-          "remaining": 83877
+          "claimed": 16416,
+          "remaining": 84384
         },
         {
           "prize": 20,
           "oddsOneIn": 12.5,
           "start": 806400,
-          "claimed": 135301,
-          "remaining": 671099
+          "claimed": 131350,
+          "remaining": 675050
         },
         {
           "prize": 15,
           "oddsOneIn": 20,
           "start": 504000,
-          "claimed": 83587,
-          "remaining": 420413
+          "claimed": 81171,
+          "remaining": 422829
         },
         {
           "prize": 10,
           "oddsOneIn": 8.33,
           "start": 1209600,
-          "claimed": 199306,
-          "remaining": 1010294
+          "claimed": 193525,
+          "remaining": 1016075
         }
       ],
       "identifier": "4000000-extreme-cash-2026",
@@ -295,57 +295,57 @@
           "prize": 1000,
           "oddsOneIn": 5760,
           "start": 1575,
-          "claimed": 197,
-          "remaining": 1378
+          "claimed": 195,
+          "remaining": 1380
         },
         {
           "prize": 500,
           "oddsOneIn": 2322.58,
           "start": 3906,
-          "claimed": 593,
-          "remaining": 3313
+          "claimed": 581,
+          "remaining": 3325
         },
         {
           "prize": 100,
           "oddsOneIn": 126.21,
           "start": 71883,
-          "claimed": 11028,
-          "remaining": 60855
+          "claimed": 10674,
+          "remaining": 61209
         },
         {
           "prize": 50,
           "oddsOneIn": 150,
           "start": 60480,
-          "claimed": 9230,
-          "remaining": 51250
+          "claimed": 8921,
+          "remaining": 51559
         },
         {
           "prize": 20,
           "oddsOneIn": 50,
           "start": 181440,
-          "claimed": 27339,
-          "remaining": 154101
+          "claimed": 26466,
+          "remaining": 154974
         },
         {
           "prize": 15,
           "oddsOneIn": 150,
           "start": 60480,
-          "claimed": 8946,
-          "remaining": 51534
+          "claimed": 8668,
+          "remaining": 51812
         },
         {
           "prize": 10,
           "oddsOneIn": 9.38,
           "start": 967680,
-          "claimed": 143702,
-          "remaining": 823978
+          "claimed": 139115,
+          "remaining": 828565
         },
         {
           "prize": 5,
           "oddsOneIn": 10,
           "start": 907200,
-          "claimed": 128573,
-          "remaining": 778627
+          "claimed": 124527,
+          "remaining": 782673
         }
       ],
       "identifier": "extreme-green-2026",
@@ -387,50 +387,50 @@
           "prize": 500,
           "oddsOneIn": 1655.17,
           "start": 4872,
-          "claimed": 590,
-          "remaining": 4282
+          "claimed": 579,
+          "remaining": 4293
         },
         {
           "prize": 100,
           "oddsOneIn": 119.7,
           "start": 67368,
-          "claimed": 8019,
-          "remaining": 59349
+          "claimed": 7792,
+          "remaining": 59576
         },
         {
           "prize": 50,
           "oddsOneIn": 150,
           "start": 53760,
-          "claimed": 6397,
-          "remaining": 47363
+          "claimed": 6227,
+          "remaining": 47533
         },
         {
           "prize": 20,
           "oddsOneIn": 50,
           "start": 161280,
-          "claimed": 19336,
-          "remaining": 141944
+          "claimed": 18806,
+          "remaining": 142474
         },
         {
           "prize": 15,
           "oddsOneIn": 150,
           "start": 53760,
-          "claimed": 6383,
-          "remaining": 47377
+          "claimed": 6185,
+          "remaining": 47575
         },
         {
           "prize": 10,
           "oddsOneIn": 9.38,
           "start": 860160,
-          "claimed": 100995,
-          "remaining": 759165
+          "claimed": 98075,
+          "remaining": 762085
         },
         {
           "prize": 5,
           "oddsOneIn": 10,
           "start": 806400,
-          "claimed": 92225,
-          "remaining": 714175
+          "claimed": 89639,
+          "remaining": 716761
         }
       ],
       "identifier": "250000-jackpot-2026",
@@ -472,57 +472,57 @@
           "prize": 400,
           "oddsOneIn": 8470.59,
           "start": 952,
-          "claimed": 91,
-          "remaining": 861
+          "claimed": 88,
+          "remaining": 864
         },
         {
           "prize": 100,
           "oddsOneIn": 279.07,
           "start": 28896,
-          "claimed": 3453,
-          "remaining": 25443
+          "claimed": 3356,
+          "remaining": 25540
         },
         {
           "prize": 40,
           "oddsOneIn": 300,
           "start": 26880,
-          "claimed": 3547,
-          "remaining": 23333
+          "claimed": 3455,
+          "remaining": 23425
         },
         {
           "prize": 20,
           "oddsOneIn": 166.67,
           "start": 48384,
-          "claimed": 6198,
-          "remaining": 42186
+          "claimed": 6039,
+          "remaining": 42345
         },
         {
           "prize": 10,
           "oddsOneIn": 76.92,
           "start": 104832,
-          "claimed": 12872,
-          "remaining": 91960
+          "claimed": 12522,
+          "remaining": 92310
         },
         {
           "prize": 5,
           "oddsOneIn": 50,
           "start": 161280,
-          "claimed": 21303,
-          "remaining": 139977
+          "claimed": 20685,
+          "remaining": 140595
         },
         {
           "prize": 4,
           "oddsOneIn": 13.51,
           "start": 596736,
-          "claimed": 79414,
-          "remaining": 517322
+          "claimed": 77183,
+          "remaining": 519553
         },
         {
           "prize": 2,
           "oddsOneIn": 10.31,
           "start": 782208,
-          "claimed": 105001,
-          "remaining": 677207
+          "claimed": 102025,
+          "remaining": 680183
         }
       ],
       "identifier": "777-slots-2026",
@@ -557,71 +557,71 @@
           "prize": 100,
           "oddsOneIn": 1058.82,
           "start": 6664,
-          "claimed": 989,
-          "remaining": 5675
+          "claimed": 952,
+          "remaining": 5712
         },
         {
           "prize": 50,
           "oddsOneIn": 1035.97,
           "start": 6811,
-          "claimed": 1001,
-          "remaining": 5810
+          "claimed": 968,
+          "remaining": 5843
         },
         {
           "prize": 25,
           "oddsOneIn": 960,
           "start": 7350,
-          "claimed": 1065,
-          "remaining": 6285
+          "claimed": 1033,
+          "remaining": 6317
         },
         {
           "prize": 20,
           "oddsOneIn": 750,
           "start": 9408,
-          "claimed": 1352,
-          "remaining": 8056
+          "claimed": 1312,
+          "remaining": 8096
         },
         {
           "prize": 10,
           "oddsOneIn": 107.14,
           "start": 65856,
-          "claimed": 9411,
-          "remaining": 56445
+          "claimed": 9138,
+          "remaining": 56718
         },
         {
           "prize": 5,
           "oddsOneIn": 53.57,
           "start": 131712,
-          "claimed": 18796,
-          "remaining": 112916
+          "claimed": 18143,
+          "remaining": 113569
         },
         {
           "prize": 4,
           "oddsOneIn": 93.75,
           "start": 75264,
-          "claimed": 10666,
-          "remaining": 64598
+          "claimed": 10337,
+          "remaining": 64927
         },
         {
           "prize": 3,
           "oddsOneIn": 93.75,
           "start": 75264,
-          "claimed": 10485,
-          "remaining": 64779
+          "claimed": 10148,
+          "remaining": 65116
         },
         {
           "prize": 2,
           "oddsOneIn": 14.42,
           "start": 489216,
-          "claimed": 68053,
-          "remaining": 421163
+          "claimed": 65816,
+          "remaining": 423400
         },
         {
           "prize": 1,
           "oddsOneIn": 10.71,
           "start": 658560,
-          "claimed": 89544,
-          "remaining": 569016
+          "claimed": 86637,
+          "remaining": 571923
         }
       ],
       "identifier": "10000-silver-strike-2026",
@@ -656,64 +656,64 @@
           "prize": 1000,
           "oddsOneIn": 1371.43,
           "start": 8085,
-          "claimed": 1191,
-          "remaining": 6894
+          "claimed": 1186,
+          "remaining": 6899
         },
         {
           "prize": 500,
           "oddsOneIn": 800,
           "start": 13860,
-          "claimed": 2209,
-          "remaining": 11651
+          "claimed": 2182,
+          "remaining": 11678
         },
         {
           "prize": 200,
           "oddsOneIn": 496.55,
           "start": 22330,
-          "claimed": 3543,
-          "remaining": 18787
+          "claimed": 3491,
+          "remaining": 18839
         },
         {
           "prize": 100,
           "oddsOneIn": 28.15,
           "start": 393932,
-          "claimed": 62851,
-          "remaining": 331081
+          "claimed": 62015,
+          "remaining": 331917
         },
         {
           "prize": 50,
           "oddsOneIn": 50,
           "start": 221760,
-          "claimed": 35238,
-          "remaining": 186522
+          "claimed": 34799,
+          "remaining": 186961
         },
         {
           "prize": 40,
           "oddsOneIn": 50,
           "start": 221760,
-          "claimed": 35357,
-          "remaining": 186403
+          "claimed": 34914,
+          "remaining": 186846
         },
         {
           "prize": 30,
           "oddsOneIn": 25,
           "start": 443520,
-          "claimed": 70338,
-          "remaining": 373182
+          "claimed": 69429,
+          "remaining": 374091
         },
         {
           "prize": 25,
           "oddsOneIn": 12.5,
           "start": 887040,
-          "claimed": 139830,
-          "remaining": 747210
+          "claimed": 138095,
+          "remaining": 748945
         },
         {
           "prize": 20,
           "oddsOneIn": 7.14,
           "start": 1552320,
-          "claimed": 245293,
-          "remaining": 1307027
+          "claimed": 242234,
+          "remaining": 1310086
         }
       ],
       "identifier": "2000000-stacked-2026",
@@ -741,71 +741,71 @@
           "prize": 1000,
           "oddsOneIn": 3000,
           "start": 3024,
-          "claimed": 897,
-          "remaining": 2127
+          "claimed": 894,
+          "remaining": 2130
         },
         {
           "prize": 500,
           "oddsOneIn": 2181.82,
           "start": 4158,
-          "claimed": 1368,
-          "remaining": 2790
+          "claimed": 1358,
+          "remaining": 2800
         },
         {
           "prize": 200,
           "oddsOneIn": 1920,
           "start": 4725,
-          "claimed": 1558,
-          "remaining": 3167
+          "claimed": 1543,
+          "remaining": 3182
         },
         {
           "prize": 150,
           "oddsOneIn": 1274.34,
           "start": 7119,
-          "claimed": 2345,
-          "remaining": 4774
+          "claimed": 2320,
+          "remaining": 4799
         },
         {
           "prize": 100,
           "oddsOneIn": 67.13,
           "start": 135135,
-          "claimed": 44069,
-          "remaining": 91066
+          "claimed": 43672,
+          "remaining": 91463
         },
         {
           "prize": 50,
           "oddsOneIn": 100,
           "start": 90720,
-          "claimed": 29790,
-          "remaining": 60930
+          "claimed": 29515,
+          "remaining": 61205
         },
         {
           "prize": 25,
           "oddsOneIn": 100,
           "start": 90720,
-          "claimed": 29566,
-          "remaining": 61154
+          "claimed": 29287,
+          "remaining": 61433
         },
         {
           "prize": 20,
           "oddsOneIn": 12.5,
           "start": 725760,
-          "claimed": 236509,
-          "remaining": 489251
+          "claimed": 234279,
+          "remaining": 491481
         },
         {
           "prize": 15,
           "oddsOneIn": 20,
           "start": 453600,
-          "claimed": 147283,
-          "remaining": 306317
+          "claimed": 145873,
+          "remaining": 307727
         },
         {
           "prize": 10,
           "oddsOneIn": 8.33,
           "start": 1088640,
-          "claimed": 351327,
-          "remaining": 737313
+          "claimed": 348036,
+          "remaining": 740604
         }
       ],
       "identifier": "4000000-cash-doubler-2026",
@@ -833,85 +833,85 @@
           "prize": 1000,
           "oddsOneIn": 6000,
           "start": 1344,
-          "claimed": 315,
-          "remaining": 1029
+          "claimed": 313,
+          "remaining": 1031
         },
         {
           "prize": 500,
           "oddsOneIn": 2400,
           "start": 3360,
-          "claimed": 982,
-          "remaining": 2378
+          "claimed": 971,
+          "remaining": 2389
         },
         {
           "prize": 200,
           "oddsOneIn": 960,
           "start": 8400,
-          "claimed": 2404,
-          "remaining": 5996
+          "claimed": 2372,
+          "remaining": 6028
         },
         {
           "prize": 100,
           "oddsOneIn": 192,
           "start": 42000,
-          "claimed": 12022,
-          "remaining": 29978
+          "claimed": 11880,
+          "remaining": 30120
         },
         {
           "prize": 75,
           "oddsOneIn": 328.77,
           "start": 24528,
-          "claimed": 6852,
-          "remaining": 17676
+          "claimed": 6774,
+          "remaining": 17754
         },
         {
           "prize": 50,
           "oddsOneIn": 375,
           "start": 21504,
-          "claimed": 6196,
-          "remaining": 15308
+          "claimed": 6135,
+          "remaining": 15369
         },
         {
           "prize": 30,
           "oddsOneIn": 375,
           "start": 21504,
-          "claimed": 6012,
-          "remaining": 15492
+          "claimed": 5932,
+          "remaining": 15572
         },
         {
           "prize": 25,
           "oddsOneIn": 750,
           "start": 10752,
-          "claimed": 3087,
-          "remaining": 7665
+          "claimed": 3053,
+          "remaining": 7699
         },
         {
           "prize": 20,
           "oddsOneIn": 57.69,
           "start": 139776,
-          "claimed": 40297,
-          "remaining": 99479
+          "claimed": 39843,
+          "remaining": 99933
         },
         {
           "prize": 15,
           "oddsOneIn": 107.14,
           "start": 75264,
-          "claimed": 21490,
-          "remaining": 53774
+          "claimed": 21220,
+          "remaining": 54044
         },
         {
           "prize": 10,
           "oddsOneIn": 10,
           "start": 806400,
-          "claimed": 230789,
-          "remaining": 575611
+          "claimed": 228220,
+          "remaining": 578180
         },
         {
           "prize": 5,
           "oddsOneIn": 10,
           "start": 806400,
-          "claimed": 228958,
-          "remaining": 577442
+          "claimed": 226390,
+          "remaining": 580010
         }
       ],
       "identifier": "loteria-2026",
@@ -946,57 +946,57 @@
           "prize": 500,
           "oddsOneIn": 1714.29,
           "start": 8820,
-          "claimed": 1437,
-          "remaining": 7383
+          "claimed": 1425,
+          "remaining": 7395
         },
         {
           "prize": 250,
           "oddsOneIn": 1694.12,
           "start": 8925,
-          "claimed": 1415,
-          "remaining": 7510
+          "claimed": 1399,
+          "remaining": 7526
         },
         {
           "prize": 100,
           "oddsOneIn": 149.22,
           "start": 101325,
-          "claimed": 16401,
-          "remaining": 84924
+          "claimed": 16233,
+          "remaining": 85092
         },
         {
           "prize": 50,
           "oddsOneIn": 150,
           "start": 100800,
-          "claimed": 16222,
-          "remaining": 84578
+          "claimed": 16063,
+          "remaining": 84737
         },
         {
           "prize": 20,
           "oddsOneIn": 50,
           "start": 302400,
-          "claimed": 48459,
-          "remaining": 253941
+          "claimed": 48023,
+          "remaining": 254377
         },
         {
           "prize": 15,
           "oddsOneIn": 150,
           "start": 100800,
-          "claimed": 16061,
-          "remaining": 84739
+          "claimed": 15923,
+          "remaining": 84877
         },
         {
           "prize": 10,
           "oddsOneIn": 10,
           "start": 1512000,
-          "claimed": 239861,
-          "remaining": 1272139
+          "claimed": 237555,
+          "remaining": 1274445
         },
         {
           "prize": 5,
           "oddsOneIn": 10,
           "start": 1512000,
-          "claimed": 235669,
-          "remaining": 1276331
+          "claimed": 233344,
+          "remaining": 1278656
         }
       ],
       "identifier": "1000000-high-roller-2026",
@@ -1038,64 +1038,64 @@
           "prize": 200,
           "oddsOneIn": 4645.16,
           "start": 2387,
-          "claimed": 502,
-          "remaining": 1885
+          "claimed": 492,
+          "remaining": 1895
         },
         {
           "prize": 100,
           "oddsOneIn": 381.96,
           "start": 29029,
-          "claimed": 6061,
-          "remaining": 22968
+          "claimed": 6002,
+          "remaining": 23027
         },
         {
           "prize": 40,
           "oddsOneIn": 496.55,
           "start": 22330,
-          "claimed": 4790,
-          "remaining": 17540
+          "claimed": 4721,
+          "remaining": 17609
         },
         {
           "prize": 25,
           "oddsOneIn": 349.51,
           "start": 31724,
-          "claimed": 6666,
-          "remaining": 25058
+          "claimed": 6595,
+          "remaining": 25129
         },
         {
           "prize": 20,
           "oddsOneIn": 142.86,
           "start": 77616,
-          "claimed": 16470,
-          "remaining": 61146
+          "claimed": 16266,
+          "remaining": 61350
         },
         {
           "prize": 10,
           "oddsOneIn": 58.82,
           "start": 188496,
-          "claimed": 39800,
-          "remaining": 148696
+          "claimed": 39367,
+          "remaining": 149129
         },
         {
           "prize": 5,
           "oddsOneIn": 62.5,
           "start": 177408,
-          "claimed": 37924,
-          "remaining": 139484
+          "claimed": 37472,
+          "remaining": 139936
         },
         {
           "prize": 4,
           "oddsOneIn": 13.33,
           "start": 831600,
-          "claimed": 178416,
-          "remaining": 653184
+          "claimed": 176379,
+          "remaining": 655221
         },
         {
           "prize": 2,
           "oddsOneIn": 10.53,
           "start": 1053360,
-          "claimed": 220720,
-          "remaining": 832640
+          "claimed": 218124,
+          "remaining": 835236
         }
       ],
       "identifier": "win-it-all-bonus-2026",
@@ -1130,71 +1130,71 @@
           "prize": 100,
           "oddsOneIn": 1028.57,
           "start": 6860,
-          "claimed": 2036,
-          "remaining": 4824
+          "claimed": 2012,
+          "remaining": 4848
         },
         {
           "prize": 50,
           "oddsOneIn": 842.11,
           "start": 8379,
-          "claimed": 2527,
-          "remaining": 5852
+          "claimed": 2493,
+          "remaining": 5886
         },
         {
           "prize": 25,
           "oddsOneIn": 929.03,
           "start": 7595,
-          "claimed": 2296,
-          "remaining": 5299
+          "claimed": 2266,
+          "remaining": 5329
         },
         {
           "prize": 20,
           "oddsOneIn": 750,
           "start": 9408,
-          "claimed": 2791,
-          "remaining": 6617
+          "claimed": 2754,
+          "remaining": 6654
         },
         {
           "prize": 10,
           "oddsOneIn": 75,
           "start": 94080,
-          "claimed": 27956,
-          "remaining": 66124
+          "claimed": 27633,
+          "remaining": 66447
         },
         {
           "prize": 5,
           "oddsOneIn": 125,
           "start": 56448,
-          "claimed": 16626,
-          "remaining": 39822
+          "claimed": 16409,
+          "remaining": 40039
         },
         {
           "prize": 4,
           "oddsOneIn": 93.75,
           "start": 75264,
-          "claimed": 22009,
-          "remaining": 53255
+          "claimed": 21716,
+          "remaining": 53548
         },
         {
           "prize": 3,
           "oddsOneIn": 93.75,
           "start": 75264,
-          "claimed": 21562,
-          "remaining": 53702
+          "claimed": 21286,
+          "remaining": 53978
         },
         {
           "prize": 2,
           "oddsOneIn": 14.42,
           "start": 489216,
-          "claimed": 140293,
-          "remaining": 348923
+          "claimed": 138650,
+          "remaining": 350566
         },
         {
           "prize": 1,
           "oddsOneIn": 10.71,
           "start": 658560,
-          "claimed": 183306,
-          "remaining": 475254
+          "claimed": 181071,
+          "remaining": 477489
         }
       ],
       "identifier": "2-for-1-2026",
@@ -1222,50 +1222,50 @@
           "prize": 50,
           "oddsOneIn": 310.34,
           "start": 32480,
-          "claimed": 3693,
-          "remaining": 28787
+          "claimed": 3641,
+          "remaining": 28839
         },
         {
           "prize": 20,
           "oddsOneIn": 375,
           "start": 26880,
-          "claimed": 3053,
-          "remaining": 23827
+          "claimed": 2990,
+          "remaining": 23890
         },
         {
           "prize": 10,
           "oddsOneIn": 125,
           "start": 80640,
-          "claimed": 9042,
-          "remaining": 71598
+          "claimed": 8882,
+          "remaining": 71758
         },
         {
           "prize": 5,
           "oddsOneIn": 62.5,
           "start": 161280,
-          "claimed": 17808,
-          "remaining": 143472
+          "claimed": 17499,
+          "remaining": 143781
         },
         {
           "prize": 4,
           "oddsOneIn": 50,
           "start": 201600,
-          "claimed": 22302,
-          "remaining": 179298
+          "claimed": 21909,
+          "remaining": 179691
         },
         {
           "prize": 2,
           "oddsOneIn": 13.64,
           "start": 739200,
-          "claimed": 80472,
-          "remaining": 658728
+          "claimed": 79161,
+          "remaining": 660039
         },
         {
           "prize": 1,
           "oddsOneIn": 11.54,
           "start": 873600,
-          "claimed": 92572,
-          "remaining": 781028
+          "claimed": 90974,
+          "remaining": 782626
         }
       ],
       "identifier": "50-in-a-flash-2026",
@@ -1285,22 +1285,22 @@
           "prize": 250,
           "oddsOneIn": 553.85,
           "start": 18200,
-          "claimed": 3080,
-          "remaining": 15120
+          "claimed": 3032,
+          "remaining": 15168
         },
         {
           "prize": 50,
           "oddsOneIn": 36.4,
           "start": 276920,
-          "claimed": 47015,
-          "remaining": 229905
+          "claimed": 46196,
+          "remaining": 230724
         },
         {
           "prize": 25,
           "oddsOneIn": 12.5,
           "start": 806400,
-          "claimed": 136237,
-          "remaining": 670163
+          "claimed": 134016,
+          "remaining": 672384
         }
       ],
       "identifier": "25-50-and-250-celebration-blowout-2026",
@@ -1342,85 +1342,85 @@
           "prize": 1000,
           "oddsOneIn": 2880,
           "start": 5600,
-          "claimed": 651,
-          "remaining": 4949
+          "claimed": 648,
+          "remaining": 4952
         },
         {
           "prize": 750,
           "oddsOneIn": 1440,
           "start": 11200,
-          "claimed": 1272,
-          "remaining": 9928
+          "claimed": 1267,
+          "remaining": 9933
         },
         {
           "prize": 500,
           "oddsOneIn": 900,
           "start": 17920,
-          "claimed": 2139,
-          "remaining": 15781
+          "claimed": 2122,
+          "remaining": 15798
         },
         {
           "prize": 400,
           "oddsOneIn": 800,
           "start": 20160,
-          "claimed": 2427,
-          "remaining": 17733
+          "claimed": 2413,
+          "remaining": 17747
         },
         {
           "prize": 300,
           "oddsOneIn": 720,
           "start": 22400,
-          "claimed": 2681,
-          "remaining": 19719
+          "claimed": 2660,
+          "remaining": 19740
         },
         {
           "prize": 250,
           "oddsOneIn": 600,
           "start": 26880,
-          "claimed": 3201,
-          "remaining": 23679
+          "claimed": 3181,
+          "remaining": 23699
         },
         {
           "prize": 200,
           "oddsOneIn": 327.27,
           "start": 49280,
-          "claimed": 5912,
-          "remaining": 43368
+          "claimed": 5879,
+          "remaining": 43401
         },
         {
           "prize": 150,
           "oddsOneIn": 160.89,
           "start": 100240,
-          "claimed": 12053,
-          "remaining": 88187
+          "claimed": 11957,
+          "remaining": 88283
         },
         {
           "prize": 100,
           "oddsOneIn": 25,
           "start": 645120,
-          "claimed": 77601,
-          "remaining": 567519
+          "claimed": 76976,
+          "remaining": 568144
         },
         {
           "prize": 80,
           "oddsOneIn": 16.67,
           "start": 967680,
-          "claimed": 115099,
-          "remaining": 852581
+          "claimed": 114161,
+          "remaining": 853519
         },
         {
           "prize": 50,
           "oddsOneIn": 10,
           "start": 1612800,
-          "claimed": 193707,
-          "remaining": 1419093
+          "claimed": 192259,
+          "remaining": 1420541
         },
         {
           "prize": 30,
           "oddsOneIn": 8.33,
           "start": 1935360,
-          "claimed": 228859,
-          "remaining": 1706501
+          "claimed": 227105,
+          "remaining": 1708255
         }
       ],
       "identifier": "10000000-cashword-2025",
@@ -1448,71 +1448,71 @@
           "prize": 1000,
           "oddsOneIn": 2117.65,
           "start": 7140,
-          "claimed": 1810,
-          "remaining": 5330
+          "claimed": 1806,
+          "remaining": 5334
         },
         {
           "prize": 500,
           "oddsOneIn": 1133.86,
           "start": 13335,
-          "claimed": 3596,
-          "remaining": 9739
+          "claimed": 3582,
+          "remaining": 9753
         },
         {
           "prize": 200,
           "oddsOneIn": 1384.62,
           "start": 10920,
-          "claimed": 2974,
-          "remaining": 7946
+          "claimed": 2962,
+          "remaining": 7958
         },
         {
           "prize": 150,
           "oddsOneIn": 1142.86,
           "start": 13230,
-          "claimed": 3588,
-          "remaining": 9642
+          "claimed": 3574,
+          "remaining": 9656
         },
         {
           "prize": 100,
           "oddsOneIn": 67.29,
           "start": 224700,
-          "claimed": 60587,
-          "remaining": 164113
+          "claimed": 60228,
+          "remaining": 164472
         },
         {
           "prize": 50,
           "oddsOneIn": 100,
           "start": 151200,
-          "claimed": 40706,
-          "remaining": 110494
+          "claimed": 40476,
+          "remaining": 110724
         },
         {
           "prize": 25,
           "oddsOneIn": 100,
           "start": 151200,
-          "claimed": 40577,
-          "remaining": 110623
+          "claimed": 40368,
+          "remaining": 110832
         },
         {
           "prize": 20,
           "oddsOneIn": 12.5,
           "start": 1209600,
-          "claimed": 324593,
-          "remaining": 885007
+          "claimed": 322787,
+          "remaining": 886813
         },
         {
           "prize": 15,
           "oddsOneIn": 20,
           "start": 756000,
-          "claimed": 202265,
-          "remaining": 553735
+          "claimed": 201107,
+          "remaining": 554893
         },
         {
           "prize": 10,
           "oddsOneIn": 8.33,
           "start": 1814400,
-          "claimed": 482381,
-          "remaining": 1332019
+          "claimed": 479718,
+          "remaining": 1334682
         }
       ],
       "identifier": "4000000-in-the-money-2025",
@@ -1540,64 +1540,64 @@
           "prize": 1000,
           "oddsOneIn": 10285.71,
           "start": 1470,
-          "claimed": 333,
-          "remaining": 1137
+          "claimed": 331,
+          "remaining": 1139
         },
         {
           "prize": 500,
           "oddsOneIn": 1714.29,
           "start": 8820,
-          "claimed": 2192,
-          "remaining": 6628
+          "claimed": 2188,
+          "remaining": 6632
         },
         {
           "prize": 250,
           "oddsOneIn": 1694.12,
           "start": 8925,
-          "claimed": 2237,
-          "remaining": 6688
+          "claimed": 2230,
+          "remaining": 6695
         },
         {
           "prize": 100,
           "oddsOneIn": 149.22,
           "start": 101325,
-          "claimed": 25322,
-          "remaining": 76003
+          "claimed": 25179,
+          "remaining": 76146
         },
         {
           "prize": 50,
           "oddsOneIn": 150,
           "start": 100800,
-          "claimed": 25148,
-          "remaining": 75652
+          "claimed": 24993,
+          "remaining": 75807
         },
         {
           "prize": 20,
           "oddsOneIn": 50,
           "start": 302400,
-          "claimed": 75398,
-          "remaining": 227002
+          "claimed": 74950,
+          "remaining": 227450
         },
         {
           "prize": 15,
           "oddsOneIn": 150,
           "start": 100800,
-          "claimed": 25022,
-          "remaining": 75778
+          "claimed": 24866,
+          "remaining": 75934
         },
         {
           "prize": 10,
           "oddsOneIn": 10,
           "start": 1512000,
-          "claimed": 373579,
-          "remaining": 1138421
+          "claimed": 371352,
+          "remaining": 1140648
         },
         {
           "prize": 5,
           "oddsOneIn": 10,
           "start": 1512000,
-          "claimed": 367245,
-          "remaining": 1144755
+          "claimed": 365118,
+          "remaining": 1146882
         }
       ],
       "identifier": "1000000-go-for-the-green-2025",
@@ -1625,57 +1625,57 @@
           "prize": 1000,
           "oddsOneIn": 5142.86,
           "start": 2940,
-          "claimed": 754,
-          "remaining": 2186
+          "claimed": 752,
+          "remaining": 2188
         },
         {
           "prize": 500,
           "oddsOneIn": 1756.1,
           "start": 8610,
-          "claimed": 2365,
-          "remaining": 6245
+          "claimed": 2352,
+          "remaining": 6258
         },
         {
           "prize": 100,
           "oddsOneIn": 126.76,
           "start": 119280,
-          "claimed": 32876,
-          "remaining": 86404
+          "claimed": 32649,
+          "remaining": 86631
         },
         {
           "prize": 50,
           "oddsOneIn": 150,
           "start": 100800,
-          "claimed": 28401,
-          "remaining": 72399
+          "claimed": 28213,
+          "remaining": 72587
         },
         {
           "prize": 20,
           "oddsOneIn": 50,
           "start": 302400,
-          "claimed": 85236,
-          "remaining": 217164
+          "claimed": 84665,
+          "remaining": 217735
         },
         {
           "prize": 15,
           "oddsOneIn": 150,
           "start": 100800,
-          "claimed": 28582,
-          "remaining": 72218
+          "claimed": 28396,
+          "remaining": 72404
         },
         {
           "prize": 10,
           "oddsOneIn": 9.38,
           "start": 1612800,
-          "claimed": 445654,
-          "remaining": 1167146
+          "claimed": 442633,
+          "remaining": 1170167
         },
         {
           "prize": 5,
           "oddsOneIn": 10,
           "start": 1512000,
-          "claimed": 421662,
-          "remaining": 1090338
+          "claimed": 418867,
+          "remaining": 1093133
         }
       ],
       "identifier": "ruby-mine-50x-2025",
@@ -1710,64 +1710,64 @@
           "prize": 400,
           "oddsOneIn": 8470.59,
           "start": 952,
-          "claimed": 466,
-          "remaining": 486
+          "claimed": 464,
+          "remaining": 488
         },
         {
           "prize": 100,
           "oddsOneIn": 380.95,
           "start": 21168,
-          "claimed": 10037,
-          "remaining": 11131
+          "claimed": 9977,
+          "remaining": 11191
         },
         {
           "prize": 40,
           "oddsOneIn": 316.48,
           "start": 25480,
-          "claimed": 12118,
-          "remaining": 13362
+          "claimed": 12031,
+          "remaining": 13449
         },
         {
           "prize": 25,
           "oddsOneIn": 277.99,
           "start": 29008,
-          "claimed": 13727,
-          "remaining": 15281
+          "claimed": 13622,
+          "remaining": 15386
         },
         {
           "prize": 20,
           "oddsOneIn": 142.86,
           "start": 56448,
-          "claimed": 26610,
-          "remaining": 29838
+          "claimed": 26424,
+          "remaining": 30024
         },
         {
           "prize": 10,
           "oddsOneIn": 58.82,
           "start": 137088,
-          "claimed": 64133,
-          "remaining": 72955
+          "claimed": 63663,
+          "remaining": 73425
         },
         {
           "prize": 5,
           "oddsOneIn": 62.5,
           "start": 129024,
-          "claimed": 60500,
-          "remaining": 68524
+          "claimed": 60089,
+          "remaining": 68935
         },
         {
           "prize": 4,
           "oddsOneIn": 13.33,
           "start": 604800,
-          "claimed": 281286,
-          "remaining": 323514
+          "claimed": 279415,
+          "remaining": 325385
         },
         {
           "prize": 2,
           "oddsOneIn": 11.11,
           "start": 725760,
-          "claimed": 331915,
-          "remaining": 393845
+          "claimed": 329692,
+          "remaining": 396068
         }
       ],
       "identifier": "100000-multiplier-mania-2025",
@@ -1802,71 +1802,71 @@
           "prize": 100,
           "oddsOneIn": 960,
           "start": 8400,
-          "claimed": 3447,
-          "remaining": 4953
+          "claimed": 3419,
+          "remaining": 4981
         },
         {
           "prize": 30,
           "oddsOneIn": 872.73,
           "start": 9240,
-          "claimed": 3758,
-          "remaining": 5482
+          "claimed": 3733,
+          "remaining": 5507
         },
         {
           "prize": 20,
           "oddsOneIn": 381.96,
           "start": 21112,
-          "claimed": 8586,
-          "remaining": 12526
+          "claimed": 8525,
+          "remaining": 12587
         },
         {
           "prize": 10,
           "oddsOneIn": 150,
           "start": 53760,
-          "claimed": 21703,
-          "remaining": 32057
+          "claimed": 21558,
+          "remaining": 32202
         },
         {
           "prize": 9,
           "oddsOneIn": 125,
           "start": 64512,
-          "claimed": 25923,
-          "remaining": 38589
+          "claimed": 25730,
+          "remaining": 38782
         },
         {
           "prize": 5,
           "oddsOneIn": 93.75,
           "start": 86016,
-          "claimed": 34358,
-          "remaining": 51658
+          "claimed": 34094,
+          "remaining": 51922
         },
         {
           "prize": 4,
           "oddsOneIn": 93.75,
           "start": 86016,
-          "claimed": 34273,
-          "remaining": 51743
+          "claimed": 34042,
+          "remaining": 51974
         },
         {
           "prize": 3,
           "oddsOneIn": 93.75,
           "start": 86016,
-          "claimed": 34009,
-          "remaining": 52007
+          "claimed": 33750,
+          "remaining": 52266
         },
         {
           "prize": 2,
           "oddsOneIn": 15,
           "start": 537600,
-          "claimed": 208074,
-          "remaining": 329526
+          "claimed": 206601,
+          "remaining": 330999
         },
         {
           "prize": 1,
           "oddsOneIn": 10.71,
           "start": 752640,
-          "claimed": 286490,
-          "remaining": 466150
+          "claimed": 284481,
+          "remaining": 468159
         }
       ],
       "identifier": "10000-double-win-2025",
@@ -1901,57 +1901,57 @@
           "prize": 200,
           "oddsOneIn": 3600,
           "start": 4200,
-          "claimed": 658,
-          "remaining": 3542
+          "claimed": 645,
+          "remaining": 3555
         },
         {
           "prize": 100,
           "oddsOneIn": 720,
           "start": 21000,
-          "claimed": 3302,
-          "remaining": 17698
+          "claimed": 3260,
+          "remaining": 17740
         },
         {
           "prize": 25,
           "oddsOneIn": 947.37,
           "start": 15960,
-          "claimed": 2482,
-          "remaining": 13478
+          "claimed": 2456,
+          "remaining": 13504
         },
         {
           "prize": 20,
           "oddsOneIn": 62.5,
           "start": 241920,
-          "claimed": 38130,
-          "remaining": 203790
+          "claimed": 37647,
+          "remaining": 204273
         },
         {
           "prize": 10,
           "oddsOneIn": 50,
           "start": 302400,
-          "claimed": 47515,
-          "remaining": 254885
+          "claimed": 46941,
+          "remaining": 255459
         },
         {
           "prize": 5,
           "oddsOneIn": 41.67,
           "start": 362880,
-          "claimed": 56952,
-          "remaining": 305928
+          "claimed": 56247,
+          "remaining": 306633
         },
         {
           "prize": 4,
           "oddsOneIn": 13.64,
           "start": 1108800,
-          "claimed": 172289,
-          "remaining": 936511
+          "claimed": 170094,
+          "remaining": 938706
         },
         {
           "prize": 2,
           "oddsOneIn": 10,
           "start": 1512000,
-          "claimed": 233981,
-          "remaining": 1278019
+          "claimed": 231050,
+          "remaining": 1280950
         }
       ],
       "identifier": "power-play-cashword-2025",
@@ -1993,50 +1993,50 @@
           "prize": 100,
           "oddsOneIn": 369.23,
           "start": 13650,
-          "claimed": 2021,
-          "remaining": 11629
+          "claimed": 1991,
+          "remaining": 11659
         },
         {
           "prize": 30,
           "oddsOneIn": 213.02,
           "start": 23660,
-          "claimed": 3440,
-          "remaining": 20220
+          "claimed": 3388,
+          "remaining": 20272
         },
         {
           "prize": 20,
           "oddsOneIn": 58.82,
           "start": 85680,
-          "claimed": 12111,
-          "remaining": 73569
+          "claimed": 11934,
+          "remaining": 73746
         },
         {
           "prize": 10,
           "oddsOneIn": 66.67,
           "start": 75600,
-          "claimed": 10792,
-          "remaining": 64808
+          "claimed": 10643,
+          "remaining": 64957
         },
         {
           "prize": 5,
           "oddsOneIn": 55.56,
           "start": 90720,
-          "claimed": 12734,
-          "remaining": 77986
+          "claimed": 12557,
+          "remaining": 78163
         },
         {
           "prize": 3,
           "oddsOneIn": 13.33,
           "start": 378000,
-          "claimed": 52446,
-          "remaining": 325554
+          "claimed": 51669,
+          "remaining": 326331
         },
         {
           "prize": 2,
           "oddsOneIn": 11.76,
           "start": 428400,
-          "claimed": 58765,
-          "remaining": 369635
+          "claimed": 57947,
+          "remaining": 370453
         }
       ],
       "identifier": "winner-winner-chicken-dinner-2025-2",
@@ -2071,71 +2071,71 @@
           "prize": 2000,
           "oddsOneIn": 7200,
           "start": 1400,
-          "claimed": 188,
-          "remaining": 1212
+          "claimed": 184,
+          "remaining": 1216
         },
         {
           "prize": 1000,
           "oddsOneIn": 1274.34,
           "start": 7910,
-          "claimed": 1053,
-          "remaining": 6857
+          "claimed": 1046,
+          "remaining": 6864
         },
         {
           "prize": 500,
           "oddsOneIn": 774.19,
           "start": 13020,
-          "claimed": 1941,
-          "remaining": 11079
+          "claimed": 1916,
+          "remaining": 11104
         },
         {
           "prize": 200,
           "oddsOneIn": 480,
           "start": 21000,
-          "claimed": 3128,
-          "remaining": 17872
+          "claimed": 3096,
+          "remaining": 17904
         },
         {
           "prize": 100,
           "oddsOneIn": 27.84,
           "start": 362040,
-          "claimed": 53942,
-          "remaining": 308098
+          "claimed": 53371,
+          "remaining": 308669
         },
         {
           "prize": 50,
           "oddsOneIn": 50,
           "start": 201600,
-          "claimed": 30049,
-          "remaining": 171551
+          "claimed": 29686,
+          "remaining": 171914
         },
         {
           "prize": 40,
           "oddsOneIn": 33.33,
           "start": 302400,
-          "claimed": 44812,
-          "remaining": 257588
+          "claimed": 44331,
+          "remaining": 258069
         },
         {
           "prize": 30,
           "oddsOneIn": 25,
           "start": 403200,
-          "claimed": 60003,
-          "remaining": 343197
+          "claimed": 59326,
+          "remaining": 343874
         },
         {
           "prize": 25,
           "oddsOneIn": 12.5,
           "start": 806400,
-          "claimed": 119965,
-          "remaining": 686435
+          "claimed": 118564,
+          "remaining": 687836
         },
         {
           "prize": 20,
           "oddsOneIn": 7.14,
           "start": 1411200,
-          "claimed": 209090,
-          "remaining": 1202110
+          "claimed": 206850,
+          "remaining": 1204350
         }
       ],
       "identifier": "5000000-100x-cashword-reorder-2025",
@@ -2163,8 +2163,8 @@
           "prize": 5000,
           "oddsOneIn": 6545.45,
           "start": 770,
-          "claimed": 441,
-          "remaining": 329
+          "claimed": 440,
+          "remaining": 330
         },
         {
           "prize": 2000,
@@ -2177,64 +2177,64 @@
           "prize": 1000,
           "oddsOneIn": 1371.43,
           "start": 3675,
-          "claimed": 2156,
-          "remaining": 1519
+          "claimed": 2153,
+          "remaining": 1522
         },
         {
           "prize": 500,
           "oddsOneIn": 786.89,
           "start": 6405,
-          "claimed": 3904,
-          "remaining": 2501
+          "claimed": 3895,
+          "remaining": 2510
         },
         {
           "prize": 200,
           "oddsOneIn": 500,
           "start": 10080,
-          "claimed": 6124,
-          "remaining": 3956
+          "claimed": 6114,
+          "remaining": 3966
         },
         {
           "prize": 100,
           "oddsOneIn": 28.15,
           "start": 179060,
-          "claimed": 108585,
-          "remaining": 70475
+          "claimed": 108417,
+          "remaining": 70643
         },
         {
           "prize": 50,
           "oddsOneIn": 50,
           "start": 100800,
-          "claimed": 60993,
-          "remaining": 39807
+          "claimed": 60896,
+          "remaining": 39904
         },
         {
           "prize": 40,
           "oddsOneIn": 50,
           "start": 100800,
-          "claimed": 60818,
-          "remaining": 39982
+          "claimed": 60712,
+          "remaining": 40088
         },
         {
           "prize": 30,
           "oddsOneIn": 25,
           "start": 201600,
-          "claimed": 120987,
-          "remaining": 80613
+          "claimed": 120807,
+          "remaining": 80793
         },
         {
           "prize": 25,
           "oddsOneIn": 12.5,
           "start": 403200,
-          "claimed": 241620,
-          "remaining": 161580
+          "claimed": 241214,
+          "remaining": 161986
         },
         {
           "prize": 20,
           "oddsOneIn": 7.14,
           "start": 705600,
-          "claimed": 423579,
-          "remaining": 282021
+          "claimed": 422829,
+          "remaining": 282771
         }
       ],
       "identifier": "250000-winter-winnings",
@@ -2262,15 +2262,15 @@
           "prize": 100,
           "oddsOneIn": 32.22,
           "start": 218981,
-          "claimed": 216292,
-          "remaining": 2689
+          "claimed": 216274,
+          "remaining": 2707
         },
         {
           "prize": 50,
           "oddsOneIn": 12.5,
           "start": 564480,
-          "claimed": 556823,
-          "remaining": 7657
+          "claimed": 556764,
+          "remaining": 7716
         }
       ],
       "identifier": "merry-mint-blowout-2025",
@@ -2319,50 +2319,50 @@
           "prize": 100,
           "oddsOneIn": 83.33,
           "start": 36288,
-          "claimed": 31645,
-          "remaining": 4643
+          "claimed": 31642,
+          "remaining": 4646
         },
         {
           "prize": 50,
           "oddsOneIn": 125,
           "start": 24192,
-          "claimed": 21266,
-          "remaining": 2926
+          "claimed": 21264,
+          "remaining": 2928
         },
         {
           "prize": 40,
           "oddsOneIn": 187.5,
           "start": 16128,
-          "claimed": 14109,
-          "remaining": 2019
+          "claimed": 14108,
+          "remaining": 2020
         },
         {
           "prize": 25,
           "oddsOneIn": 150,
           "start": 20160,
-          "claimed": 17575,
-          "remaining": 2585
+          "claimed": 17571,
+          "remaining": 2589
         },
         {
           "prize": 20,
           "oddsOneIn": 39.47,
           "start": 76608,
-          "claimed": 67010,
-          "remaining": 9598
+          "claimed": 67005,
+          "remaining": 9603
         },
         {
           "prize": 10,
           "oddsOneIn": 25,
           "start": 120960,
-          "claimed": 104864,
-          "remaining": 16096
+          "claimed": 104852,
+          "remaining": 16108
         },
         {
           "prize": 5,
           "oddsOneIn": 7.01,
           "start": 431424,
-          "claimed": 369769,
-          "remaining": 61655
+          "claimed": 369715,
+          "remaining": 61709
         }
       ],
       "identifier": "200000-elf-cashword=2025",
@@ -2390,57 +2390,57 @@
           "prize": 1000,
           "oddsOneIn": 7578.95,
           "start": 1064,
-          "claimed": 842,
-          "remaining": 222
+          "claimed": 840,
+          "remaining": 224
         },
         {
           "prize": 500,
           "oddsOneIn": 2149.25,
           "start": 3752,
-          "claimed": 3008,
-          "remaining": 744
+          "claimed": 3004,
+          "remaining": 748
         },
         {
           "prize": 100,
           "oddsOneIn": 139.53,
           "start": 57792,
-          "claimed": 45796,
-          "remaining": 11996
+          "claimed": 45762,
+          "remaining": 12030
         },
         {
           "prize": 50,
           "oddsOneIn": 150,
           "start": 53760,
-          "claimed": 41609,
-          "remaining": 12151
+          "claimed": 41560,
+          "remaining": 12200
         },
         {
           "prize": 20,
           "oddsOneIn": 30,
           "start": 268800,
-          "claimed": 206999,
-          "remaining": 61801
+          "claimed": 206766,
+          "remaining": 62034
         },
         {
           "prize": 15,
           "oddsOneIn": 150,
           "start": 53760,
-          "claimed": 41357,
-          "remaining": 12403
+          "claimed": 41320,
+          "remaining": 12440
         },
         {
           "prize": 10,
           "oddsOneIn": 11.54,
           "start": 698880,
-          "claimed": 529766,
-          "remaining": 169114
+          "claimed": 529206,
+          "remaining": 169674
         },
         {
           "prize": 5,
           "oddsOneIn": 10,
           "start": 806400,
-          "claimed": 590400,
-          "remaining": 216000
+          "claimed": 589715,
+          "remaining": 216685
         }
       ],
       "identifier": "1000000-winter-winnings-2025",
@@ -2489,57 +2489,57 @@
           "prize": 100,
           "oddsOneIn": 600,
           "start": 10080,
-          "claimed": 8084,
-          "remaining": 1996
+          "claimed": 8074,
+          "remaining": 2006
         },
         {
           "prize": 40,
           "oddsOneIn": 382.98,
           "start": 15792,
-          "claimed": 12687,
-          "remaining": 3105
+          "claimed": 12673,
+          "remaining": 3119
         },
         {
           "prize": 25,
           "oddsOneIn": 275.33,
           "start": 21966,
-          "claimed": 17391,
-          "remaining": 4575
+          "claimed": 17365,
+          "remaining": 4601
         },
         {
           "prize": 20,
           "oddsOneIn": 100,
           "start": 60480,
-          "claimed": 46392,
-          "remaining": 14088
+          "claimed": 46335,
+          "remaining": 14145
         },
         {
           "prize": 10,
           "oddsOneIn": 40,
           "start": 151200,
-          "claimed": 114791,
-          "remaining": 36409
+          "claimed": 114635,
+          "remaining": 36565
         },
         {
           "prize": 5,
           "oddsOneIn": 50,
           "start": 120960,
-          "claimed": 92707,
-          "remaining": 28253
+          "claimed": 92586,
+          "remaining": 28374
         },
         {
           "prize": 4,
           "oddsOneIn": 13.33,
           "start": 453600,
-          "claimed": 344122,
-          "remaining": 109478
+          "claimed": 343710,
+          "remaining": 109890
         },
         {
           "prize": 2,
           "oddsOneIn": 12.5,
           "start": 483840,
-          "claimed": 358361,
-          "remaining": 125479
+          "claimed": 357884,
+          "remaining": 125956
         }
       ],
       "identifier": "100000-winter-winnings-2025",
@@ -2574,64 +2574,64 @@
           "prize": 40,
           "oddsOneIn": 1800,
           "start": 2240,
-          "claimed": 2004,
-          "remaining": 236
+          "claimed": 2003,
+          "remaining": 237
         },
         {
           "prize": 25,
           "oddsOneIn": 986.3,
           "start": 4088,
-          "claimed": 3586,
-          "remaining": 502
+          "claimed": 3583,
+          "remaining": 505
         },
         {
           "prize": 20,
           "oddsOneIn": 150,
           "start": 26880,
-          "claimed": 23479,
-          "remaining": 3401
+          "claimed": 23469,
+          "remaining": 3411
         },
         {
           "prize": 10,
           "oddsOneIn": 93.75,
           "start": 43008,
-          "claimed": 36443,
-          "remaining": 6565
+          "claimed": 36418,
+          "remaining": 6590
         },
         {
           "prize": 5,
           "oddsOneIn": 93.75,
           "start": 43008,
-          "claimed": 36269,
-          "remaining": 6739
+          "claimed": 36247,
+          "remaining": 6761
         },
         {
           "prize": 4,
           "oddsOneIn": 93.75,
           "start": 43008,
-          "claimed": 35761,
-          "remaining": 7247
+          "claimed": 35746,
+          "remaining": 7262
         },
         {
           "prize": 3,
           "oddsOneIn": 68.18,
           "start": 59136,
-          "claimed": 48580,
-          "remaining": 10556
+          "claimed": 48548,
+          "remaining": 10588
         },
         {
           "prize": 2,
           "oddsOneIn": 13.64,
           "start": 295680,
-          "claimed": 240075,
-          "remaining": 55605
+          "claimed": 239928,
+          "remaining": 55752
         },
         {
           "prize": 1,
           "oddsOneIn": 12.5,
           "start": 322560,
-          "claimed": 251394,
-          "remaining": 71166
+          "claimed": 251232,
+          "remaining": 71328
         }
       ],
       "identifier": "10000-winter-winnings-2025",
@@ -2666,78 +2666,78 @@
           "prize": 1000,
           "oddsOneIn": 4000,
           "start": 6300,
-          "claimed": 2033,
-          "remaining": 4267
+          "claimed": 2032,
+          "remaining": 4268
         },
         {
           "prize": 500,
           "oddsOneIn": 1617.98,
           "start": 15575,
-          "claimed": 5464,
-          "remaining": 10111
+          "claimed": 5426,
+          "remaining": 10149
         },
         {
           "prize": 200,
           "oddsOneIn": 770.05,
           "start": 32725,
-          "claimed": 11539,
-          "remaining": 21186
+          "claimed": 11473,
+          "remaining": 21252
         },
         {
           "prize": 100,
           "oddsOneIn": 70,
           "start": 359975,
-          "claimed": 127582,
-          "remaining": 232393
+          "claimed": 126755,
+          "remaining": 233220
         },
         {
           "prize": 50,
           "oddsOneIn": 100,
           "start": 252000,
-          "claimed": 89500,
-          "remaining": 162500
+          "claimed": 88940,
+          "remaining": 163060
         },
         {
           "prize": 40,
           "oddsOneIn": 100,
           "start": 252000,
-          "claimed": 89558,
-          "remaining": 162442
+          "claimed": 88988,
+          "remaining": 163012
         },
         {
           "prize": 30,
           "oddsOneIn": 100,
           "start": 252000,
-          "claimed": 88819,
-          "remaining": 163181
+          "claimed": 88312,
+          "remaining": 163688
         },
         {
           "prize": 25,
           "oddsOneIn": 100,
           "start": 252000,
-          "claimed": 89442,
-          "remaining": 162558
+          "claimed": 88870,
+          "remaining": 163130
         },
         {
           "prize": 20,
           "oddsOneIn": 10,
           "start": 2520000,
-          "claimed": 893974,
-          "remaining": 1626026
+          "claimed": 888545,
+          "remaining": 1631455
         },
         {
           "prize": 15,
           "oddsOneIn": 33.33,
           "start": 756000,
-          "claimed": 267914,
-          "remaining": 488086
+          "claimed": 266354,
+          "remaining": 489646
         },
         {
           "prize": 10,
           "oddsOneIn": 8.33,
           "start": 3024000,
-          "claimed": 1068581,
-          "remaining": 1955419
+          "claimed": 1062034,
+          "remaining": 1961966
         }
       ],
       "identifier": "2M-50X-cashword-2025",
@@ -2758,50 +2758,50 @@
           "prize": 500,
           "oddsOneIn": 223.95,
           "start": 40509,
-          "claimed": 24157,
-          "remaining": 16352
+          "claimed": 24085,
+          "remaining": 16424
         },
         {
           "prize": 100,
           "oddsOneIn": 67.29,
           "start": 134820,
-          "claimed": 80321,
-          "remaining": 54499
+          "claimed": 80050,
+          "remaining": 54770
         },
         {
           "prize": 50,
           "oddsOneIn": 100,
           "start": 90720,
-          "claimed": 53859,
-          "remaining": 36861
+          "claimed": 53706,
+          "remaining": 37014
         },
         {
           "prize": 25,
           "oddsOneIn": 100,
           "start": 90720,
-          "claimed": 53735,
-          "remaining": 36985
+          "claimed": 53560,
+          "remaining": 37160
         },
         {
           "prize": 20,
           "oddsOneIn": 12.5,
           "start": 725760,
-          "claimed": 428512,
-          "remaining": 297248
+          "claimed": 427039,
+          "remaining": 298721
         },
         {
           "prize": 15,
           "oddsOneIn": 20,
           "start": 453600,
-          "claimed": 267491,
-          "remaining": 186109
+          "claimed": 266565,
+          "remaining": 187035
         },
         {
           "prize": 10,
           "oddsOneIn": 8.33,
           "start": 1088640,
-          "claimed": 638459,
-          "remaining": 450181
+          "claimed": 636280,
+          "remaining": 452360
         }
       ],
       "identifier": "500-mania-2025",
@@ -2843,43 +2843,43 @@
           "prize": 100,
           "oddsOneIn": 132.72,
           "start": 30380,
-          "claimed": 28657,
-          "remaining": 1723
+          "claimed": 28647,
+          "remaining": 1733
         },
         {
           "prize": 50,
           "oddsOneIn": 150,
           "start": 26880,
-          "claimed": 25295,
-          "remaining": 1585
+          "claimed": 25284,
+          "remaining": 1596
         },
         {
           "prize": 25,
           "oddsOneIn": 75,
           "start": 53760,
-          "claimed": 50430,
-          "remaining": 3330
+          "claimed": 50413,
+          "remaining": 3347
         },
         {
           "prize": 20,
           "oddsOneIn": 75,
           "start": 53760,
-          "claimed": 50343,
-          "remaining": 3417
+          "claimed": 50324,
+          "remaining": 3436
         },
         {
           "prize": 10,
           "oddsOneIn": 9.38,
           "start": 430080,
-          "claimed": 401328,
-          "remaining": 28752
+          "claimed": 401190,
+          "remaining": 28890
         },
         {
           "prize": 5,
           "oddsOneIn": 10.71,
           "start": 376320,
-          "claimed": 341759,
-          "remaining": 34561
+          "claimed": 341654,
+          "remaining": 34666
         }
       ],
       "identifier": "200000-halloween-2025",
@@ -2914,50 +2914,50 @@
           "prize": 500,
           "oddsOneIn": 1800,
           "start": 5600,
-          "claimed": 1878,
-          "remaining": 3722
+          "claimed": 1875,
+          "remaining": 3725
         },
         {
           "prize": 100,
           "oddsOneIn": 137.93,
           "start": 73080,
-          "claimed": 24541,
-          "remaining": 48539
+          "claimed": 24520,
+          "remaining": 48560
         },
         {
           "prize": 50,
           "oddsOneIn": 150,
           "start": 67200,
-          "claimed": 22461,
-          "remaining": 44739
+          "claimed": 22436,
+          "remaining": 44764
         },
         {
           "prize": 20,
           "oddsOneIn": 50,
           "start": 201600,
-          "claimed": 67530,
-          "remaining": 134070
+          "claimed": 67476,
+          "remaining": 134124
         },
         {
           "prize": 15,
           "oddsOneIn": 150,
           "start": 67200,
-          "claimed": 22304,
-          "remaining": 44896
+          "claimed": 22284,
+          "remaining": 44916
         },
         {
           "prize": 10,
           "oddsOneIn": 9.38,
           "start": 1075200,
-          "claimed": 355991,
-          "remaining": 719209
+          "claimed": 355643,
+          "remaining": 719557
         },
         {
           "prize": 5,
           "oddsOneIn": 10,
           "start": 1008000,
-          "claimed": 325308,
-          "remaining": 682692
+          "claimed": 324964,
+          "remaining": 683036
         }
       ],
       "identifier": "ghostbusters-2025",
@@ -2999,64 +2999,64 @@
           "prize": 400,
           "oddsOneIn": 7200,
           "start": 1120,
-          "claimed": 694,
-          "remaining": 426
+          "claimed": 691,
+          "remaining": 429
         },
         {
           "prize": 100,
           "oddsOneIn": 372.09,
           "start": 21672,
-          "claimed": 13113,
-          "remaining": 8559
+          "claimed": 13079,
+          "remaining": 8593
         },
         {
           "prize": 40,
           "oddsOneIn": 300,
           "start": 26880,
-          "claimed": 16244,
-          "remaining": 10636
+          "claimed": 16209,
+          "remaining": 10671
         },
         {
           "prize": 25,
           "oddsOneIn": 263.74,
           "start": 30576,
-          "claimed": 18331,
-          "remaining": 12245
+          "claimed": 18281,
+          "remaining": 12295
         },
         {
           "prize": 20,
           "oddsOneIn": 166.67,
           "start": 48384,
-          "claimed": 29121,
-          "remaining": 19263
+          "claimed": 29038,
+          "remaining": 19346
         },
         {
           "prize": 10,
           "oddsOneIn": 71.43,
           "start": 112896,
-          "claimed": 67117,
-          "remaining": 45779
+          "claimed": 66955,
+          "remaining": 45941
         },
         {
           "prize": 5,
           "oddsOneIn": 40,
           "start": 201600,
-          "claimed": 118997,
-          "remaining": 82603
+          "claimed": 118663,
+          "remaining": 82937
         },
         {
           "prize": 4,
           "oddsOneIn": 14.29,
           "start": 564480,
-          "claimed": 332339,
-          "remaining": 232141
+          "claimed": 331468,
+          "remaining": 233012
         },
         {
           "prize": 2,
           "oddsOneIn": 11.11,
           "start": 725760,
-          "claimed": 421700,
-          "remaining": 304060
+          "claimed": 420523,
+          "remaining": 305237
         }
       ],
       "identifier": "100000-bonus-scratch-2025",
@@ -3091,64 +3091,64 @@
           "prize": 1000,
           "oddsOneIn": 1274.34,
           "start": 7910,
-          "claimed": 2856,
-          "remaining": 5054
+          "claimed": 2854,
+          "remaining": 5056
         },
         {
           "prize": 500,
           "oddsOneIn": 734.69,
           "start": 13720,
-          "claimed": 5172,
-          "remaining": 8548
+          "claimed": 5153,
+          "remaining": 8567
         },
         {
           "prize": 200,
           "oddsOneIn": 460.06,
           "start": 21910,
-          "claimed": 8230,
-          "remaining": 13680
+          "claimed": 8214,
+          "remaining": 13696
         },
         {
           "prize": 100,
           "oddsOneIn": 28.46,
           "start": 354200,
-          "claimed": 132739,
-          "remaining": 221461
+          "claimed": 132379,
+          "remaining": 221821
         },
         {
           "prize": 50,
           "oddsOneIn": 50,
           "start": 201600,
-          "claimed": 75446,
-          "remaining": 126154
+          "claimed": 75236,
+          "remaining": 126364
         },
         {
           "prize": 40,
           "oddsOneIn": 50,
           "start": 201600,
-          "claimed": 75494,
-          "remaining": 126106
+          "claimed": 75274,
+          "remaining": 126326
         },
         {
           "prize": 30,
           "oddsOneIn": 25,
           "start": 403200,
-          "claimed": 150348,
-          "remaining": 252852
+          "claimed": 149951,
+          "remaining": 253249
         },
         {
           "prize": 25,
           "oddsOneIn": 12.5,
           "start": 806400,
-          "claimed": 298337,
-          "remaining": 508063
+          "claimed": 297528,
+          "remaining": 508872
         },
         {
           "prize": 20,
           "oddsOneIn": 7.14,
           "start": 1411200,
-          "claimed": 524901,
-          "remaining": 886299
+          "claimed": 523500,
+          "remaining": 887700
         }
       ],
       "identifier": "10-million-instant-millions-2025",
@@ -3183,57 +3183,57 @@
           "prize": 1000,
           "oddsOneIn": 2322.58,
           "start": 4340,
-          "claimed": 2472,
-          "remaining": 1868
+          "claimed": 2470,
+          "remaining": 1870
         },
         {
           "prize": 500,
           "oddsOneIn": 676.06,
           "start": 14910,
-          "claimed": 8750,
-          "remaining": 6160
+          "claimed": 8734,
+          "remaining": 6176
         },
         {
           "prize": 100,
           "oddsOneIn": 60.35,
           "start": 167020,
-          "claimed": 97322,
-          "remaining": 69698
+          "claimed": 97108,
+          "remaining": 69912
         },
         {
           "prize": 50,
           "oddsOneIn": 100,
           "start": 100800,
-          "claimed": 58631,
-          "remaining": 42169
+          "claimed": 58501,
+          "remaining": 42299
         },
         {
           "prize": 25,
           "oddsOneIn": 100,
           "start": 100800,
-          "claimed": 58839,
-          "remaining": 41961
+          "claimed": 58688,
+          "remaining": 42112
         },
         {
           "prize": 20,
           "oddsOneIn": 12.5,
           "start": 806400,
-          "claimed": 467021,
-          "remaining": 339379
+          "claimed": 465950,
+          "remaining": 340450
         },
         {
           "prize": 15,
           "oddsOneIn": 20,
           "start": 504000,
-          "claimed": 292147,
-          "remaining": 211853
+          "claimed": 291487,
+          "remaining": 212513
         },
         {
           "prize": 10,
           "oddsOneIn": 8.33,
           "start": 1209600,
-          "claimed": 699219,
-          "remaining": 510381
+          "claimed": 697721,
+          "remaining": 511879
         }
       ],
       "identifier": "100000-max-winnings-2025",
@@ -3261,50 +3261,50 @@
           "prize": 1000,
           "oddsOneIn": 7578.95,
           "start": 1596,
-          "claimed": 886,
-          "remaining": 710
+          "claimed": 885,
+          "remaining": 711
         },
         {
           "prize": 500,
           "oddsOneIn": 1142.86,
           "start": 10584,
-          "claimed": 6145,
-          "remaining": 4439
+          "claimed": 6130,
+          "remaining": 4454
         },
         {
           "prize": 100,
           "oddsOneIn": 187.26,
           "start": 64596,
-          "claimed": 37393,
-          "remaining": 27203
+          "claimed": 37299,
+          "remaining": 27297
         },
         {
           "prize": 50,
           "oddsOneIn": 150,
           "start": 80640,
-          "claimed": 46511,
-          "remaining": 34129
+          "claimed": 46387,
+          "remaining": 34253
         },
         {
           "prize": 25,
           "oddsOneIn": 150,
           "start": 80640,
-          "claimed": 46389,
-          "remaining": 34251
+          "claimed": 46273,
+          "remaining": 34367
         },
         {
           "prize": 20,
           "oddsOneIn": 50,
           "start": 241920,
-          "claimed": 138835,
-          "remaining": 103085
+          "claimed": 138489,
+          "remaining": 103431
         },
         {
           "prize": 10,
           "oddsOneIn": 6.82,
           "start": 1774080,
-          "claimed": 1011104,
-          "remaining": 762976
+          "claimed": 1008636,
+          "remaining": 765444
         }
       ],
       "identifier": "1000000-big-money-2025",
@@ -3339,50 +3339,50 @@
           "prize": 500,
           "oddsOneIn": 12000,
           "start": 924,
-          "claimed": 400,
-          "remaining": 524
+          "claimed": 399,
+          "remaining": 525
         },
         {
           "prize": 100,
           "oddsOneIn": 394.52,
           "start": 28105,
-          "claimed": 12053,
-          "remaining": 16052
+          "claimed": 12012,
+          "remaining": 16093
         },
         {
           "prize": 50,
           "oddsOneIn": 266.67,
           "start": 41580,
-          "claimed": 17752,
-          "remaining": 23828
+          "claimed": 17711,
+          "remaining": 23869
         },
         {
           "prize": 20,
           "oddsOneIn": 142.86,
           "start": 77616,
-          "claimed": 32928,
-          "remaining": 44688
+          "claimed": 32849,
+          "remaining": 44767
         },
         {
           "prize": 10,
           "oddsOneIn": 52.63,
           "start": 210672,
-          "claimed": 88796,
-          "remaining": 121876
+          "claimed": 88513,
+          "remaining": 122159
         },
         {
           "prize": 5,
           "oddsOneIn": 71.43,
           "start": 155232,
-          "claimed": 64951,
-          "remaining": 90281
+          "claimed": 64753,
+          "remaining": 90479
         },
         {
           "prize": 4,
           "oddsOneIn": 8.33,
           "start": 1330560,
-          "claimed": 552779,
-          "remaining": 777781
+          "claimed": 551123,
+          "remaining": 779437
         }
       ],
       "identifier": "100000-two-for-the-money-2025",
@@ -3410,64 +3410,64 @@
           "prize": 100,
           "oddsOneIn": 2823.53,
           "start": 2856,
-          "claimed": 2008,
-          "remaining": 848
+          "claimed": 2000,
+          "remaining": 856
         },
         {
           "prize": 40,
           "oddsOneIn": 1800,
           "start": 4480,
-          "claimed": 3132,
-          "remaining": 1348
+          "claimed": 3120,
+          "remaining": 1360
         },
         {
           "prize": 25,
           "oddsOneIn": 986.3,
           "start": 8176,
-          "claimed": 5760,
-          "remaining": 2416
+          "claimed": 5739,
+          "remaining": 2437
         },
         {
           "prize": 20,
           "oddsOneIn": 150,
           "start": 53760,
-          "claimed": 37301,
-          "remaining": 16459
+          "claimed": 37221,
+          "remaining": 16539
         },
         {
           "prize": 10,
           "oddsOneIn": 93.75,
           "start": 86016,
-          "claimed": 58624,
-          "remaining": 27392
+          "claimed": 58453,
+          "remaining": 27563
         },
         {
           "prize": 5,
           "oddsOneIn": 93.75,
           "start": 86016,
-          "claimed": 58831,
-          "remaining": 27185
+          "claimed": 58672,
+          "remaining": 27344
         },
         {
           "prize": 4,
           "oddsOneIn": 93.75,
           "start": 86016,
-          "claimed": 58407,
-          "remaining": 27609
+          "claimed": 58269,
+          "remaining": 27747
         },
         {
           "prize": 3,
           "oddsOneIn": 68.18,
           "start": 118272,
-          "claimed": 79575,
-          "remaining": 38697
+          "claimed": 79359,
+          "remaining": 38913
         },
         {
           "prize": 2,
           "oddsOneIn": 8.82,
           "start": 913920,
-          "claimed": 608047,
-          "remaining": 305873
+          "claimed": 606482,
+          "remaining": 307438
         }
       ],
       "identifier": "10000-bonus-play-2025",
@@ -3502,57 +3502,57 @@
           "prize": 500,
           "oddsOneIn": 2666.67,
           "start": 3780,
-          "claimed": 2527,
-          "remaining": 1253
+          "claimed": 2522,
+          "remaining": 1258
         },
         {
           "prize": 150,
           "oddsOneIn": 2181.82,
           "start": 4620,
-          "claimed": 3079,
-          "remaining": 1541
+          "claimed": 3075,
+          "remaining": 1545
         },
         {
           "prize": 100,
           "oddsOneIn": 145.75,
           "start": 69160,
-          "claimed": 45898,
-          "remaining": 23262
+          "claimed": 45798,
+          "remaining": 23362
         },
         {
           "prize": 50,
           "oddsOneIn": 150,
           "start": 67200,
-          "claimed": 44419,
-          "remaining": 22781
+          "claimed": 44321,
+          "remaining": 22879
         },
         {
           "prize": 25,
           "oddsOneIn": 150,
           "start": 67200,
-          "claimed": 44346,
-          "remaining": 22854
+          "claimed": 44269,
+          "remaining": 22931
         },
         {
           "prize": 20,
           "oddsOneIn": 50,
           "start": 201600,
-          "claimed": 133102,
-          "remaining": 68498
+          "claimed": 132836,
+          "remaining": 68764
         },
         {
           "prize": 10,
           "oddsOneIn": 9.38,
           "start": 1075200,
-          "claimed": 701782,
-          "remaining": 373418
+          "claimed": 700353,
+          "remaining": 374847
         },
         {
           "prize": 5,
           "oddsOneIn": 10,
           "start": 1008000,
-          "claimed": 629304,
-          "remaining": 378696
+          "claimed": 627960,
+          "remaining": 380040
         }
       ],
       "identifier": "1000000-bonus-wins-2025",
@@ -3587,50 +3587,50 @@
           "prize": 500,
           "oddsOneIn": 1152,
           "start": 13125,
-          "claimed": 6248,
-          "remaining": 6877
+          "claimed": 6231,
+          "remaining": 6894
         },
         {
           "prize": 100,
           "oddsOneIn": 182.51,
           "start": 82845,
-          "claimed": 39435,
-          "remaining": 43410
+          "claimed": 39341,
+          "remaining": 43504
         },
         {
           "prize": 50,
           "oddsOneIn": 150,
           "start": 100800,
-          "claimed": 47848,
-          "remaining": 52952
+          "claimed": 47729,
+          "remaining": 53071
         },
         {
           "prize": 25,
           "oddsOneIn": 150,
           "start": 100800,
-          "claimed": 47664,
-          "remaining": 53136
+          "claimed": 47552,
+          "remaining": 53248
         },
         {
           "prize": 20,
           "oddsOneIn": 50,
           "start": 302400,
-          "claimed": 142976,
-          "remaining": 159424
+          "claimed": 142654,
+          "remaining": 159746
         },
         {
           "prize": 10,
           "oddsOneIn": 10,
           "start": 1512000,
-          "claimed": 709528,
-          "remaining": 802472
+          "claimed": 707807,
+          "remaining": 804193
         },
         {
           "prize": 5,
           "oddsOneIn": 10,
           "start": 1512000,
-          "claimed": 690477,
-          "remaining": 821523
+          "claimed": 688809,
+          "remaining": 823191
         }
       ],
       "identifier": "500-cash-2025",
@@ -3672,50 +3672,50 @@
           "prize": 100,
           "oddsOneIn": 351.22,
           "start": 28700,
-          "claimed": 18427,
-          "remaining": 10273
+          "claimed": 18374,
+          "remaining": 10326
         },
         {
           "prize": 40,
           "oddsOneIn": 219.51,
           "start": 45920,
-          "claimed": 29544,
-          "remaining": 16376
+          "claimed": 29470,
+          "remaining": 16450
         },
         {
           "prize": 20,
           "oddsOneIn": 111.11,
           "start": 90720,
-          "claimed": 58060,
-          "remaining": 32660
+          "claimed": 57907,
+          "remaining": 32813
         },
         {
           "prize": 10,
           "oddsOneIn": 62.5,
           "start": 161280,
-          "claimed": 102922,
-          "remaining": 58358
+          "claimed": 102653,
+          "remaining": 58627
         },
         {
           "prize": 5,
           "oddsOneIn": 50,
           "start": 201600,
-          "claimed": 127566,
-          "remaining": 74034
+          "claimed": 127227,
+          "remaining": 74373
         },
         {
           "prize": 4,
           "oddsOneIn": 13.33,
           "start": 756000,
-          "claimed": 476345,
-          "remaining": 279655
+          "claimed": 475027,
+          "remaining": 280973
         },
         {
           "prize": 2,
           "oddsOneIn": 11.11,
           "start": 907200,
-          "claimed": 565295,
-          "remaining": 341905
+          "claimed": 563762,
+          "remaining": 343438
         }
       ],
       "identifier": "100-stacked-2025",
@@ -3764,43 +3764,43 @@
           "prize": 30,
           "oddsOneIn": 213.02,
           "start": 23660,
-          "claimed": 21128,
-          "remaining": 2532
+          "claimed": 21127,
+          "remaining": 2533
         },
         {
           "prize": 20,
           "oddsOneIn": 58.82,
           "start": 85680,
-          "claimed": 74780,
-          "remaining": 10900
+          "claimed": 74774,
+          "remaining": 10906
         },
         {
           "prize": 10,
           "oddsOneIn": 66.67,
           "start": 75600,
-          "claimed": 66868,
-          "remaining": 8732
+          "claimed": 66863,
+          "remaining": 8737
         },
         {
           "prize": 5,
           "oddsOneIn": 55.56,
           "start": 90720,
-          "claimed": 79660,
-          "remaining": 11060
+          "claimed": 79652,
+          "remaining": 11068
         },
         {
           "prize": 3,
           "oddsOneIn": 13.33,
           "start": 378000,
-          "claimed": 326690,
-          "remaining": 51310
+          "claimed": 326666,
+          "remaining": 51334
         },
         {
           "prize": 2,
           "oddsOneIn": 11.76,
           "start": 428400,
-          "claimed": 366634,
-          "remaining": 61766
+          "claimed": 366602,
+          "remaining": 61798
         }
       ],
       "identifier": "winner-winner-chicken-dinner-2025",
@@ -3821,22 +3821,22 @@
           "prize": 250,
           "oddsOneIn": 553.85,
           "start": 10920,
-          "claimed": 10571,
-          "remaining": 349
+          "claimed": 10570,
+          "remaining": 350
         },
         {
           "prize": 50,
           "oddsOneIn": 36.4,
           "start": 166152,
-          "claimed": 161037,
-          "remaining": 5115
+          "claimed": 160975,
+          "remaining": 5177
         },
         {
           "prize": 25,
           "oddsOneIn": 12.5,
           "start": 483840,
-          "claimed": 467680,
-          "remaining": 16160
+          "claimed": 467543,
+          "remaining": 16297
         }
       ],
       "identifier": "25-50-and-250-celebration-blowout-2025-3",
@@ -3857,8 +3857,8 @@
           "prize": 5000,
           "oddsOneIn": 6461.54,
           "start": 1872,
-          "claimed": 760,
-          "remaining": 1112
+          "claimed": 759,
+          "remaining": 1113
         },
         {
           "prize": 2000,
@@ -3871,64 +3871,64 @@
           "prize": 1000,
           "oddsOneIn": 1800,
           "start": 6720,
-          "claimed": 2734,
-          "remaining": 3986
+          "claimed": 2730,
+          "remaining": 3990
         },
         {
           "prize": 500,
           "oddsOneIn": 1021.28,
           "start": 11844,
-          "claimed": 5021,
-          "remaining": 6823
+          "claimed": 5010,
+          "remaining": 6834
         },
         {
           "prize": 200,
           "oddsOneIn": 159.47,
           "start": 75852,
-          "claimed": 31987,
-          "remaining": 43865
+          "claimed": 31892,
+          "remaining": 43960
         },
         {
           "prize": 100,
           "oddsOneIn": 33.33,
           "start": 362880,
-          "claimed": 152776,
-          "remaining": 210104
+          "claimed": 152438,
+          "remaining": 210442
         },
         {
           "prize": 50,
           "oddsOneIn": 50,
           "start": 241920,
-          "claimed": 101631,
-          "remaining": 140289
+          "claimed": 101399,
+          "remaining": 140521
         },
         {
           "prize": 40,
           "oddsOneIn": 50,
           "start": 241920,
-          "claimed": 101281,
-          "remaining": 140639
+          "claimed": 101035,
+          "remaining": 140885
         },
         {
           "prize": 30,
           "oddsOneIn": 25,
           "start": 483840,
-          "claimed": 202431,
-          "remaining": 281409
+          "claimed": 201954,
+          "remaining": 281886
         },
         {
           "prize": 25,
           "oddsOneIn": 12.5,
           "start": 967680,
-          "claimed": 399076,
-          "remaining": 568604
+          "claimed": 398081,
+          "remaining": 569599
         },
         {
           "prize": 20,
           "oddsOneIn": 7.14,
           "start": 1693440,
-          "claimed": 704646,
-          "remaining": 988794
+          "claimed": 703074,
+          "remaining": 990366
         }
       ],
       "identifier": "200x-2025",
@@ -3963,71 +3963,71 @@
           "prize": 1000,
           "oddsOneIn": 2086.96,
           "start": 7728,
-          "claimed": 4932,
-          "remaining": 2796
+          "claimed": 4930,
+          "remaining": 2798
         },
         {
           "prize": 500,
           "oddsOneIn": 1263.16,
           "start": 12768,
-          "claimed": 8607,
-          "remaining": 4161
+          "claimed": 8594,
+          "remaining": 4174
         },
         {
           "prize": 300,
           "oddsOneIn": 615.38,
           "start": 26208,
-          "claimed": 17690,
-          "remaining": 8518
+          "claimed": 17645,
+          "remaining": 8563
         },
         {
           "prize": 150,
           "oddsOneIn": 473.68,
           "start": 34048,
-          "claimed": 23000,
-          "remaining": 11048
+          "claimed": 22954,
+          "remaining": 11094
         },
         {
           "prize": 100,
           "oddsOneIn": 100,
           "start": 161280,
-          "claimed": 108028,
-          "remaining": 53252
+          "claimed": 107797,
+          "remaining": 53483
         },
         {
           "prize": 50,
           "oddsOneIn": 100,
           "start": 161280,
-          "claimed": 108351,
-          "remaining": 52929
+          "claimed": 108110,
+          "remaining": 53170
         },
         {
           "prize": 25,
           "oddsOneIn": 100,
           "start": 161280,
-          "claimed": 107944,
-          "remaining": 53336
+          "claimed": 107714,
+          "remaining": 53566
         },
         {
           "prize": 20,
           "oddsOneIn": 12.5,
           "start": 1290240,
-          "claimed": 865489,
-          "remaining": 424751
+          "claimed": 863681,
+          "remaining": 426559
         },
         {
           "prize": 15,
           "oddsOneIn": 16.67,
           "start": 967680,
-          "claimed": 645977,
-          "remaining": 321703
+          "claimed": 644515,
+          "remaining": 323165
         },
         {
           "prize": 10,
           "oddsOneIn": 9.09,
           "start": 1774080,
-          "claimed": 1175390,
-          "remaining": 598690
+          "claimed": 1172762,
+          "remaining": 601318
         }
       ],
       "identifier": "100x-2025",
@@ -4055,64 +4055,64 @@
           "prize": 1000,
           "oddsOneIn": 4800,
           "start": 3150,
-          "claimed": 1889,
-          "remaining": 1261
+          "claimed": 1888,
+          "remaining": 1262
         },
         {
           "prize": 500,
           "oddsOneIn": 2400,
           "start": 6300,
-          "claimed": 3922,
-          "remaining": 2378
+          "claimed": 3910,
+          "remaining": 2390
         },
         {
           "prize": 150,
           "oddsOneIn": 1252.17,
           "start": 12075,
-          "claimed": 7542,
-          "remaining": 4533
+          "claimed": 7530,
+          "remaining": 4545
         },
         {
           "prize": 100,
           "oddsOneIn": 145.6,
           "start": 103845,
-          "claimed": 63435,
-          "remaining": 40410
+          "claimed": 63303,
+          "remaining": 40542
         },
         {
           "prize": 50,
           "oddsOneIn": 150,
           "start": 100800,
-          "claimed": 62494,
-          "remaining": 38306
+          "claimed": 62363,
+          "remaining": 38437
         },
         {
           "prize": 20,
           "oddsOneIn": 50,
           "start": 302400,
-          "claimed": 186657,
-          "remaining": 115743
+          "claimed": 186291,
+          "remaining": 116109
         },
         {
           "prize": 15,
           "oddsOneIn": 150,
           "start": 100800,
-          "claimed": 61948,
-          "remaining": 38852
+          "claimed": 61859,
+          "remaining": 38941
         },
         {
           "prize": 10,
           "oddsOneIn": 10,
           "start": 1512000,
-          "claimed": 925348,
-          "remaining": 586652
+          "claimed": 923703,
+          "remaining": 588297
         },
         {
           "prize": 5,
           "oddsOneIn": 10,
           "start": 1512000,
-          "claimed": 893271,
-          "remaining": 618729
+          "claimed": 891648,
+          "remaining": 620352
         }
       ],
       "identifier": "50x-2025",
@@ -4154,64 +4154,64 @@
           "prize": 200,
           "oddsOneIn": 4645.16,
           "start": 2170,
-          "claimed": 1743,
-          "remaining": 427
+          "claimed": 1740,
+          "remaining": 430
         },
         {
           "prize": 100,
           "oddsOneIn": 389.19,
           "start": 25900,
-          "claimed": 20808,
-          "remaining": 5092
+          "claimed": 20757,
+          "remaining": 5143
         },
         {
           "prize": 40,
           "oddsOneIn": 494.85,
           "start": 20370,
-          "claimed": 16329,
-          "remaining": 4041
+          "claimed": 16299,
+          "remaining": 4071
         },
         {
           "prize": 25,
           "oddsOneIn": 355.56,
           "start": 28350,
-          "claimed": 23278,
-          "remaining": 5072
+          "claimed": 23241,
+          "remaining": 5109
         },
         {
           "prize": 20,
           "oddsOneIn": 142.86,
           "start": 70560,
-          "claimed": 56560,
-          "remaining": 14000
+          "claimed": 56444,
+          "remaining": 14116
         },
         {
           "prize": 10,
           "oddsOneIn": 58.82,
           "start": 171360,
-          "claimed": 139052,
-          "remaining": 32308
+          "claimed": 138796,
+          "remaining": 32564
         },
         {
           "prize": 5,
           "oddsOneIn": 62.5,
           "start": 161280,
-          "claimed": 130203,
-          "remaining": 31077
+          "claimed": 129952,
+          "remaining": 31328
         },
         {
           "prize": 4,
           "oddsOneIn": 13.33,
           "start": 756000,
-          "claimed": 608724,
-          "remaining": 147276
+          "claimed": 607578,
+          "remaining": 148422
         },
         {
           "prize": 2,
           "oddsOneIn": 10.53,
           "start": 957600,
-          "claimed": 756060,
-          "remaining": 201540
+          "claimed": 754621,
+          "remaining": 202979
         }
       ],
       "identifier": "20x-2025",
@@ -4253,64 +4253,64 @@
           "prize": 40,
           "oddsOneIn": 1051.09,
           "start": 7672,
-          "claimed": 6748,
-          "remaining": 924
+          "claimed": 6747,
+          "remaining": 925
         },
         {
           "prize": 25,
           "oddsOneIn": 888.89,
           "start": 9072,
-          "claimed": 8116,
-          "remaining": 956
+          "claimed": 8114,
+          "remaining": 958
         },
         {
           "prize": 20,
           "oddsOneIn": 250,
           "start": 32256,
-          "claimed": 27739,
-          "remaining": 4517
+          "claimed": 27735,
+          "remaining": 4521
         },
         {
           "prize": 10,
           "oddsOneIn": 107.14,
           "start": 75264,
-          "claimed": 65648,
-          "remaining": 9616
+          "claimed": 65631,
+          "remaining": 9633
         },
         {
           "prize": 5,
           "oddsOneIn": 187.5,
           "start": 43008,
-          "claimed": 37843,
-          "remaining": 5165
+          "claimed": 37832,
+          "remaining": 5176
         },
         {
           "prize": 4,
           "oddsOneIn": 75,
           "start": 107520,
-          "claimed": 94071,
-          "remaining": 13449
+          "claimed": 94052,
+          "remaining": 13468
         },
         {
           "prize": 3,
           "oddsOneIn": 93.75,
           "start": 86016,
-          "claimed": 75212,
-          "remaining": 10804
+          "claimed": 75198,
+          "remaining": 10818
         },
         {
           "prize": 2,
           "oddsOneIn": 14.15,
           "start": 569856,
-          "claimed": 490723,
-          "remaining": 79133
+          "claimed": 490644,
+          "remaining": 79212
         },
         {
           "prize": 1,
           "oddsOneIn": 10.71,
           "start": 752640,
-          "claimed": 625929,
-          "remaining": 126711
+          "claimed": 625806,
+          "remaining": 126834
         }
       ],
       "identifier": "10x-2025",
@@ -4352,29 +4352,29 @@
           "prize": 5000,
           "oddsOneIn": 3638.99,
           "start": 6925,
-          "claimed": 2468,
-          "remaining": 4457
+          "claimed": 2467,
+          "remaining": 4458
         },
         {
           "prize": 1000,
           "oddsOneIn": 832.37,
           "start": 30275,
-          "claimed": 10744,
-          "remaining": 19531
+          "claimed": 10733,
+          "remaining": 19542
         },
         {
           "prize": 500,
           "oddsOneIn": 45.11,
           "start": 558600,
-          "claimed": 207245,
-          "remaining": 351355
+          "claimed": 206735,
+          "remaining": 351865
         },
         {
           "prize": 100,
           "oddsOneIn": 4.55,
           "start": 5544000,
-          "claimed": 2053982,
-          "remaining": 3490018
+          "claimed": 2048476,
+          "remaining": 3495524
         }
       ],
       "identifier": "25000000-mega-money-2025",
@@ -4416,78 +4416,78 @@
           "prize": 500,
           "oddsOneIn": 18000,
           "start": 840,
-          "claimed": 229,
-          "remaining": 611
+          "claimed": 227,
+          "remaining": 613
         },
         {
           "prize": 300,
           "oddsOneIn": 13090.91,
           "start": 1155,
-          "claimed": 310,
-          "remaining": 845
+          "claimed": 308,
+          "remaining": 847
         },
         {
           "prize": 150,
           "oddsOneIn": 3600,
           "start": 4200,
-          "claimed": 1139,
-          "remaining": 3061
+          "claimed": 1135,
+          "remaining": 3065
         },
         {
           "prize": 100,
           "oddsOneIn": 83.33,
           "start": 181440,
-          "claimed": 49426,
-          "remaining": 132014
+          "claimed": 49269,
+          "remaining": 132171
         },
         {
           "prize": 60,
           "oddsOneIn": 750,
           "start": 20160,
-          "claimed": 5405,
-          "remaining": 14755
+          "claimed": 5377,
+          "remaining": 14783
         },
         {
           "prize": 50,
           "oddsOneIn": 150,
           "start": 100800,
-          "claimed": 27456,
-          "remaining": 73344
+          "claimed": 27360,
+          "remaining": 73440
         },
         {
           "prize": 40,
           "oddsOneIn": 250,
           "start": 60480,
-          "claimed": 16414,
-          "remaining": 44066
+          "claimed": 16347,
+          "remaining": 44133
         },
         {
           "prize": 25,
           "oddsOneIn": 150,
           "start": 100800,
-          "claimed": 27396,
-          "remaining": 73404
+          "claimed": 27298,
+          "remaining": 73502
         },
         {
           "prize": 20,
           "oddsOneIn": 39.47,
           "start": 383040,
-          "claimed": 104332,
-          "remaining": 278708
+          "claimed": 104000,
+          "remaining": 279040
         },
         {
           "prize": 10,
           "oddsOneIn": 25,
           "start": 604800,
-          "claimed": 164082,
-          "remaining": 440718
+          "claimed": 163501,
+          "remaining": 441299
         },
         {
           "prize": 5,
           "oddsOneIn": 6.94,
           "start": 2177280,
-          "claimed": 583352,
-          "remaining": 1593928
+          "claimed": 581405,
+          "remaining": 1595875
         }
       ],
       "identifier": "500000-cashword-corners-2025",
@@ -4508,22 +4508,22 @@
           "prize": 500,
           "oddsOneIn": 545.45,
           "start": 29568,
-          "claimed": 22421,
-          "remaining": 7147
+          "claimed": 22336,
+          "remaining": 7232
         },
         {
           "prize": 100,
           "oddsOneIn": 32.22,
           "start": 500528,
-          "claimed": 378832,
-          "remaining": 121696
+          "claimed": 377529,
+          "remaining": 122999
         },
         {
           "prize": 50,
           "oddsOneIn": 12.5,
           "start": 1290240,
-          "claimed": 976545,
-          "remaining": 313695
+          "claimed": 973029,
+          "remaining": 317211
         }
       ],
       "identifier": "50-100-and-500-blowout-2025",
@@ -4558,64 +4558,64 @@
           "prize": 2000,
           "oddsOneIn": 28800,
           "start": 525,
-          "claimed": 171,
-          "remaining": 354
+          "claimed": 170,
+          "remaining": 355
         },
         {
           "prize": 1000,
           "oddsOneIn": 1125,
           "start": 13440,
-          "claimed": 4356,
-          "remaining": 9084
+          "claimed": 4353,
+          "remaining": 9087
         },
         {
           "prize": 500,
           "oddsOneIn": 265.19,
           "start": 57015,
-          "claimed": 19284,
-          "remaining": 37731
+          "claimed": 19261,
+          "remaining": 37754
         },
         {
           "prize": 200,
           "oddsOneIn": 498.27,
           "start": 30345,
-          "claimed": 10247,
-          "remaining": 20098
+          "claimed": 10232,
+          "remaining": 20113
         },
         {
           "prize": 100,
           "oddsOneIn": 19.05,
           "start": 793800,
-          "claimed": 267684,
-          "remaining": 526116
+          "claimed": 267275,
+          "remaining": 526525
         },
         {
           "prize": 60,
           "oddsOneIn": 50,
           "start": 302400,
-          "claimed": 101655,
-          "remaining": 200745
+          "claimed": 101489,
+          "remaining": 200911
         },
         {
           "prize": 50,
           "oddsOneIn": 12.5,
           "start": 1209600,
-          "claimed": 407924,
-          "remaining": 801676
+          "claimed": 407300,
+          "remaining": 802300
         },
         {
           "prize": 40,
           "oddsOneIn": 12.5,
           "start": 1209600,
-          "claimed": 406786,
-          "remaining": 802814
+          "claimed": 406181,
+          "remaining": 803419
         },
         {
           "prize": 30,
           "oddsOneIn": 8.33,
           "start": 1814400,
-          "claimed": 608741,
-          "remaining": 1205659
+          "claimed": 607788,
+          "remaining": 1206612
         }
       ],
       "identifier": "15000000-colossal-millions-2025",
@@ -4650,71 +4650,71 @@
           "prize": 1000,
           "oddsOneIn": 3692.31,
           "start": 4095,
-          "claimed": 2465,
-          "remaining": 1630
+          "claimed": 2463,
+          "remaining": 1632
         },
         {
           "prize": 500,
           "oddsOneIn": 1152,
           "start": 13125,
-          "claimed": 8180,
-          "remaining": 4945
+          "claimed": 8161,
+          "remaining": 4964
         },
         {
           "prize": 200,
           "oddsOneIn": 3789.47,
           "start": 3990,
-          "claimed": 2465,
-          "remaining": 1525
+          "claimed": 2462,
+          "remaining": 1528
         },
         {
           "prize": 150,
           "oddsOneIn": 3512.2,
           "start": 4305,
-          "claimed": 2675,
-          "remaining": 1630
+          "claimed": 2671,
+          "remaining": 1634
         },
         {
           "prize": 100,
           "oddsOneIn": 65.42,
           "start": 231105,
-          "claimed": 143164,
-          "remaining": 87941
+          "claimed": 142965,
+          "remaining": 88140
         },
         {
           "prize": 50,
           "oddsOneIn": 100,
           "start": 151200,
-          "claimed": 93964,
-          "remaining": 57236
+          "claimed": 93829,
+          "remaining": 57371
         },
         {
           "prize": 30,
           "oddsOneIn": 100,
           "start": 151200,
-          "claimed": 93307,
-          "remaining": 57893
+          "claimed": 93184,
+          "remaining": 58016
         },
         {
           "prize": 20,
           "oddsOneIn": 12.5,
           "start": 1209600,
-          "claimed": 746568,
-          "remaining": 463032
+          "claimed": 745481,
+          "remaining": 464119
         },
         {
           "prize": 15,
           "oddsOneIn": 14.29,
           "start": 1058400,
-          "claimed": 655134,
-          "remaining": 403266
+          "claimed": 654156,
+          "remaining": 404244
         },
         {
           "prize": 10,
           "oddsOneIn": 10,
           "start": 1512000,
-          "claimed": 927922,
-          "remaining": 584078
+          "claimed": 926539,
+          "remaining": 585461
         }
       ],
       "identifier": "4000000-cash-king-doubler-2025",
@@ -4749,50 +4749,50 @@
           "prize": 500,
           "oddsOneIn": 2322.58,
           "start": 6510,
-          "claimed": 3632,
-          "remaining": 2878
+          "claimed": 3628,
+          "remaining": 2882
         },
         {
           "prize": 100,
           "oddsOneIn": 126.21,
           "start": 119805,
-          "claimed": 66434,
-          "remaining": 53371
+          "claimed": 66352,
+          "remaining": 53453
         },
         {
           "prize": 50,
           "oddsOneIn": 150,
           "start": 100800,
-          "claimed": 55611,
-          "remaining": 45189
+          "claimed": 55541,
+          "remaining": 45259
         },
         {
           "prize": 20,
           "oddsOneIn": 50,
           "start": 302400,
-          "claimed": 165854,
-          "remaining": 136546
+          "claimed": 165642,
+          "remaining": 136758
         },
         {
           "prize": 15,
           "oddsOneIn": 150,
           "start": 100800,
-          "claimed": 54974,
-          "remaining": 45826
+          "claimed": 54905,
+          "remaining": 45895
         },
         {
           "prize": 10,
           "oddsOneIn": 9.38,
           "start": 1612800,
-          "claimed": 872932,
-          "remaining": 739868
+          "claimed": 871861,
+          "remaining": 740939
         },
         {
           "prize": 5,
           "oddsOneIn": 10,
           "start": 1512000,
-          "claimed": 790308,
-          "remaining": 721692
+          "claimed": 789364,
+          "remaining": 722636
         }
       ],
       "identifier": "triple-777-2025",
@@ -4841,15 +4841,15 @@
           "prize": 100,
           "oddsOneIn": 372.09,
           "start": 21672,
-          "claimed": 18361,
-          "remaining": 3311
+          "claimed": 18360,
+          "remaining": 3312
         },
         {
           "prize": 40,
           "oddsOneIn": 313.04,
           "start": 25760,
-          "claimed": 21997,
-          "remaining": 3763
+          "claimed": 21996,
+          "remaining": 3764
         },
         {
           "prize": 30,
@@ -4862,29 +4862,29 @@
           "prize": 20,
           "oddsOneIn": 166.67,
           "start": 48384,
-          "claimed": 41189,
-          "remaining": 7195
+          "claimed": 41187,
+          "remaining": 7197
         },
         {
           "prize": 10,
           "oddsOneIn": 71.43,
           "start": 112896,
-          "claimed": 95949,
-          "remaining": 16947
+          "claimed": 95946,
+          "remaining": 16950
         },
         {
           "prize": 5,
           "oddsOneIn": 40,
           "start": 201600,
-          "claimed": 166693,
-          "remaining": 34907
+          "claimed": 166686,
+          "remaining": 34914
         },
         {
           "prize": 4,
           "oddsOneIn": 8.7,
           "start": 927360,
-          "claimed": 743123,
-          "remaining": 184237
+          "claimed": 743077,
+          "remaining": 184283
         }
       ],
       "identifier": "100000-double-match-2025",
@@ -4919,8 +4919,8 @@
           "prize": 25,
           "oddsOneIn": 12.5,
           "start": 322560,
-          "claimed": 319252,
-          "remaining": 3308
+          "claimed": 319246,
+          "remaining": 3314
         }
       ],
       "identifier": "25-50-and-250-celebration-blowout-2025",
@@ -4948,8 +4948,8 @@
           "prize": 1000,
           "oddsOneIn": 48000,
           "start": 315,
-          "claimed": 271,
-          "remaining": 44
+          "claimed": 270,
+          "remaining": 45
         },
         {
           "prize": 500,
@@ -4962,57 +4962,57 @@
           "prize": 200,
           "oddsOneIn": 3600,
           "start": 4200,
-          "claimed": 3969,
-          "remaining": 231
+          "claimed": 3963,
+          "remaining": 237
         },
         {
           "prize": 100,
           "oddsOneIn": 1469.39,
           "start": 10290,
-          "claimed": 9793,
-          "remaining": 497
+          "claimed": 9778,
+          "remaining": 512
         },
         {
           "prize": 50,
           "oddsOneIn": 514.29,
           "start": 29400,
-          "claimed": 28273,
-          "remaining": 1127
+          "claimed": 28244,
+          "remaining": 1156
         },
         {
           "prize": 20,
           "oddsOneIn": 62.5,
           "start": 241920,
-          "claimed": 232481,
-          "remaining": 9439
+          "claimed": 232127,
+          "remaining": 9793
         },
         {
           "prize": 10,
           "oddsOneIn": 50,
           "start": 302400,
-          "claimed": 290184,
-          "remaining": 12216
+          "claimed": 289726,
+          "remaining": 12674
         },
         {
           "prize": 5,
           "oddsOneIn": 41.67,
           "start": 362880,
-          "claimed": 346989,
-          "remaining": 15891
+          "claimed": 346470,
+          "remaining": 16410
         },
         {
           "prize": 4,
           "oddsOneIn": 13.64,
           "start": 1108800,
-          "claimed": 1048429,
-          "remaining": 60371
+          "claimed": 1046825,
+          "remaining": 61975
         },
         {
           "prize": 2,
           "oddsOneIn": 10,
           "start": 1512000,
-          "claimed": 1429896,
-          "remaining": 82104
+          "claimed": 1427842,
+          "remaining": 84158
         }
       ],
       "identifier": "50k-star-cashword-2025",
@@ -5040,8 +5040,8 @@
           "prize": 4000,
           "oddsOneIn": 24000,
           "start": 672,
-          "claimed": 428,
-          "remaining": 244
+          "claimed": 427,
+          "remaining": 245
         },
         {
           "prize": 1000,
@@ -5054,50 +5054,50 @@
           "prize": 400,
           "oddsOneIn": 878.05,
           "start": 18368,
-          "claimed": 11539,
-          "remaining": 6829
+          "claimed": 11527,
+          "remaining": 6841
         },
         {
           "prize": 100,
           "oddsOneIn": 68.87,
           "start": 234192,
-          "claimed": 147693,
-          "remaining": 86499
+          "claimed": 147517,
+          "remaining": 86675
         },
         {
           "prize": 50,
           "oddsOneIn": 100,
           "start": 161280,
-          "claimed": 101733,
-          "remaining": 59547
+          "claimed": 101606,
+          "remaining": 59674
         },
         {
           "prize": 25,
           "oddsOneIn": 100,
           "start": 161280,
-          "claimed": 101487,
-          "remaining": 59793
+          "claimed": 101368,
+          "remaining": 59912
         },
         {
           "prize": 20,
           "oddsOneIn": 11.11,
           "start": 1451520,
-          "claimed": 907379,
-          "remaining": 544141
+          "claimed": 906236,
+          "remaining": 545284
         },
         {
           "prize": 15,
           "oddsOneIn": 20,
           "start": 806400,
-          "claimed": 501103,
-          "remaining": 305297
+          "claimed": 500509,
+          "remaining": 305891
         },
         {
           "prize": 10,
           "oddsOneIn": 9.09,
           "start": 1774080,
-          "claimed": 1096482,
-          "remaining": 677598
+          "claimed": 1095166,
+          "remaining": 678914
         }
       ],
       "identifier": "2500-a-week-for-life-2025",
@@ -5139,57 +5139,57 @@
           "prize": 500,
           "oddsOneIn": 2250,
           "start": 6720,
-          "claimed": 5416,
-          "remaining": 1304
+          "claimed": 5405,
+          "remaining": 1315
         },
         {
           "prize": 100,
           "oddsOneIn": 218.18,
           "start": 69300,
-          "claimed": 55932,
-          "remaining": 13368
+          "claimed": 55896,
+          "remaining": 13404
         },
         {
           "prize": 50,
           "oddsOneIn": 150,
           "start": 100800,
-          "claimed": 81374,
-          "remaining": 19426
+          "claimed": 81313,
+          "remaining": 19487
         },
         {
           "prize": 25,
           "oddsOneIn": 150,
           "start": 100800,
-          "claimed": 81156,
-          "remaining": 19644
+          "claimed": 81092,
+          "remaining": 19708
         },
         {
           "prize": 20,
           "oddsOneIn": 75,
           "start": 201600,
-          "claimed": 162320,
-          "remaining": 39280
+          "claimed": 162168,
+          "remaining": 39432
         },
         {
           "prize": 15,
           "oddsOneIn": 150,
           "start": 100800,
-          "claimed": 80877,
-          "remaining": 19923
+          "claimed": 80812,
+          "remaining": 19988
         },
         {
           "prize": 10,
           "oddsOneIn": 10.71,
           "start": 1411200,
-          "claimed": 1122683,
-          "remaining": 288517
+          "claimed": 1121711,
+          "remaining": 289489
         },
         {
           "prize": 5,
           "oddsOneIn": 10,
           "start": 1512000,
-          "claimed": 1167345,
-          "remaining": 344655
+          "claimed": 1166335,
+          "remaining": 345665
         }
       ],
       "identifier": "1000-a-week-for-life-2025",
@@ -5231,71 +5231,71 @@
           "prize": 200,
           "oddsOneIn": 3789.47,
           "start": 3192,
-          "claimed": 2491,
-          "remaining": 701
+          "claimed": 2487,
+          "remaining": 705
         },
         {
           "prize": 100,
           "oddsOneIn": 786.89,
           "start": 15372,
-          "claimed": 12023,
-          "remaining": 3349
+          "claimed": 12015,
+          "remaining": 3357
         },
         {
           "prize": 40,
           "oddsOneIn": 523.64,
           "start": 23100,
-          "claimed": 18098,
-          "remaining": 5002
+          "claimed": 18082,
+          "remaining": 5018
         },
         {
           "prize": 30,
           "oddsOneIn": 1777.78,
           "start": 6804,
-          "claimed": 5271,
-          "remaining": 1533
+          "claimed": 5268,
+          "remaining": 1536
         },
         {
           "prize": 25,
           "oddsOneIn": 300,
           "start": 40320,
-          "claimed": 31688,
-          "remaining": 8632
+          "claimed": 31670,
+          "remaining": 8650
         },
         {
           "prize": 20,
           "oddsOneIn": 200,
           "start": 60480,
-          "claimed": 47469,
-          "remaining": 13011
+          "claimed": 47423,
+          "remaining": 13057
         },
         {
           "prize": 10,
           "oddsOneIn": 50,
           "start": 241920,
-          "claimed": 188461,
-          "remaining": 53459
+          "claimed": 188276,
+          "remaining": 53644
         },
         {
           "prize": 5,
           "oddsOneIn": 66.67,
           "start": 181440,
-          "claimed": 139848,
-          "remaining": 41592
+          "claimed": 139697,
+          "remaining": 41743
         },
         {
           "prize": 4,
           "oddsOneIn": 12.5,
           "start": 967680,
-          "claimed": 745165,
-          "remaining": 222515
+          "claimed": 744480,
+          "remaining": 223200
         },
         {
           "prize": 2,
           "oddsOneIn": 10,
           "start": 1209600,
-          "claimed": 917479,
-          "remaining": 292121
+          "claimed": 916565,
+          "remaining": 293035
         }
       ],
       "identifier": "200-a-week-for-life-2025",
@@ -5323,57 +5323,57 @@
           "prize": 100,
           "oddsOneIn": 1321.1,
           "start": 7630,
-          "claimed": 6506,
-          "remaining": 1124
+          "claimed": 6500,
+          "remaining": 1130
         },
         {
           "prize": 40,
           "oddsOneIn": 1600,
           "start": 6300,
-          "claimed": 5343,
-          "remaining": 957
+          "claimed": 5335,
+          "remaining": 965
         },
         {
           "prize": 20,
           "oddsOneIn": 600,
           "start": 16800,
-          "claimed": 14207,
-          "remaining": 2593
+          "claimed": 14188,
+          "remaining": 2612
         },
         {
           "prize": 10,
           "oddsOneIn": 125,
           "start": 80640,
-          "claimed": 67561,
-          "remaining": 13079
+          "claimed": 67464,
+          "remaining": 13176
         },
         {
           "prize": 5,
           "oddsOneIn": 53.57,
           "start": 188160,
-          "claimed": 156982,
-          "remaining": 31178
+          "claimed": 156794,
+          "remaining": 31366
         },
         {
           "prize": 4,
           "oddsOneIn": 50,
           "start": 201600,
-          "claimed": 166231,
-          "remaining": 35369
+          "claimed": 166030,
+          "remaining": 35570
         },
         {
           "prize": 2,
           "oddsOneIn": 15,
           "start": 672000,
-          "claimed": 545832,
-          "remaining": 126168
+          "claimed": 545173,
+          "remaining": 126827
         },
         {
           "prize": 1,
           "oddsOneIn": 10.71,
           "start": 940800,
-          "claimed": 746925,
-          "remaining": 193875
+          "claimed": 746011,
+          "remaining": 194789
         }
       ],
       "identifier": "100-a-week-for-life",
@@ -5415,64 +5415,64 @@
           "prize": 500,
           "oddsOneIn": 16000,
           "start": 945,
-          "claimed": 700,
-          "remaining": 245
+          "claimed": 698,
+          "remaining": 247
         },
         {
           "prize": 200,
           "oddsOneIn": 7578.95,
           "start": 1995,
-          "claimed": 1475,
-          "remaining": 520
+          "claimed": 1472,
+          "remaining": 523
         },
         {
           "prize": 100,
           "oddsOneIn": 83.33,
           "start": 181440,
-          "claimed": 134971,
-          "remaining": 46469
+          "claimed": 134621,
+          "remaining": 46819
         },
         {
           "prize": 50,
           "oddsOneIn": 125,
           "start": 120960,
-          "claimed": 90210,
-          "remaining": 30750
+          "claimed": 89971,
+          "remaining": 30989
         },
         {
           "prize": 40,
           "oddsOneIn": 187.5,
           "start": 80640,
-          "claimed": 59802,
-          "remaining": 20838
+          "claimed": 59623,
+          "remaining": 21017
         },
         {
           "prize": 25,
           "oddsOneIn": 150,
           "start": 100800,
-          "claimed": 74948,
-          "remaining": 25852
+          "claimed": 74740,
+          "remaining": 26060
         },
         {
           "prize": 20,
           "oddsOneIn": 39.47,
           "start": 383040,
-          "claimed": 284945,
-          "remaining": 98095
+          "claimed": 284200,
+          "remaining": 98840
         },
         {
           "prize": 10,
           "oddsOneIn": 25,
           "start": 604800,
-          "claimed": 448074,
-          "remaining": 156726
+          "claimed": 446839,
+          "remaining": 157961
         },
         {
           "prize": 5,
           "oddsOneIn": 7.01,
           "start": 2157120,
-          "claimed": 1584031,
-          "remaining": 573089
+          "claimed": 1579706,
+          "remaining": 577414
         }
       ],
       "identifier": "big-blue-bonus-cashword-2025",
@@ -5500,85 +5500,85 @@
           "prize": 2000,
           "oddsOneIn": 48000,
           "start": 525,
-          "claimed": 223,
-          "remaining": 302
+          "claimed": 222,
+          "remaining": 303
         },
         {
           "prize": 1000,
           "oddsOneIn": 4000,
           "start": 6300,
-          "claimed": 2590,
-          "remaining": 3710
+          "claimed": 2588,
+          "remaining": 3712
         },
         {
           "prize": 500,
           "oddsOneIn": 1617.98,
           "start": 15575,
-          "claimed": 6628,
-          "remaining": 8947
+          "claimed": 6621,
+          "remaining": 8954
         },
         {
           "prize": 200,
           "oddsOneIn": 778.38,
           "start": 32375,
-          "claimed": 13847,
-          "remaining": 18528
+          "claimed": 13813,
+          "remaining": 18562
         },
         {
           "prize": 100,
           "oddsOneIn": 70.76,
           "start": 356125,
-          "claimed": 152127,
-          "remaining": 203998
+          "claimed": 151883,
+          "remaining": 204242
         },
         {
           "prize": 50,
           "oddsOneIn": 100,
           "start": 252000,
-          "claimed": 107780,
-          "remaining": 144220
+          "claimed": 107586,
+          "remaining": 144414
         },
         {
           "prize": 40,
           "oddsOneIn": 100,
           "start": 252000,
-          "claimed": 107630,
-          "remaining": 144370
+          "claimed": 107429,
+          "remaining": 144571
         },
         {
           "prize": 30,
           "oddsOneIn": 100,
           "start": 252000,
-          "claimed": 107257,
-          "remaining": 144743
+          "claimed": 107083,
+          "remaining": 144917
         },
         {
           "prize": 25,
           "oddsOneIn": 100,
           "start": 252000,
-          "claimed": 107526,
-          "remaining": 144474
+          "claimed": 107357,
+          "remaining": 144643
         },
         {
           "prize": 20,
           "oddsOneIn": 10,
           "start": 2520000,
-          "claimed": 1075564,
-          "remaining": 1444436
+          "claimed": 1073875,
+          "remaining": 1446125
         },
         {
           "prize": 15,
           "oddsOneIn": 33.33,
           "start": 756000,
-          "claimed": 320840,
-          "remaining": 435160
+          "claimed": 320291,
+          "remaining": 435709
         },
         {
           "prize": 10,
           "oddsOneIn": 8.33,
           "start": 3024000,
-          "claimed": 1279686,
-          "remaining": 1744314
+          "claimed": 1277526,
+          "remaining": 1746474
         }
       ],
       "identifier": "2000000-diamond-cashword-2024",
@@ -5613,36 +5613,36 @@
           "prize": 500,
           "oddsOneIn": 778.38,
           "start": 20720,
-          "claimed": 19694,
-          "remaining": 1026
+          "claimed": 19693,
+          "remaining": 1027
         },
         {
           "prize": 100,
           "oddsOneIn": 58.9,
           "start": 273840,
-          "claimed": 259147,
-          "remaining": 14693
+          "claimed": 259138,
+          "remaining": 14702
         },
         {
           "prize": 50,
           "oddsOneIn": 100,
           "start": 161280,
-          "claimed": 152854,
-          "remaining": 8426
+          "claimed": 152846,
+          "remaining": 8434
         },
         {
           "prize": 25,
           "oddsOneIn": 25,
           "start": 645120,
-          "claimed": 611122,
-          "remaining": 33998
+          "claimed": 611094,
+          "remaining": 34026
         },
         {
           "prize": 20,
           "oddsOneIn": 7.14,
           "start": 2257920,
-          "claimed": 2134767,
-          "remaining": 123153
+          "claimed": 2134680,
+          "remaining": 123240
         }
       ],
       "identifier": "4000000-gold-50x",
@@ -5684,43 +5684,43 @@
           "prize": 100,
           "oddsOneIn": 126.76,
           "start": 119280,
-          "claimed": 104562,
-          "remaining": 14718
+          "claimed": 104561,
+          "remaining": 14719
         },
         {
           "prize": 50,
           "oddsOneIn": 150,
           "start": 100800,
-          "claimed": 90931,
-          "remaining": 9869
+          "claimed": 90930,
+          "remaining": 9870
         },
         {
           "prize": 20,
           "oddsOneIn": 50,
           "start": 302400,
-          "claimed": 274308,
-          "remaining": 28092
+          "claimed": 274306,
+          "remaining": 28094
         },
         {
           "prize": 15,
           "oddsOneIn": 150,
           "start": 100800,
-          "claimed": 92621,
-          "remaining": 8179
+          "claimed": 92619,
+          "remaining": 8181
         },
         {
           "prize": 10,
           "oddsOneIn": 9.38,
           "start": 1612800,
-          "claimed": 1428692,
-          "remaining": 184108
+          "claimed": 1428676,
+          "remaining": 184124
         },
         {
           "prize": 5,
           "oddsOneIn": 10,
           "start": 1512000,
-          "claimed": 1370628,
-          "remaining": 141372
+          "claimed": 1370595,
+          "remaining": 141405
         }
       ],
       "identifier": "emerald-mine-50x-2025",
@@ -5741,8 +5741,8 @@
           "prize": 250,
           "oddsOneIn": 553.85,
           "start": 7280,
-          "claimed": 7210,
-          "remaining": 70
+          "claimed": 7209,
+          "remaining": 71
         },
         {
           "prize": 50,
@@ -5833,15 +5833,15 @@
           "prize": 3,
           "oddsOneIn": 13.33,
           "start": 604800,
-          "claimed": 569293,
-          "remaining": 35507
+          "claimed": 569289,
+          "remaining": 35511
         },
         {
           "prize": 2,
           "oddsOneIn": 11.76,
           "start": 685440,
-          "claimed": 642968,
-          "remaining": 42472
+          "claimed": 642958,
+          "remaining": 42482
         }
       ],
       "identifier": "100000-triple-333-2025",
@@ -5897,8 +5897,8 @@
           "prize": 10,
           "oddsOneIn": 150,
           "start": 53760,
-          "claimed": 45706,
-          "remaining": 8054
+          "claimed": 45703,
+          "remaining": 8057
         },
         {
           "prize": 9,
@@ -5911,15 +5911,15 @@
           "prize": 5,
           "oddsOneIn": 93.75,
           "start": 86016,
-          "claimed": 72571,
-          "remaining": 13445
+          "claimed": 72569,
+          "remaining": 13447
         },
         {
           "prize": 4,
           "oddsOneIn": 93.75,
           "start": 86016,
-          "claimed": 72204,
-          "remaining": 13812
+          "claimed": 72203,
+          "remaining": 13813
         },
         {
           "prize": 3,
@@ -5932,15 +5932,15 @@
           "prize": 2,
           "oddsOneIn": 15,
           "start": 537600,
-          "claimed": 447996,
-          "remaining": 89604
+          "claimed": 447993,
+          "remaining": 89607
         },
         {
           "prize": 1,
           "oddsOneIn": 10.71,
           "start": 752640,
-          "claimed": 620150,
-          "remaining": 132490
+          "claimed": 620139,
+          "remaining": 132501
         }
       ],
       "identifier": "luck-of-the-irish-tripler-2025",
@@ -5968,50 +5968,50 @@
           "prize": 50,
           "oddsOneIn": 310.34,
           "start": 32480,
-          "claimed": 31170,
-          "remaining": 1310
+          "claimed": 31167,
+          "remaining": 1313
         },
         {
           "prize": 20,
           "oddsOneIn": 375,
           "start": 26880,
-          "claimed": 25482,
-          "remaining": 1398
+          "claimed": 25481,
+          "remaining": 1399
         },
         {
           "prize": 10,
           "oddsOneIn": 125,
           "start": 80640,
-          "claimed": 76595,
-          "remaining": 4045
+          "claimed": 76588,
+          "remaining": 4052
         },
         {
           "prize": 5,
           "oddsOneIn": 62.5,
           "start": 161280,
-          "claimed": 152768,
-          "remaining": 8512
+          "claimed": 152751,
+          "remaining": 8529
         },
         {
           "prize": 4,
           "oddsOneIn": 50,
           "start": 201600,
-          "claimed": 189385,
-          "remaining": 12215
+          "claimed": 189371,
+          "remaining": 12229
         },
         {
           "prize": 2,
           "oddsOneIn": 13.64,
           "start": 739200,
-          "claimed": 686667,
-          "remaining": 52533
+          "claimed": 686617,
+          "remaining": 52583
         },
         {
           "prize": 1,
           "oddsOneIn": 11.54,
           "start": 873600,
-          "claimed": 790618,
-          "remaining": 82982
+          "claimed": 790557,
+          "remaining": 83043
         }
       ],
       "identifier": "50-in-a-flash-2025",
@@ -6073,29 +6073,29 @@
           "prize": 50,
           "oddsOneIn": 100,
           "start": 60480,
-          "claimed": 58657,
-          "remaining": 1823
+          "claimed": 58656,
+          "remaining": 1824
         },
         {
           "prize": 20,
           "oddsOneIn": 11.11,
           "start": 544320,
-          "claimed": 527283,
-          "remaining": 17037
+          "claimed": 527280,
+          "remaining": 17040
         },
         {
           "prize": 15,
           "oddsOneIn": 16.67,
           "start": 362880,
-          "claimed": 350687,
-          "remaining": 12193
+          "claimed": 350683,
+          "remaining": 12197
         },
         {
           "prize": 10,
           "oddsOneIn": 9.09,
           "start": 665280,
-          "claimed": 640306,
-          "remaining": 24974
+          "claimed": 640302,
+          "remaining": 24978
         }
       ],
       "identifier": "celtics-banner-18-2024",
@@ -6166,8 +6166,8 @@
           "prize": 500,
           "oddsOneIn": 966.44,
           "start": 10430,
-          "claimed": 9355,
-          "remaining": 1075
+          "claimed": 9354,
+          "remaining": 1076
         },
         {
           "prize": 200,
@@ -6180,43 +6180,43 @@
           "prize": 100,
           "oddsOneIn": 66.79,
           "start": 150920,
-          "claimed": 134504,
-          "remaining": 16416
+          "claimed": 134502,
+          "remaining": 16418
         },
         {
           "prize": 50,
           "oddsOneIn": 100,
           "start": 100800,
-          "claimed": 89889,
-          "remaining": 10911
+          "claimed": 89884,
+          "remaining": 10916
         },
         {
           "prize": 25,
           "oddsOneIn": 100,
           "start": 100800,
-          "claimed": 89697,
-          "remaining": 11103
+          "claimed": 89696,
+          "remaining": 11104
         },
         {
           "prize": 20,
           "oddsOneIn": 12.5,
           "start": 806400,
-          "claimed": 716466,
-          "remaining": 89934
+          "claimed": 716457,
+          "remaining": 89943
         },
         {
           "prize": 15,
           "oddsOneIn": 16.67,
           "start": 604800,
-          "claimed": 536649,
-          "remaining": 68151
+          "claimed": 536645,
+          "remaining": 68155
         },
         {
           "prize": 10,
           "oddsOneIn": 9.09,
           "start": 1108800,
-          "claimed": 978605,
-          "remaining": 130195
+          "claimed": 978591,
+          "remaining": 130209
         }
       ],
       "identifier": "2500000-merry-and-bright-2024",
@@ -6265,36 +6265,36 @@
           "prize": 50,
           "oddsOneIn": 150,
           "start": 53760,
-          "claimed": 51243,
-          "remaining": 2517
+          "claimed": 51241,
+          "remaining": 2519
         },
         {
           "prize": 20,
           "oddsOneIn": 30,
           "start": 268800,
-          "claimed": 254790,
-          "remaining": 14010
+          "claimed": 254789,
+          "remaining": 14011
         },
         {
           "prize": 15,
           "oddsOneIn": 150,
           "start": 53760,
-          "claimed": 50699,
-          "remaining": 3061
+          "claimed": 50698,
+          "remaining": 3062
         },
         {
           "prize": 10,
           "oddsOneIn": 11.54,
           "start": 698880,
-          "claimed": 654391,
-          "remaining": 44489
+          "claimed": 654381,
+          "remaining": 44499
         },
         {
           "prize": 5,
           "oddsOneIn": 10,
           "start": 806400,
-          "claimed": 740341,
-          "remaining": 66059
+          "claimed": 740329,
+          "remaining": 66071
         }
       ],
       "identifier": "1000000-merry-and-bright-2024",
@@ -6343,8 +6343,8 @@
           "prize": 40,
           "oddsOneIn": 389.19,
           "start": 15540,
-          "claimed": 13978,
-          "remaining": 1562
+          "claimed": 13977,
+          "remaining": 1563
         },
         {
           "prize": 25,
@@ -6357,8 +6357,8 @@
           "prize": 20,
           "oddsOneIn": 125,
           "start": 48384,
-          "claimed": 43048,
-          "remaining": 5336
+          "claimed": 43047,
+          "remaining": 5337
         },
         {
           "prize": 10,
@@ -6371,22 +6371,22 @@
           "prize": 5,
           "oddsOneIn": 58.82,
           "start": 102816,
-          "claimed": 90196,
-          "remaining": 12620
+          "claimed": 90194,
+          "remaining": 12622
         },
         {
           "prize": 4,
           "oddsOneIn": 13.33,
           "start": 453600,
-          "claimed": 394569,
-          "remaining": 59031
+          "claimed": 394562,
+          "remaining": 59038
         },
         {
           "prize": 2,
           "oddsOneIn": 11.11,
           "start": 544320,
-          "claimed": 465539,
-          "remaining": 78781
+          "claimed": 465527,
+          "remaining": 78793
         }
       ],
       "identifier": "100000-merry-and-bright-2024",
@@ -6442,29 +6442,29 @@
           "prize": 20,
           "oddsOneIn": 75,
           "start": 53760,
-          "claimed": 50458,
-          "remaining": 3302
+          "claimed": 50457,
+          "remaining": 3303
         },
         {
           "prize": 10,
           "oddsOneIn": 50,
           "start": 80640,
-          "claimed": 75504,
-          "remaining": 5136
+          "claimed": 75502,
+          "remaining": 5138
         },
         {
           "prize": 5,
           "oddsOneIn": 11.54,
           "start": 349440,
-          "claimed": 323943,
-          "remaining": 25497
+          "claimed": 323934,
+          "remaining": 25506
         },
         {
           "prize": 2,
           "oddsOneIn": 10,
           "start": 403200,
-          "claimed": 365603,
-          "remaining": 37597
+          "claimed": 365594,
+          "remaining": 37606
         }
       ],
       "identifier": "naughty-or-nice-cashword-2024",
@@ -6520,22 +6520,22 @@
           "prize": 20,
           "oddsOneIn": 306.38,
           "start": 13160,
-          "claimed": 12498,
-          "remaining": 662
+          "claimed": 12497,
+          "remaining": 663
         },
         {
           "prize": 10,
           "oddsOneIn": 93.75,
           "start": 43008,
-          "claimed": 40277,
-          "remaining": 2731
+          "claimed": 40275,
+          "remaining": 2733
         },
         {
           "prize": 5,
           "oddsOneIn": 75,
           "start": 53760,
-          "claimed": 50316,
-          "remaining": 3444
+          "claimed": 50315,
+          "remaining": 3445
         },
         {
           "prize": 4,
@@ -6555,15 +6555,15 @@
           "prize": 2,
           "oddsOneIn": 13.64,
           "start": 295680,
-          "claimed": 267692,
-          "remaining": 27988
+          "claimed": 267673,
+          "remaining": 28007
         },
         {
           "prize": 1,
           "oddsOneIn": 10.71,
           "start": 376320,
-          "claimed": 333787,
-          "remaining": 42533
+          "claimed": 333775,
+          "remaining": 42545
         }
       ],
       "identifier": "10000-merry-and-bright-2024",
@@ -6605,50 +6605,50 @@
           "prize": 1000,
           "oddsOneIn": 1107.69,
           "start": 13650,
-          "claimed": 6273,
-          "remaining": 7377
+          "claimed": 6272,
+          "remaining": 7378
         },
         {
           "prize": 500,
           "oddsOneIn": 265.68,
           "start": 56910,
-          "claimed": 26718,
-          "remaining": 30192
+          "claimed": 26692,
+          "remaining": 30218
         },
         {
           "prize": 200,
           "oddsOneIn": 508.83,
           "start": 29715,
-          "claimed": 13938,
-          "remaining": 15777
+          "claimed": 13930,
+          "remaining": 15785
         },
         {
           "prize": 100,
           "oddsOneIn": 17.73,
           "start": 852915,
-          "claimed": 398895,
-          "remaining": 454020
+          "claimed": 398513,
+          "remaining": 454402
         },
         {
           "prize": 60,
           "oddsOneIn": 50,
           "start": 302400,
-          "claimed": 141013,
-          "remaining": 161387
+          "claimed": 140898,
+          "remaining": 161502
         },
         {
           "prize": 50,
           "oddsOneIn": 12.5,
           "start": 1209600,
-          "claimed": 566685,
-          "remaining": 642915
+          "claimed": 566121,
+          "remaining": 643479
         },
         {
           "prize": 40,
           "oddsOneIn": 6.25,
           "start": 2419200,
-          "claimed": 1132794,
-          "remaining": 1286406
+          "claimed": 1131761,
+          "remaining": 1287439
         }
       ],
       "identifier": "diamond-deluxe-2024",
@@ -6683,64 +6683,64 @@
           "prize": 500,
           "oddsOneIn": 1133.86,
           "start": 14224,
-          "claimed": 7482,
-          "remaining": 6742
+          "claimed": 7478,
+          "remaining": 6746
         },
         {
           "prize": 200,
           "oddsOneIn": 1384.62,
           "start": 11648,
-          "claimed": 6127,
-          "remaining": 5521
+          "claimed": 6122,
+          "remaining": 5526
         },
         {
           "prize": 150,
           "oddsOneIn": 1142.86,
           "start": 14112,
-          "claimed": 7421,
-          "remaining": 6691
+          "claimed": 7417,
+          "remaining": 6695
         },
         {
           "prize": 100,
           "oddsOneIn": 66.95,
           "start": 240912,
-          "claimed": 126293,
-          "remaining": 114619
+          "claimed": 126173,
+          "remaining": 114739
         },
         {
           "prize": 50,
           "oddsOneIn": 100,
           "start": 161280,
-          "claimed": 84667,
-          "remaining": 76613
+          "claimed": 84594,
+          "remaining": 76686
         },
         {
           "prize": 25,
           "oddsOneIn": 100,
           "start": 161280,
-          "claimed": 84410,
-          "remaining": 76870
+          "claimed": 84308,
+          "remaining": 76972
         },
         {
           "prize": 20,
           "oddsOneIn": 12.5,
           "start": 1290240,
-          "claimed": 675122,
-          "remaining": 615118
+          "claimed": 674488,
+          "remaining": 615752
         },
         {
           "prize": 15,
           "oddsOneIn": 20,
           "start": 806400,
-          "claimed": 420975,
-          "remaining": 385425
+          "claimed": 420581,
+          "remaining": 385819
         },
         {
           "prize": 10,
           "oddsOneIn": 8.33,
           "start": 1935360,
-          "claimed": 1006329,
-          "remaining": 929031
+          "claimed": 1005393,
+          "remaining": 929967
         }
       ],
       "identifier": "4m-bonus-money",
@@ -6782,43 +6782,43 @@
           "prize": 100,
           "oddsOneIn": 117.36,
           "start": 128835,
-          "claimed": 126130,
-          "remaining": 2705
+          "claimed": 126124,
+          "remaining": 2711
         },
         {
           "prize": 50,
           "oddsOneIn": 150,
           "start": 100800,
-          "claimed": 98447,
-          "remaining": 2353
+          "claimed": 98445,
+          "remaining": 2355
         },
         {
           "prize": 20,
           "oddsOneIn": 50,
           "start": 302400,
-          "claimed": 294147,
-          "remaining": 8253
+          "claimed": 294128,
+          "remaining": 8272
         },
         {
           "prize": 15,
           "oddsOneIn": 150,
           "start": 100800,
-          "claimed": 97700,
-          "remaining": 3100
+          "claimed": 97697,
+          "remaining": 3103
         },
         {
           "prize": 10,
           "oddsOneIn": 10,
           "start": 1512000,
-          "claimed": 1461191,
-          "remaining": 50809
+          "claimed": 1461108,
+          "remaining": 50892
         },
         {
           "prize": 5,
           "oddsOneIn": 10,
           "start": 1512000,
-          "claimed": 1418805,
-          "remaining": 93195
+          "claimed": 1418723,
+          "remaining": 93277
         }
       ],
       "identifier": "1m-ultimate-7",
@@ -6860,8 +6860,8 @@
           "prize": 100,
           "oddsOneIn": 389.19,
           "start": 20720,
-          "claimed": 20417,
-          "remaining": 303
+          "claimed": 20414,
+          "remaining": 306
         },
         {
           "prize": 50,
@@ -6874,36 +6874,36 @@
           "prize": 20,
           "oddsOneIn": 142.86,
           "start": 56448,
-          "claimed": 55287,
-          "remaining": 1161
+          "claimed": 55284,
+          "remaining": 1164
         },
         {
           "prize": 10,
           "oddsOneIn": 52.63,
           "start": 153216,
-          "claimed": 149337,
-          "remaining": 3879
+          "claimed": 149328,
+          "remaining": 3888
         },
         {
           "prize": 5,
           "oddsOneIn": 71.43,
           "start": 112896,
-          "claimed": 109350,
-          "remaining": 3546
+          "claimed": 109345,
+          "remaining": 3551
         },
         {
           "prize": 4,
           "oddsOneIn": 13.33,
           "start": 604800,
-          "claimed": 583131,
-          "remaining": 21669
+          "claimed": 583108,
+          "remaining": 21692
         },
         {
           "prize": 2,
           "oddsOneIn": 10.53,
           "start": 766080,
-          "claimed": 721696,
-          "remaining": 44384
+          "claimed": 721672,
+          "remaining": 44408
         }
       ],
       "identifier": "1m-winning-7s-2024",
@@ -6924,8 +6924,8 @@
           "prize": 5000,
           "oddsOneIn": 6545.45,
           "start": 1848,
-          "claimed": 1363,
-          "remaining": 485
+          "claimed": 1362,
+          "remaining": 486
         },
         {
           "prize": 2000,
@@ -6938,64 +6938,64 @@
           "prize": 1000,
           "oddsOneIn": 1371.43,
           "start": 8820,
-          "claimed": 6530,
-          "remaining": 2290
+          "claimed": 6528,
+          "remaining": 2292
         },
         {
           "prize": 500,
           "oddsOneIn": 800,
           "start": 15120,
-          "claimed": 11327,
-          "remaining": 3793
+          "claimed": 11319,
+          "remaining": 3801
         },
         {
           "prize": 200,
           "oddsOneIn": 500,
           "start": 24192,
-          "claimed": 18126,
-          "remaining": 6066
+          "claimed": 18116,
+          "remaining": 6076
         },
         {
           "prize": 100,
           "oddsOneIn": 28.15,
           "start": 429744,
-          "claimed": 322316,
-          "remaining": 107428
+          "claimed": 322069,
+          "remaining": 107675
         },
         {
           "prize": 50,
           "oddsOneIn": 50,
           "start": 241920,
-          "claimed": 181133,
-          "remaining": 60787
+          "claimed": 180992,
+          "remaining": 60928
         },
         {
           "prize": 40,
           "oddsOneIn": 50,
           "start": 241920,
-          "claimed": 180986,
-          "remaining": 60934
+          "claimed": 180876,
+          "remaining": 61044
         },
         {
           "prize": 30,
           "oddsOneIn": 25,
           "start": 483840,
-          "claimed": 359688,
-          "remaining": 124152
+          "claimed": 359463,
+          "remaining": 124377
         },
         {
           "prize": 25,
           "oddsOneIn": 12.5,
           "start": 967680,
-          "claimed": 718428,
-          "remaining": 249252
+          "claimed": 717922,
+          "remaining": 249758
         },
         {
           "prize": 20,
           "oddsOneIn": 7.14,
           "start": 1693440,
-          "claimed": 1260690,
-          "remaining": 432750
+          "claimed": 1259805,
+          "remaining": 433635
         }
       ],
       "identifier": "10000000-bonanza-2024",
@@ -7023,15 +7023,15 @@
           "prize": 100,
           "oddsOneIn": 32.22,
           "start": 500528,
-          "claimed": 497608,
-          "remaining": 2920
+          "claimed": 497607,
+          "remaining": 2921
         },
         {
           "prize": 50,
           "oddsOneIn": 12.5,
           "start": 1290240,
-          "claimed": 1282918,
-          "remaining": 7322
+          "claimed": 1282916,
+          "remaining": 7324
         }
       ],
       "identifier": "50-100-and-500-blowout-2024",
@@ -7101,15 +7101,15 @@
           "prize": 10,
           "oddsOneIn": 10,
           "start": 907200,
-          "claimed": 773250,
-          "remaining": 133950
+          "claimed": 773245,
+          "remaining": 133955
         },
         {
           "prize": 5,
           "oddsOneIn": 10,
           "start": 907200,
-          "claimed": 763176,
-          "remaining": 144024
+          "claimed": 763173,
+          "remaining": 144027
         }
       ],
       "identifier": "game-of-thrones-2024",
@@ -7172,43 +7172,43 @@
           "prize": 25,
           "oddsOneIn": 263.74,
           "start": 30576,
-          "claimed": 29884,
-          "remaining": 692
+          "claimed": 29883,
+          "remaining": 693
         },
         {
           "prize": 20,
           "oddsOneIn": 166.67,
           "start": 48384,
-          "claimed": 47112,
-          "remaining": 1272
+          "claimed": 47110,
+          "remaining": 1274
         },
         {
           "prize": 10,
           "oddsOneIn": 71.43,
           "start": 112896,
-          "claimed": 109579,
-          "remaining": 3317
+          "claimed": 109576,
+          "remaining": 3320
         },
         {
           "prize": 5,
           "oddsOneIn": 40,
           "start": 201600,
-          "claimed": 194445,
-          "remaining": 7155
+          "claimed": 194444,
+          "remaining": 7156
         },
         {
           "prize": 4,
           "oddsOneIn": 14.29,
           "start": 564480,
-          "claimed": 541805,
-          "remaining": 22675
+          "claimed": 541796,
+          "remaining": 22684
         },
         {
           "prize": 2,
           "oddsOneIn": 11.11,
           "start": 725760,
-          "claimed": 687827,
-          "remaining": 37933
+          "claimed": 687808,
+          "remaining": 37952
         }
       ],
       "identifier": "100000-cash-extra-2024",
@@ -7271,15 +7271,15 @@
           "prize": 10,
           "oddsOneIn": 68.18,
           "start": 118272,
-          "claimed": 108400,
-          "remaining": 9872
+          "claimed": 108398,
+          "remaining": 9874
         },
         {
           "prize": 5,
           "oddsOneIn": 150,
           "start": 53760,
-          "claimed": 50904,
-          "remaining": 2856
+          "claimed": 50903,
+          "remaining": 2857
         },
         {
           "prize": 4,
@@ -7299,15 +7299,15 @@
           "prize": 2,
           "oddsOneIn": 14.42,
           "start": 559104,
-          "claimed": 519613,
-          "remaining": 39491
+          "claimed": 519607,
+          "remaining": 39497
         },
         {
           "prize": 1,
           "oddsOneIn": 10.71,
           "start": 752640,
-          "claimed": 676236,
-          "remaining": 76404
+          "claimed": 676226,
+          "remaining": 76414
         }
       ],
       "identifier": "10000-win-all-2024",
@@ -7349,8 +7349,8 @@
           "prize": 500,
           "oddsOneIn": 1617.98,
           "start": 15575,
-          "claimed": 15423,
-          "remaining": 152
+          "claimed": 15422,
+          "remaining": 153
         },
         {
           "prize": 200,
@@ -7363,8 +7363,8 @@
           "prize": 100,
           "oddsOneIn": 70,
           "start": 359975,
-          "claimed": 358046,
-          "remaining": 1929
+          "claimed": 358044,
+          "remaining": 1931
         },
         {
           "prize": 50,
@@ -7391,29 +7391,29 @@
           "prize": 25,
           "oddsOneIn": 100,
           "start": 252000,
-          "claimed": 251077,
-          "remaining": 923
+          "claimed": 251076,
+          "remaining": 924
         },
         {
           "prize": 20,
           "oddsOneIn": 10,
           "start": 2520000,
-          "claimed": 2508410,
-          "remaining": 11590
+          "claimed": 2508402,
+          "remaining": 11598
         },
         {
           "prize": 15,
           "oddsOneIn": 33.33,
           "start": 756000,
-          "claimed": 751798,
-          "remaining": 4202
+          "claimed": 751794,
+          "remaining": 4206
         },
         {
           "prize": 10,
           "oddsOneIn": 8.33,
           "start": 3024000,
-          "claimed": 3001097,
-          "remaining": 22903
+          "claimed": 3001087,
+          "remaining": 22913
         }
       ],
       "identifier": "2M-50X-cashword-2024",
@@ -7462,8 +7462,8 @@
           "prize": 500,
           "oddsOneIn": 774.19,
           "start": 13020,
-          "claimed": 12699,
-          "remaining": 321
+          "claimed": 12698,
+          "remaining": 322
         },
         {
           "prize": 200,
@@ -7476,15 +7476,15 @@
           "prize": 100,
           "oddsOneIn": 27.85,
           "start": 361900,
-          "claimed": 352980,
-          "remaining": 8920
+          "claimed": 352975,
+          "remaining": 8925
         },
         {
           "prize": 50,
           "oddsOneIn": 50,
           "start": 201600,
-          "claimed": 196783,
-          "remaining": 4817
+          "claimed": 196781,
+          "remaining": 4819
         },
         {
           "prize": 40,
@@ -7497,22 +7497,22 @@
           "prize": 30,
           "oddsOneIn": 25,
           "start": 403200,
-          "claimed": 392648,
-          "remaining": 10552
+          "claimed": 392647,
+          "remaining": 10553
         },
         {
           "prize": 25,
           "oddsOneIn": 12.5,
           "start": 806400,
-          "claimed": 785604,
-          "remaining": 20796
+          "claimed": 785596,
+          "remaining": 20804
         },
         {
           "prize": 20,
           "oddsOneIn": 7.14,
           "start": 1411200,
-          "claimed": 1370341,
-          "remaining": 40859
+          "claimed": 1370326,
+          "remaining": 40874
         }
       ],
       "identifier": "5000000-100x-cashword-reorder-2024",
@@ -7575,43 +7575,43 @@
           "prize": 100,
           "oddsOneIn": 65.31,
           "start": 231525,
-          "claimed": 229509,
-          "remaining": 2016
+          "claimed": 229508,
+          "remaining": 2017
         },
         {
           "prize": 50,
           "oddsOneIn": 100,
           "start": 151200,
-          "claimed": 149744,
-          "remaining": 1456
+          "claimed": 149742,
+          "remaining": 1458
         },
         {
           "prize": 25,
           "oddsOneIn": 100,
           "start": 151200,
-          "claimed": 149437,
-          "remaining": 1763
+          "claimed": 149436,
+          "remaining": 1764
         },
         {
           "prize": 20,
           "oddsOneIn": 12.5,
           "start": 1209600,
-          "claimed": 1196046,
-          "remaining": 13554
+          "claimed": 1196044,
+          "remaining": 13556
         },
         {
           "prize": 15,
           "oddsOneIn": 16.67,
           "start": 907200,
-          "claimed": 894818,
-          "remaining": 12382
+          "claimed": 894814,
+          "remaining": 12386
         },
         {
           "prize": 10,
           "oddsOneIn": 9.09,
           "start": 1663200,
-          "claimed": 1634890,
-          "remaining": 28310
+          "claimed": 1634883,
+          "remaining": 28317
         }
       ],
       "identifier": "bonus-100x-2024",
@@ -7688,15 +7688,15 @@
           "prize": 10,
           "oddsOneIn": 10,
           "start": 1209600,
-          "claimed": 1186690,
-          "remaining": 22910
+          "claimed": 1186688,
+          "remaining": 22912
         },
         {
           "prize": 5,
           "oddsOneIn": 10,
           "start": 1209600,
-          "claimed": 1165760,
-          "remaining": 43840
+          "claimed": 1165756,
+          "remaining": 43844
         }
       ],
       "identifier": "bonus-50x-2024",
@@ -7780,22 +7780,22 @@
           "prize": 5,
           "oddsOneIn": 62.5,
           "start": 161280,
-          "claimed": 146159,
-          "remaining": 15121
+          "claimed": 146158,
+          "remaining": 15122
         },
         {
           "prize": 4,
           "oddsOneIn": 13.33,
           "start": 756000,
-          "claimed": 682384,
-          "remaining": 73616
+          "claimed": 682379,
+          "remaining": 73621
         },
         {
           "prize": 2,
           "oddsOneIn": 10.53,
           "start": 957600,
-          "claimed": 853390,
-          "remaining": 104210
+          "claimed": 853377,
+          "remaining": 104223
         }
       ],
       "identifier": "bonus-20x-2024",
@@ -7858,8 +7858,8 @@
           "prize": 10,
           "oddsOneIn": 107.14,
           "start": 75264,
-          "claimed": 72720,
-          "remaining": 2544
+          "claimed": 72719,
+          "remaining": 2545
         },
         {
           "prize": 5,
@@ -7872,29 +7872,29 @@
           "prize": 4,
           "oddsOneIn": 75,
           "start": 107520,
-          "claimed": 102631,
-          "remaining": 4889
+          "claimed": 102630,
+          "remaining": 4890
         },
         {
           "prize": 3,
           "oddsOneIn": 93.75,
           "start": 86016,
-          "claimed": 81776,
-          "remaining": 4240
+          "claimed": 81774,
+          "remaining": 4242
         },
         {
           "prize": 2,
           "oddsOneIn": 14.15,
           "start": 569856,
-          "claimed": 536046,
-          "remaining": 33810
+          "claimed": 536043,
+          "remaining": 33813
         },
         {
           "prize": 1,
           "oddsOneIn": 10.71,
           "start": 752640,
-          "claimed": 694074,
-          "remaining": 58566
+          "claimed": 694066,
+          "remaining": 58574
         }
       ],
       "identifier": "bonus-10x-2024",
@@ -7929,50 +7929,50 @@
           "prize": 500,
           "oddsOneIn": 676.06,
           "start": 17892,
-          "claimed": 13732,
-          "remaining": 4160
+          "claimed": 13723,
+          "remaining": 4169
         },
         {
           "prize": 100,
           "oddsOneIn": 61.22,
           "start": 197568,
-          "claimed": 151900,
-          "remaining": 45668
+          "claimed": 151801,
+          "remaining": 45767
         },
         {
           "prize": 50,
           "oddsOneIn": 100,
           "start": 120960,
-          "claimed": 92955,
-          "remaining": 28005
+          "claimed": 92902,
+          "remaining": 28058
         },
         {
           "prize": 25,
           "oddsOneIn": 100,
           "start": 120960,
-          "claimed": 92761,
-          "remaining": 28199
+          "claimed": 92711,
+          "remaining": 28249
         },
         {
           "prize": 20,
           "oddsOneIn": 12.5,
           "start": 967680,
-          "claimed": 741993,
-          "remaining": 225687
+          "claimed": 741536,
+          "remaining": 226144
         },
         {
           "prize": 15,
           "oddsOneIn": 20,
           "start": 604800,
-          "claimed": 462804,
-          "remaining": 141996
+          "claimed": 462484,
+          "remaining": 142316
         },
         {
           "prize": 10,
           "oddsOneIn": 8.33,
           "start": 1451520,
-          "claimed": 1106470,
-          "remaining": 345050
+          "claimed": 1105741,
+          "remaining": 345779
         }
       ],
       "identifier": "4000000-lions-share-2024",
@@ -8000,8 +8000,8 @@
           "prize": 1000,
           "oddsOneIn": 7578.95,
           "start": 1596,
-          "claimed": 1505,
-          "remaining": 91
+          "claimed": 1504,
+          "remaining": 92
         },
         {
           "prize": 500,
@@ -8021,8 +8021,8 @@
           "prize": 50,
           "oddsOneIn": 150,
           "start": 80640,
-          "claimed": 75865,
-          "remaining": 4775
+          "claimed": 75864,
+          "remaining": 4776
         },
         {
           "prize": 25,
@@ -8042,15 +8042,15 @@
           "prize": 10,
           "oddsOneIn": 10,
           "start": 1209600,
-          "claimed": 1126162,
-          "remaining": 83438
+          "claimed": 1126159,
+          "remaining": 83441
         },
         {
           "prize": 5,
           "oddsOneIn": 10,
           "start": 1209600,
-          "claimed": 1093829,
-          "remaining": 115771
+          "claimed": 1093823,
+          "remaining": 115777
         }
       ],
       "identifier": "1000000-stacks-of-cash-2024",
@@ -8092,15 +8092,15 @@
           "prize": 500,
           "oddsOneIn": 1152,
           "start": 13125,
-          "claimed": 11746,
-          "remaining": 1379
+          "claimed": 11736,
+          "remaining": 1389
         },
         {
           "prize": 200,
           "oddsOneIn": 3789.47,
           "start": 3990,
-          "claimed": 3550,
-          "remaining": 440
+          "claimed": 3548,
+          "remaining": 442
         },
         {
           "prize": 150,
@@ -8113,43 +8113,43 @@
           "prize": 100,
           "oddsOneIn": 65.63,
           "start": 230370,
-          "claimed": 205014,
-          "remaining": 25356
+          "claimed": 204853,
+          "remaining": 25517
         },
         {
           "prize": 50,
           "oddsOneIn": 100,
           "start": 151200,
-          "claimed": 134968,
-          "remaining": 16232
+          "claimed": 134877,
+          "remaining": 16323
         },
         {
           "prize": 30,
           "oddsOneIn": 100,
           "start": 151200,
-          "claimed": 133875,
-          "remaining": 17325
+          "claimed": 133781,
+          "remaining": 17419
         },
         {
           "prize": 20,
           "oddsOneIn": 12.5,
           "start": 1209600,
-          "claimed": 1072417,
-          "remaining": 137183
+          "claimed": 1071608,
+          "remaining": 137992
         },
         {
           "prize": 15,
           "oddsOneIn": 14.29,
           "start": 1058400,
-          "claimed": 941859,
-          "remaining": 116541
+          "claimed": 941189,
+          "remaining": 117211
         },
         {
           "prize": 10,
           "oddsOneIn": 10,
           "start": 1512000,
-          "claimed": 1340890,
-          "remaining": 171110
+          "claimed": 1339932,
+          "remaining": 172068
         }
       ],
       "identifier": "4000000-monopoly-doubler-2024",
@@ -8226,15 +8226,15 @@
           "prize": 10,
           "oddsOneIn": 10,
           "start": 1209600,
-          "claimed": 1178964,
-          "remaining": 30636
+          "claimed": 1178963,
+          "remaining": 30637
         },
         {
           "prize": 5,
           "oddsOneIn": 10,
           "start": 1209600,
-          "claimed": 1170034,
-          "remaining": 39566
+          "claimed": 1170025,
+          "remaining": 39575
         }
       ],
       "identifier": "1000000-monopoly-doubler-2024",
@@ -8283,22 +8283,22 @@
           "prize": 1000,
           "oddsOneIn": 832.37,
           "start": 30275,
-          "claimed": 21348,
-          "remaining": 8927
+          "claimed": 21342,
+          "remaining": 8933
         },
         {
           "prize": 500,
           "oddsOneIn": 45,
           "start": 560000,
-          "claimed": 402938,
-          "remaining": 157062
+          "claimed": 402639,
+          "remaining": 157361
         },
         {
           "prize": 100,
           "oddsOneIn": 4.55,
           "start": 5544000,
-          "claimed": 3985250,
-          "remaining": 1558750
+          "claimed": 3982577,
+          "remaining": 1561423
         }
       ],
       "identifier": "433",
@@ -8347,29 +8347,29 @@
           "prize": 5,
           "oddsOneIn": 62.5,
           "start": 80640,
-          "claimed": 78774,
-          "remaining": 1866
+          "claimed": 78772,
+          "remaining": 1868
         },
         {
           "prize": 4,
           "oddsOneIn": 50,
           "start": 100800,
-          "claimed": 97772,
-          "remaining": 3028
+          "claimed": 97770,
+          "remaining": 3030
         },
         {
           "prize": 2,
           "oddsOneIn": 13.64,
           "start": 369600,
-          "claimed": 354987,
-          "remaining": 14613
+          "claimed": 354986,
+          "remaining": 14614
         },
         {
           "prize": 1,
           "oddsOneIn": 11.54,
           "start": 436800,
-          "claimed": 409034,
-          "remaining": 27766
+          "claimed": 409031,
+          "remaining": 27769
         }
       ],
       "identifier": "50-in-a-flash-2024",
@@ -8404,50 +8404,50 @@
           "prize": 500,
           "oddsOneIn": 648.65,
           "start": 24864,
-          "claimed": 17376,
-          "remaining": 7488
+          "claimed": 17364,
+          "remaining": 7500
         },
         {
           "prize": 100,
           "oddsOneIn": 60.89,
           "start": 264880,
-          "claimed": 185266,
-          "remaining": 79614
+          "claimed": 185153,
+          "remaining": 79727
         },
         {
           "prize": 50,
           "oddsOneIn": 100,
           "start": 161280,
-          "claimed": 112686,
-          "remaining": 48594
+          "claimed": 112616,
+          "remaining": 48664
         },
         {
           "prize": 25,
           "oddsOneIn": 100,
           "start": 161280,
-          "claimed": 112462,
-          "remaining": 48818
+          "claimed": 112397,
+          "remaining": 48883
         },
         {
           "prize": 20,
           "oddsOneIn": 12.5,
           "start": 1290240,
-          "claimed": 899419,
-          "remaining": 390821
+          "claimed": 898912,
+          "remaining": 391328
         },
         {
           "prize": 15,
           "oddsOneIn": 20,
           "start": 806400,
-          "claimed": 560898,
-          "remaining": 245502
+          "claimed": 560566,
+          "remaining": 245834
         },
         {
           "prize": 10,
           "oddsOneIn": 8.33,
           "start": 1935360,
-          "claimed": 1342230,
-          "remaining": 593130
+          "claimed": 1341437,
+          "remaining": 593923
         }
       ],
       "identifier": "4000000-bonus-bucks-2024",
@@ -8517,15 +8517,15 @@
           "prize": 5,
           "oddsOneIn": 50,
           "start": 241920,
-          "claimed": 234431,
-          "remaining": 7489
+          "claimed": 234430,
+          "remaining": 7490
         },
         {
           "prize": 4,
           "oddsOneIn": 8,
           "start": 1512000,
-          "claimed": 1460888,
-          "remaining": 51112
+          "claimed": 1460881,
+          "remaining": 51119
         }
       ],
       "identifier": "quick-100s-2024",
@@ -8595,15 +8595,15 @@
           "prize": 10,
           "oddsOneIn": 93.75,
           "start": 107520,
-          "claimed": 104617,
-          "remaining": 2903
+          "claimed": 104616,
+          "remaining": 2904
         },
         {
           "prize": 5,
           "oddsOneIn": 83.33,
           "start": 120960,
-          "claimed": 116828,
-          "remaining": 4132
+          "claimed": 116827,
+          "remaining": 4133
         },
         {
           "prize": 4,
@@ -8616,15 +8616,15 @@
           "prize": 3,
           "oddsOneIn": 62.5,
           "start": 161280,
-          "claimed": 154622,
-          "remaining": 6658
+          "claimed": 154618,
+          "remaining": 6662
         },
         {
           "prize": 2,
           "oddsOneIn": 8.82,
           "start": 1142400,
-          "claimed": 1092533,
-          "remaining": 49867
+          "claimed": 1092520,
+          "remaining": 49880
         }
       ],
       "identifier": "hot-7s-2024",
@@ -8694,8 +8694,8 @@
           "prize": 50,
           "oddsOneIn": 25,
           "start": 201600,
-          "claimed": 197240,
-          "remaining": 4360
+          "claimed": 197239,
+          "remaining": 4361
         },
         {
           "prize": 25,
@@ -8744,57 +8744,57 @@
           "prize": 500,
           "oddsOneIn": 705.88,
           "start": 18564,
-          "claimed": 13612,
-          "remaining": 4952
+          "claimed": 13607,
+          "remaining": 4957
         },
         {
           "prize": 200,
           "oddsOneIn": 475.25,
           "start": 27573,
-          "claimed": 20168,
-          "remaining": 7405
+          "claimed": 20163,
+          "remaining": 7410
         },
         {
           "prize": 100,
           "oddsOneIn": 27.27,
           "start": 480480,
-          "claimed": 350396,
-          "remaining": 130084
+          "claimed": 350254,
+          "remaining": 130226
         },
         {
           "prize": 50,
           "oddsOneIn": 50,
           "start": 262080,
-          "claimed": 190659,
-          "remaining": 71421
+          "claimed": 190577,
+          "remaining": 71503
         },
         {
           "prize": 40,
           "oddsOneIn": 50,
           "start": 262080,
-          "claimed": 190260,
-          "remaining": 71820
+          "claimed": 190178,
+          "remaining": 71902
         },
         {
           "prize": 30,
           "oddsOneIn": 25,
           "start": 524160,
-          "claimed": 379113,
-          "remaining": 145047
+          "claimed": 378955,
+          "remaining": 145205
         },
         {
           "prize": 25,
           "oddsOneIn": 12.5,
           "start": 1048320,
-          "claimed": 747609,
-          "remaining": 300711
+          "claimed": 747300,
+          "remaining": 301020
         },
         {
           "prize": 20,
           "oddsOneIn": 7.14,
           "start": 1834560,
-          "claimed": 1321880,
-          "remaining": 512680
+          "claimed": 1321280,
+          "remaining": 513280
         }
       ],
       "identifier": "10000000-cash-blast-2023",
@@ -8871,22 +8871,22 @@
           "prize": 20,
           "oddsOneIn": 12.5,
           "start": 1290240,
-          "claimed": 1240014,
-          "remaining": 50226
+          "claimed": 1240012,
+          "remaining": 50228
         },
         {
           "prize": 15,
           "oddsOneIn": 20,
           "start": 806400,
-          "claimed": 773344,
-          "remaining": 33056
+          "claimed": 773342,
+          "remaining": 33058
         },
         {
           "prize": 10,
           "oddsOneIn": 8.33,
           "start": 1935360,
-          "claimed": 1850353,
-          "remaining": 85007
+          "claimed": 1850352,
+          "remaining": 85008
         }
       ],
       "identifier": "777-2023",
@@ -8956,15 +8956,15 @@
           "prize": 10,
           "oddsOneIn": 9.38,
           "start": 1290240,
-          "claimed": 1257636,
-          "remaining": 32604
+          "claimed": 1257631,
+          "remaining": 32609
         },
         {
           "prize": 5,
           "oddsOneIn": 10,
           "start": 1209600,
-          "claimed": 1139669,
-          "remaining": 69931
+          "claimed": 1139666,
+          "remaining": 69934
         }
       ],
       "identifier": "diamonds-and-dollars-2023",
@@ -9034,8 +9034,8 @@
           "prize": 40,
           "oddsOneIn": 187.5,
           "start": 80640,
-          "claimed": 78197,
-          "remaining": 2443
+          "claimed": 78196,
+          "remaining": 2444
         },
         {
           "prize": 25,
@@ -9048,8 +9048,8 @@
           "prize": 20,
           "oddsOneIn": 39.47,
           "start": 383040,
-          "claimed": 372914,
-          "remaining": 10126
+          "claimed": 372912,
+          "remaining": 10128
         },
         {
           "prize": 10,
@@ -9062,8 +9062,8 @@
           "prize": 5,
           "oddsOneIn": 7.01,
           "start": 2157120,
-          "claimed": 2071019,
-          "remaining": 86101
+          "claimed": 2071014,
+          "remaining": 86106
         }
       ],
       "identifier": "big-blue-bonus-cashword-2023",
@@ -9126,15 +9126,15 @@
           "prize": 20,
           "oddsOneIn": 62.5,
           "start": 241920,
-          "claimed": 239913,
-          "remaining": 2007
+          "claimed": 239911,
+          "remaining": 2009
         },
         {
           "prize": 10,
           "oddsOneIn": 50,
           "start": 302400,
-          "claimed": 299614,
-          "remaining": 2786
+          "claimed": 299612,
+          "remaining": 2788
         },
         {
           "prize": 5,
@@ -9154,8 +9154,8 @@
           "prize": 2,
           "oddsOneIn": 10,
           "start": 1512000,
-          "claimed": 1474696,
-          "remaining": 37304
+          "claimed": 1474682,
+          "remaining": 37318
         }
       ],
       "identifier": "50000-star-cashword-2023",
@@ -9274,8 +9274,8 @@
           "prize": 5,
           "oddsOneIn": 18.75,
           "start": 537600,
-          "claimed": 525740,
-          "remaining": 11860
+          "claimed": 525738,
+          "remaining": 11862
         },
         {
           "prize": 3,
@@ -9288,8 +9288,8 @@
           "prize": 2,
           "oddsOneIn": 9.38,
           "start": 1075200,
-          "claimed": 1030269,
-          "remaining": 44931
+          "claimed": 1030266,
+          "remaining": 44934
         }
       ],
       "identifier": "bingo-2023",
@@ -9324,36 +9324,36 @@
           "prize": 500,
           "oddsOneIn": 734.69,
           "start": 21952,
-          "claimed": 18889,
-          "remaining": 3063
+          "claimed": 18878,
+          "remaining": 3074
         },
         {
           "prize": 100,
           "oddsOneIn": 59.21,
           "start": 272384,
-          "claimed": 232614,
-          "remaining": 39770
+          "claimed": 232480,
+          "remaining": 39904
         },
         {
           "prize": 50,
           "oddsOneIn": 100,
           "start": 161280,
-          "claimed": 137737,
-          "remaining": 23543
+          "claimed": 137642,
+          "remaining": 23638
         },
         {
           "prize": 25,
           "oddsOneIn": 25,
           "start": 645120,
-          "claimed": 551737,
-          "remaining": 93383
+          "claimed": 551390,
+          "remaining": 93730
         },
         {
           "prize": 20,
           "oddsOneIn": 7.14,
           "start": 2257920,
-          "claimed": 1922944,
-          "remaining": 334976
+          "claimed": 1921679,
+          "remaining": 336241
         }
       ],
       "identifier": "4000000-bonus-loot-2023",
@@ -9374,50 +9374,50 @@
           "prize": 500,
           "oddsOneIn": 223.95,
           "start": 72016,
-          "claimed": 69067,
-          "remaining": 2949
+          "claimed": 69027,
+          "remaining": 2989
         },
         {
           "prize": 100,
           "oddsOneIn": 67.29,
           "start": 239680,
-          "claimed": 229363,
-          "remaining": 10317
+          "claimed": 229232,
+          "remaining": 10448
         },
         {
           "prize": 50,
           "oddsOneIn": 100,
           "start": 161280,
-          "claimed": 154032,
-          "remaining": 7248
+          "claimed": 153948,
+          "remaining": 7332
         },
         {
           "prize": 25,
           "oddsOneIn": 100,
           "start": 161280,
-          "claimed": 153792,
-          "remaining": 7488
+          "claimed": 153696,
+          "remaining": 7584
         },
         {
           "prize": 20,
           "oddsOneIn": 12.5,
           "start": 1290240,
-          "claimed": 1227392,
-          "remaining": 62848
+          "claimed": 1226679,
+          "remaining": 63561
         },
         {
           "prize": 15,
           "oddsOneIn": 20,
           "start": 806400,
-          "claimed": 766534,
-          "remaining": 39866
+          "claimed": 766085,
+          "remaining": 40315
         },
         {
           "prize": 10,
           "oddsOneIn": 8.33,
           "start": 1935360,
-          "claimed": 1830402,
-          "remaining": 104958
+          "claimed": 1829355,
+          "remaining": 106005
         }
       ],
       "identifier": "instant-500s-2023",
@@ -9459,8 +9459,8 @@
           "prize": 10,
           "oddsOneIn": 125,
           "start": 80640,
-          "claimed": 78866,
-          "remaining": 1774
+          "claimed": 78865,
+          "remaining": 1775
         },
         {
           "prize": 5,
@@ -9473,22 +9473,22 @@
           "prize": 4,
           "oddsOneIn": 50,
           "start": 201600,
-          "claimed": 195063,
-          "remaining": 6537
+          "claimed": 195061,
+          "remaining": 6539
         },
         {
           "prize": 2,
           "oddsOneIn": 13.64,
           "start": 739200,
-          "claimed": 708710,
-          "remaining": 30490
+          "claimed": 708708,
+          "remaining": 30492
         },
         {
           "prize": 1,
           "oddsOneIn": 11.54,
           "start": 873600,
-          "claimed": 818417,
-          "remaining": 55183
+          "claimed": 818411,
+          "remaining": 55189
         }
       ],
       "identifier": "50-in-a-flash-2023",
@@ -9551,36 +9551,36 @@
           "prize": 100,
           "oddsOneIn": 18.91,
           "start": 852880,
-          "claimed": 848535,
-          "remaining": 4345
+          "claimed": 848532,
+          "remaining": 4348
         },
         {
           "prize": 60,
           "oddsOneIn": 50,
           "start": 322560,
-          "claimed": 319384,
-          "remaining": 3176
+          "claimed": 319383,
+          "remaining": 3177
         },
         {
           "prize": 50,
           "oddsOneIn": 12.5,
           "start": 1290240,
-          "claimed": 1281213,
-          "remaining": 9027
+          "claimed": 1281206,
+          "remaining": 9034
         },
         {
           "prize": 40,
           "oddsOneIn": 12.5,
           "start": 1290240,
-          "claimed": 1278643,
-          "remaining": 11597
+          "claimed": 1278632,
+          "remaining": 11608
         },
         {
           "prize": 30,
           "oddsOneIn": 8.33,
           "start": 1935360,
-          "claimed": 1913548,
-          "remaining": 21812
+          "claimed": 1913532,
+          "remaining": 21828
         }
       ],
       "identifier": "300x-2023",
@@ -9678,15 +9678,15 @@
           "prize": 5,
           "oddsOneIn": 15,
           "start": 537600,
-          "claimed": 524344,
-          "remaining": 13256
+          "claimed": 524342,
+          "remaining": 13258
         },
         {
           "prize": 2,
           "oddsOneIn": 9.38,
           "start": 860160,
-          "claimed": 827547,
-          "remaining": 32613
+          "claimed": 827546,
+          "remaining": 32614
         }
       ],
       "identifier": "battleship-2023",
@@ -9707,8 +9707,8 @@
           "prize": 5000,
           "oddsOneIn": 5760,
           "start": 2625,
-          "claimed": 1498,
-          "remaining": 1127
+          "claimed": 1497,
+          "remaining": 1128
         },
         {
           "prize": 2000,
@@ -9721,50 +9721,50 @@
           "prize": 1000,
           "oddsOneIn": 1252.17,
           "start": 12075,
-          "claimed": 6839,
-          "remaining": 5236
+          "claimed": 6838,
+          "remaining": 5237
         },
         {
           "prize": 500,
           "oddsOneIn": 791.21,
           "start": 19110,
-          "claimed": 10972,
-          "remaining": 8138
+          "claimed": 10968,
+          "remaining": 8142
         },
         {
           "prize": 200,
           "oddsOneIn": 445.82,
           "start": 33915,
-          "claimed": 19516,
-          "remaining": 14399
+          "claimed": 19504,
+          "remaining": 14411
         },
         {
           "prize": 100,
           "oddsOneIn": 27.71,
           "start": 545685,
-          "claimed": 312838,
-          "remaining": 232847
+          "claimed": 312713,
+          "remaining": 232972
         },
         {
           "prize": 50,
           "oddsOneIn": 50,
           "start": 302400,
-          "claimed": 172847,
-          "remaining": 129553
+          "claimed": 172772,
+          "remaining": 129628
         },
         {
           "prize": 40,
           "oddsOneIn": 20,
           "start": 756000,
-          "claimed": 432010,
-          "remaining": 323990
+          "claimed": 431823,
+          "remaining": 324177
         },
         {
           "prize": 30,
           "oddsOneIn": 6.25,
           "start": 2419200,
-          "claimed": 1383869,
-          "remaining": 1035331
+          "claimed": 1383275,
+          "remaining": 1035925
         }
       ],
       "identifier": "10000000-premier-cash-2023",
@@ -9820,43 +9820,43 @@
           "prize": 100,
           "oddsOneIn": 67.7,
           "start": 238224,
-          "claimed": 226686,
-          "remaining": 11538
+          "claimed": 226685,
+          "remaining": 11539
         },
         {
           "prize": 50,
           "oddsOneIn": 100,
           "start": 161280,
-          "claimed": 153242,
-          "remaining": 8038
+          "claimed": 153241,
+          "remaining": 8039
         },
         {
           "prize": 25,
           "oddsOneIn": 100,
           "start": 161280,
-          "claimed": 152935,
-          "remaining": 8345
+          "claimed": 152934,
+          "remaining": 8346
         },
         {
           "prize": 20,
           "oddsOneIn": 12.5,
           "start": 1290240,
-          "claimed": 1225638,
-          "remaining": 64602
+          "claimed": 1225627,
+          "remaining": 64613
         },
         {
           "prize": 15,
           "oddsOneIn": 20,
           "start": 806400,
-          "claimed": 762482,
-          "remaining": 43918
+          "claimed": 762474,
+          "remaining": 43926
         },
         {
           "prize": 10,
           "oddsOneIn": 8.33,
           "start": 1935360,
-          "claimed": 1817901,
-          "remaining": 117459
+          "claimed": 1817879,
+          "remaining": 117481
         }
       ],
       "identifier": "4000000-diamonds-2023",
@@ -9905,22 +9905,22 @@
           "prize": 1000,
           "oddsOneIn": 832.37,
           "start": 36330,
-          "claimed": 34486,
-          "remaining": 1844
+          "claimed": 34485,
+          "remaining": 1845
         },
         {
           "prize": 500,
           "oddsOneIn": 45,
           "start": 672000,
-          "claimed": 648450,
-          "remaining": 23550
+          "claimed": 648244,
+          "remaining": 23756
         },
         {
           "prize": 100,
           "oddsOneIn": 4.55,
           "start": 6652800,
-          "claimed": 6413430,
-          "remaining": 239370
+          "claimed": 6411350,
+          "remaining": 241450
         }
       ],
       "identifier": "billion-dollar-extravaganza-2023",
@@ -9983,8 +9983,8 @@
           "prize": 100,
           "oddsOneIn": 83.33,
           "start": 181440,
-          "claimed": 179804,
-          "remaining": 1636
+          "claimed": 179803,
+          "remaining": 1637
         },
         {
           "prize": 60,
@@ -10018,22 +10018,22 @@
           "prize": 20,
           "oddsOneIn": 39.47,
           "start": 383040,
-          "claimed": 379063,
-          "remaining": 3977
+          "claimed": 379059,
+          "remaining": 3981
         },
         {
           "prize": 10,
           "oddsOneIn": 25,
           "start": 604800,
-          "claimed": 596794,
-          "remaining": 8006
+          "claimed": 596786,
+          "remaining": 8014
         },
         {
           "prize": 5,
           "oddsOneIn": 6.94,
           "start": 2177280,
-          "claimed": 2118797,
-          "remaining": 58483
+          "claimed": 2118782,
+          "remaining": 58498
         }
       ],
       "identifier": "500000-cashword-corners-2023",
@@ -10068,64 +10068,64 @@
           "prize": 1000,
           "oddsOneIn": 1274.34,
           "start": 11865,
-          "claimed": 9515,
-          "remaining": 2350
+          "claimed": 9514,
+          "remaining": 2351
         },
         {
           "prize": 500,
           "oddsOneIn": 750,
           "start": 20160,
-          "claimed": 16417,
-          "remaining": 3743
+          "claimed": 16413,
+          "remaining": 3747
         },
         {
           "prize": 200,
           "oddsOneIn": 460.06,
           "start": 32865,
-          "claimed": 26710,
-          "remaining": 6155
+          "claimed": 26703,
+          "remaining": 6162
         },
         {
           "prize": 100,
           "oddsOneIn": 28.6,
           "start": 528675,
-          "claimed": 428544,
-          "remaining": 100131
+          "claimed": 428375,
+          "remaining": 100300
         },
         {
           "prize": 50,
           "oddsOneIn": 50,
           "start": 302400,
-          "claimed": 244806,
-          "remaining": 57594
+          "claimed": 244728,
+          "remaining": 57672
         },
         {
           "prize": 40,
           "oddsOneIn": 50,
           "start": 302400,
-          "claimed": 244836,
-          "remaining": 57564
+          "claimed": 244730,
+          "remaining": 57670
         },
         {
           "prize": 30,
           "oddsOneIn": 25,
           "start": 604800,
-          "claimed": 488528,
-          "remaining": 116272
+          "claimed": 488335,
+          "remaining": 116465
         },
         {
           "prize": 25,
           "oddsOneIn": 12.5,
           "start": 1209600,
-          "claimed": 968255,
-          "remaining": 241345
+          "claimed": 967927,
+          "remaining": 241673
         },
         {
           "prize": 20,
           "oddsOneIn": 7.14,
           "start": 2116800,
-          "claimed": 1705178,
-          "remaining": 411622
+          "claimed": 1704560,
+          "remaining": 412240
         }
       ],
       "identifier": "10000000-lucky-bucks-2023",
@@ -10153,43 +10153,43 @@
           "prize": 1000,
           "oddsOneIn": 2086.96,
           "start": 7728,
-          "claimed": 6845,
-          "remaining": 883
+          "claimed": 6843,
+          "remaining": 885
         },
         {
           "prize": 500,
           "oddsOneIn": 753.93,
           "start": 21392,
-          "claimed": 19235,
-          "remaining": 2157
+          "claimed": 19230,
+          "remaining": 2162
         },
         {
           "prize": 100,
           "oddsOneIn": 59.21,
           "start": 272384,
-          "claimed": 243225,
-          "remaining": 29159
+          "claimed": 243139,
+          "remaining": 29245
         },
         {
           "prize": 50,
           "oddsOneIn": 100,
           "start": 161280,
-          "claimed": 143935,
-          "remaining": 17345
+          "claimed": 143884,
+          "remaining": 17396
         },
         {
           "prize": 25,
           "oddsOneIn": 25,
           "start": 645120,
-          "claimed": 576804,
-          "remaining": 68316
+          "claimed": 576525,
+          "remaining": 68595
         },
         {
           "prize": 20,
           "oddsOneIn": 7.14,
           "start": 2257920,
-          "claimed": 2010076,
-          "remaining": 247844
+          "claimed": 2009233,
+          "remaining": 248687
         }
       ],
       "identifier": "4000000-platinum-jackpot-2023",
@@ -10224,57 +10224,57 @@
           "prize": 200,
           "oddsOneIn": 3600,
           "start": 8400,
-          "claimed": 8203,
-          "remaining": 197
+          "claimed": 8201,
+          "remaining": 199
         },
         {
           "prize": 100,
           "oddsOneIn": 720,
           "start": 42000,
-          "claimed": 41238,
-          "remaining": 762
+          "claimed": 41235,
+          "remaining": 765
         },
         {
           "prize": 25,
           "oddsOneIn": 947.37,
           "start": 31920,
-          "claimed": 31293,
-          "remaining": 627
+          "claimed": 31290,
+          "remaining": 630
         },
         {
           "prize": 20,
           "oddsOneIn": 62.5,
           "start": 483840,
-          "claimed": 477076,
-          "remaining": 6764
+          "claimed": 477053,
+          "remaining": 6787
         },
         {
           "prize": 10,
           "oddsOneIn": 50,
           "start": 604800,
-          "claimed": 596015,
-          "remaining": 8785
+          "claimed": 595976,
+          "remaining": 8824
         },
         {
           "prize": 5,
           "oddsOneIn": 41.67,
           "start": 725760,
-          "claimed": 715089,
-          "remaining": 10671
+          "claimed": 715051,
+          "remaining": 10709
         },
         {
           "prize": 4,
           "oddsOneIn": 13.64,
           "start": 2217600,
-          "claimed": 2166724,
-          "remaining": 50876
+          "claimed": 2166607,
+          "remaining": 50993
         },
         {
           "prize": 2,
           "oddsOneIn": 10,
           "start": 3024000,
-          "claimed": 2944952,
-          "remaining": 79048
+          "claimed": 2944805,
+          "remaining": 79195
         }
       ],
       "identifier": "power-play-cashword-2023",
@@ -10337,15 +10337,15 @@
           "prize": 50,
           "oddsOneIn": 50,
           "start": 201600,
-          "claimed": 198426,
-          "remaining": 3174
+          "claimed": 198425,
+          "remaining": 3175
         },
         {
           "prize": 40,
           "oddsOneIn": 20,
           "start": 504000,
-          "claimed": 496541,
-          "remaining": 7459
+          "claimed": 496539,
+          "remaining": 7461
         },
         {
           "prize": 30,
@@ -10401,22 +10401,22 @@
           "prize": 50,
           "oddsOneIn": 100,
           "start": 161280,
-          "claimed": 159856,
-          "remaining": 1424
+          "claimed": 159855,
+          "remaining": 1425
         },
         {
           "prize": 25,
           "oddsOneIn": 25,
           "start": 645120,
-          "claimed": 640419,
-          "remaining": 4701
+          "claimed": 640418,
+          "remaining": 4702
         },
         {
           "prize": 20,
           "oddsOneIn": 7.14,
           "start": 2257920,
-          "claimed": 2233761,
-          "remaining": 24159
+          "claimed": 2233759,
+          "remaining": 24161
         }
       ],
       "identifier": "emeralds-56x-2022",
@@ -10451,57 +10451,57 @@
           "prize": 1000,
           "oddsOneIn": 1066.67,
           "start": 17010,
-          "claimed": 12686,
-          "remaining": 4324
+          "claimed": 12685,
+          "remaining": 4325
         },
         {
           "prize": 500,
           "oddsOneIn": 261.82,
           "start": 69300,
-          "claimed": 52290,
-          "remaining": 17010
+          "claimed": 52281,
+          "remaining": 17019
         },
         {
           "prize": 200,
           "oddsOneIn": 498.27,
           "start": 36414,
-          "claimed": 27439,
-          "remaining": 8975
+          "claimed": 27432,
+          "remaining": 8982
         },
         {
           "prize": 100,
           "oddsOneIn": 18.09,
           "start": 1002960,
-          "claimed": 753810,
-          "remaining": 249150
+          "claimed": 753615,
+          "remaining": 249345
         },
         {
           "prize": 60,
           "oddsOneIn": 50,
           "start": 362880,
-          "claimed": 272162,
-          "remaining": 90718
+          "claimed": 272097,
+          "remaining": 90783
         },
         {
           "prize": 50,
           "oddsOneIn": 12.5,
           "start": 1451520,
-          "claimed": 1092413,
-          "remaining": 359107
+          "claimed": 1092167,
+          "remaining": 359353
         },
         {
           "prize": 40,
           "oddsOneIn": 12.5,
           "start": 1451520,
-          "claimed": 1090047,
-          "remaining": 361473
+          "claimed": 1089783,
+          "remaining": 361737
         },
         {
           "prize": 30,
           "oddsOneIn": 8.33,
           "start": 2177280,
-          "claimed": 1630323,
-          "remaining": 546957
+          "claimed": 1629896,
+          "remaining": 547384
         }
       ],
       "identifier": "millions-2022",
@@ -10571,29 +10571,29 @@
           "prize": 25,
           "oddsOneIn": 100,
           "start": 161280,
-          "claimed": 159136,
-          "remaining": 2144
+          "claimed": 159135,
+          "remaining": 2145
         },
         {
           "prize": 20,
           "oddsOneIn": 12.5,
           "start": 1290240,
-          "claimed": 1275866,
-          "remaining": 14374
+          "claimed": 1275865,
+          "remaining": 14375
         },
         {
           "prize": 15,
           "oddsOneIn": 20,
           "start": 806400,
-          "claimed": 793638,
-          "remaining": 12762
+          "claimed": 793636,
+          "remaining": 12764
         },
         {
           "prize": 10,
           "oddsOneIn": 8.33,
           "start": 1935360,
-          "claimed": 1892558,
-          "remaining": 42802
+          "claimed": 1892551,
+          "remaining": 42809
         }
       ],
       "identifier": "4m-money-bags-2022",
@@ -10642,15 +10642,15 @@
           "prize": 50,
           "oddsOneIn": 150,
           "start": 100800,
-          "claimed": 99540,
-          "remaining": 1260
+          "claimed": 99539,
+          "remaining": 1261
         },
         {
           "prize": 20,
           "oddsOneIn": 50,
           "start": 302400,
-          "claimed": 297470,
-          "remaining": 4930
+          "claimed": 297469,
+          "remaining": 4931
         },
         {
           "prize": 15,
@@ -10670,8 +10670,8 @@
           "prize": 5,
           "oddsOneIn": 10,
           "start": 1512000,
-          "claimed": 1438867,
-          "remaining": 73133
+          "claimed": 1438863,
+          "remaining": 73137
         }
       ],
       "identifier": "1m-winning-7-2022",
@@ -10706,43 +10706,43 @@
           "prize": 500,
           "oddsOneIn": 738.46,
           "start": 20475,
-          "claimed": 14539,
-          "remaining": 5936
+          "claimed": 14536,
+          "remaining": 5939
         },
         {
           "prize": 100,
           "oddsOneIn": 56.69,
           "start": 266700,
-          "claimed": 188132,
-          "remaining": 78568
+          "claimed": 188075,
+          "remaining": 78625
         },
         {
           "prize": 50,
           "oddsOneIn": 100,
           "start": 151200,
-          "claimed": 106611,
-          "remaining": 44589
+          "claimed": 106564,
+          "remaining": 44636
         },
         {
           "prize": 25,
           "oddsOneIn": 50,
           "start": 302400,
-          "claimed": 214046,
-          "remaining": 88354
+          "claimed": 213984,
+          "remaining": 88416
         },
         {
           "prize": 20,
           "oddsOneIn": 25,
           "start": 604800,
-          "claimed": 424942,
-          "remaining": 179858
+          "claimed": 424800,
+          "remaining": 180000
         },
         {
           "prize": 15,
           "oddsOneIn": 6.25,
           "start": 2419200,
-          "claimed": 1701532,
-          "remaining": 717668
+          "claimed": 1701043,
+          "remaining": 718157
         }
       ],
       "identifier": "4M-jumbo-cash-2022",
@@ -10805,8 +10805,8 @@
           "prize": 20,
           "oddsOneIn": 12.5,
           "start": 1290240,
-          "claimed": 1277994,
-          "remaining": 12246
+          "claimed": 1277993,
+          "remaining": 12247
         },
         {
           "prize": 15,
@@ -10819,8 +10819,8 @@
           "prize": 10,
           "oddsOneIn": 8.33,
           "start": 1935360,
-          "claimed": 1901956,
-          "remaining": 33404
+          "claimed": 1901955,
+          "remaining": 33405
         }
       ],
       "identifier": "4M-mayhem-2022",
@@ -10848,8 +10848,8 @@
           "prize": 1000,
           "oddsOneIn": 2086.96,
           "start": 7245,
-          "claimed": 7028,
-          "remaining": 217
+          "claimed": 7027,
+          "remaining": 218
         },
         {
           "prize": 500,
@@ -10862,57 +10862,57 @@
           "prize": 200,
           "oddsOneIn": 1321.1,
           "start": 11445,
-          "claimed": 11278,
-          "remaining": 167
+          "claimed": 11277,
+          "remaining": 168
         },
         {
           "prize": 150,
           "oddsOneIn": 1200,
           "start": 12600,
-          "claimed": 12419,
-          "remaining": 181
+          "claimed": 12415,
+          "remaining": 185
         },
         {
           "prize": 100,
           "oddsOneIn": 67.32,
           "start": 224595,
-          "claimed": 220984,
-          "remaining": 3611
+          "claimed": 220921,
+          "remaining": 3674
         },
         {
           "prize": 50,
           "oddsOneIn": 100,
           "start": 151200,
-          "claimed": 148368,
-          "remaining": 2832
+          "claimed": 148334,
+          "remaining": 2866
         },
         {
           "prize": 25,
           "oddsOneIn": 100,
           "start": 151200,
-          "claimed": 147997,
-          "remaining": 3203
+          "claimed": 147952,
+          "remaining": 3248
         },
         {
           "prize": 20,
           "oddsOneIn": 12.5,
           "start": 1209600,
-          "claimed": 1185761,
-          "remaining": 23839
+          "claimed": 1182684,
+          "remaining": 26916
         },
         {
           "prize": 15,
           "oddsOneIn": 20,
           "start": 756000,
-          "claimed": 734988,
-          "remaining": 21012
+          "claimed": 734748,
+          "remaining": 21252
         },
         {
           "prize": 10,
           "oddsOneIn": 8.33,
           "start": 1814400,
-          "claimed": 1753992,
-          "remaining": 60408
+          "claimed": 1753595,
+          "remaining": 60805
         }
       ],
       "identifier": "fabulous-fortune-2022",
@@ -10961,8 +10961,8 @@
           "prize": 50,
           "oddsOneIn": 150,
           "start": 80640,
-          "claimed": 79105,
-          "remaining": 1535
+          "claimed": 79104,
+          "remaining": 1536
         },
         {
           "prize": 20,
@@ -10975,15 +10975,15 @@
           "prize": 15,
           "oddsOneIn": 150,
           "start": 80640,
-          "claimed": 78703,
-          "remaining": 1937
+          "claimed": 78700,
+          "remaining": 1940
         },
         {
           "prize": 5,
           "oddsOneIn": 10,
           "start": 1209600,
-          "claimed": 1133169,
-          "remaining": 76431
+          "claimed": 1133166,
+          "remaining": 76434
         }
       ],
       "identifier": "money-money-money",
@@ -11039,8 +11039,8 @@
           "prize": 50,
           "oddsOneIn": 514.29,
           "start": 58800,
-          "claimed": 58296,
-          "remaining": 504
+          "claimed": 58295,
+          "remaining": 505
         },
         {
           "prize": 20,
@@ -11060,22 +11060,22 @@
           "prize": 5,
           "oddsOneIn": 41.67,
           "start": 725760,
-          "claimed": 716543,
-          "remaining": 9217
+          "claimed": 716541,
+          "remaining": 9219
         },
         {
           "prize": 4,
           "oddsOneIn": 13.64,
           "start": 2217600,
-          "claimed": 2156308,
-          "remaining": 61292
+          "claimed": 2156302,
+          "remaining": 61298
         },
         {
           "prize": 2,
           "oddsOneIn": 10,
           "start": 3024000,
-          "claimed": 2947739,
-          "remaining": 76261
+          "claimed": 2947732,
+          "remaining": 76268
         }
       ],
       "identifier": "50000-star-cashword-2021",

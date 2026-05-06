@@ -1,0 +1,1885 @@
+{
+  "timestamp": "2026-04-29T11:03:40.681Z",
+  "scraped": 23,
+  "failed": 108,
+  "tickets": [
+    {
+      "name": "10 Million Instant Millions 2025",
+      "price": 0,
+      "totalTickets": 10080000,
+      "prizes": [
+        {
+          "prize": 5000,
+          "oddsOneIn": 5760,
+          "start": 1750,
+          "claimed": 630,
+          "remaining": 1120
+        },
+        {
+          "prize": 2000,
+          "oddsOneIn": 8000,
+          "start": 1260,
+          "claimed": 447,
+          "remaining": 813
+        },
+        {
+          "prize": 1000,
+          "oddsOneIn": 1274.34,
+          "start": 7910,
+          "claimed": 2832,
+          "remaining": 5078
+        },
+        {
+          "prize": 500,
+          "oddsOneIn": 734.69,
+          "start": 13720,
+          "claimed": 5112,
+          "remaining": 8608
+        },
+        {
+          "prize": 200,
+          "oddsOneIn": 460.06,
+          "start": 21910,
+          "claimed": 8154,
+          "remaining": 13756
+        },
+        {
+          "prize": 100,
+          "oddsOneIn": 28.46,
+          "start": 354200,
+          "claimed": 131386,
+          "remaining": 222814
+        },
+        {
+          "prize": 50,
+          "oddsOneIn": 50,
+          "start": 201600,
+          "claimed": 74647,
+          "remaining": 126953
+        },
+        {
+          "prize": 40,
+          "oddsOneIn": 50,
+          "start": 201600,
+          "claimed": 74681,
+          "remaining": 126919
+        },
+        {
+          "prize": 30,
+          "oddsOneIn": 25,
+          "start": 403200,
+          "claimed": 148799,
+          "remaining": 254401
+        },
+        {
+          "prize": 25,
+          "oddsOneIn": 12.5,
+          "start": 806400,
+          "claimed": 295269,
+          "remaining": 511131
+        },
+        {
+          "prize": 20,
+          "oddsOneIn": 7.14,
+          "start": 1411200,
+          "claimed": 519349,
+          "remaining": 891851
+        }
+      ],
+      "identifier": "10-million-instant-millions-2025",
+      "id": 509,
+      "icon": "//images.ctfassets.net/45roy5e8ztfd/4BhvlQHzK3DzE1eHL5sn5G/2258726a58ba6a32bf9142704d5a0290/MA-509-10000000-Instant-Millions_game_tile.png",
+      "topPrize": 10000000,
+      "overallOdds": "1 in 2.94",
+      "status": "active",
+      "url": "https://www.masslottery.com/games/draw-and-instants/10-million-instant-millions-2025",
+      "expirationDate": null
+    },
+    {
+      "name": "100000 Max Winnings 2025",
+      "price": 0,
+      "totalTickets": 10080000,
+      "prizes": [
+        {
+          "prize": 100000,
+          "oddsOneIn": 126000,
+          "start": 80,
+          "claimed": 43,
+          "remaining": 37
+        },
+        {
+          "prize": 10000,
+          "oddsOneIn": 100800,
+          "start": 100,
+          "claimed": 56,
+          "remaining": 44
+        },
+        {
+          "prize": 1000,
+          "oddsOneIn": 2322.58,
+          "start": 4340,
+          "claimed": 2458,
+          "remaining": 1882
+        },
+        {
+          "prize": 500,
+          "oddsOneIn": 676.06,
+          "start": 14910,
+          "claimed": 8677,
+          "remaining": 6233
+        },
+        {
+          "prize": 100,
+          "oddsOneIn": 60.35,
+          "start": 167020,
+          "claimed": 96444,
+          "remaining": 70576
+        },
+        {
+          "prize": 50,
+          "oddsOneIn": 100,
+          "start": 100800,
+          "claimed": 58138,
+          "remaining": 42662
+        },
+        {
+          "prize": 25,
+          "oddsOneIn": 100,
+          "start": 100800,
+          "claimed": 58320,
+          "remaining": 42480
+        },
+        {
+          "prize": 20,
+          "oddsOneIn": 12.5,
+          "start": 806400,
+          "claimed": 463022,
+          "remaining": 343378
+        },
+        {
+          "prize": 15,
+          "oddsOneIn": 20,
+          "start": 504000,
+          "claimed": 289645,
+          "remaining": 214355
+        },
+        {
+          "prize": 10,
+          "oddsOneIn": 8.33,
+          "start": 1209600,
+          "claimed": 693211,
+          "remaining": 516389
+        }
+      ],
+      "identifier": "100000-max-winnings-2025",
+      "id": 508,
+      "icon": "//images.ctfassets.net/45roy5e8ztfd/1SANjSmsJJqclg33Clmsap/b96b52350e502ae0bb48df2e9d556289/MA-508-100000-Max-Winnings_game_tile.png",
+      "topPrize": 100000,
+      "overallOdds": "1 in 3.47",
+      "status": "active",
+      "url": "https://www.masslottery.com/games/draw-and-instants/100000-max-winnings-2025",
+      "expirationDate": null
+    },
+    {
+      "name": "1000000 Big Money 2025",
+      "price": 0,
+      "totalTickets": 12096000,
+      "prizes": [
+        {
+          "prize": 10000,
+          "oddsOneIn": 72000,
+          "start": 168,
+          "claimed": 93,
+          "remaining": 75
+        },
+        {
+          "prize": 1000,
+          "oddsOneIn": 7578.95,
+          "start": 1596,
+          "claimed": 875,
+          "remaining": 721
+        },
+        {
+          "prize": 500,
+          "oddsOneIn": 1142.86,
+          "start": 10584,
+          "claimed": 6084,
+          "remaining": 4500
+        },
+        {
+          "prize": 100,
+          "oddsOneIn": 187.26,
+          "start": 64596,
+          "claimed": 37031,
+          "remaining": 27565
+        },
+        {
+          "prize": 50,
+          "oddsOneIn": 150,
+          "start": 80640,
+          "claimed": 46042,
+          "remaining": 34598
+        },
+        {
+          "prize": 25,
+          "oddsOneIn": 150,
+          "start": 80640,
+          "claimed": 45942,
+          "remaining": 34698
+        },
+        {
+          "prize": 20,
+          "oddsOneIn": 50,
+          "start": 241920,
+          "claimed": 137507,
+          "remaining": 104413
+        },
+        {
+          "prize": 10,
+          "oddsOneIn": 6.82,
+          "start": 1774080,
+          "claimed": 1001354,
+          "remaining": 772726
+        }
+      ],
+      "identifier": "1000000-big-money-2025",
+      "id": 504,
+      "icon": "//images.ctfassets.net/45roy5e8ztfd/2WfCAqYV7OhcJBPiOtdTJq/adb02adc8b03e86ccb26d8a77bf6252f/MA-504-1000000-BIG-MONEY_game_tile.png",
+      "topPrize": 1000000,
+      "overallOdds": "1 in 5.37",
+      "status": "active",
+      "url": "https://www.masslottery.com/games/draw-and-instants/1000000-big-money-2025",
+      "expirationDate": null
+    },
+    {
+      "name": "10000 Bonus Play 2025",
+      "price": 0,
+      "totalTickets": 8064000,
+      "prizes": [
+        {
+          "prize": 10000,
+          "oddsOneIn": 1008000,
+          "start": 8,
+          "claimed": 6,
+          "remaining": 2
+        },
+        {
+          "prize": 100,
+          "oddsOneIn": 2823.53,
+          "start": 2856,
+          "claimed": 1989,
+          "remaining": 867
+        },
+        {
+          "prize": 40,
+          "oddsOneIn": 1800,
+          "start": 4480,
+          "claimed": 3101,
+          "remaining": 1379
+        },
+        {
+          "prize": 25,
+          "oddsOneIn": 986.3,
+          "start": 8176,
+          "claimed": 5702,
+          "remaining": 2474
+        },
+        {
+          "prize": 20,
+          "oddsOneIn": 150,
+          "start": 53760,
+          "claimed": 36953,
+          "remaining": 16807
+        },
+        {
+          "prize": 10,
+          "oddsOneIn": 93.75,
+          "start": 86016,
+          "claimed": 58039,
+          "remaining": 27977
+        },
+        {
+          "prize": 5,
+          "oddsOneIn": 93.75,
+          "start": 86016,
+          "claimed": 58249,
+          "remaining": 27767
+        },
+        {
+          "prize": 4,
+          "oddsOneIn": 93.75,
+          "start": 86016,
+          "claimed": 57902,
+          "remaining": 28114
+        },
+        {
+          "prize": 3,
+          "oddsOneIn": 68.18,
+          "start": 118272,
+          "claimed": 78839,
+          "remaining": 39433
+        },
+        {
+          "prize": 2,
+          "oddsOneIn": 8.82,
+          "start": 913920,
+          "claimed": 602356,
+          "remaining": 311564
+        }
+      ],
+      "identifier": "10000-bonus-play-2025",
+      "id": 494,
+      "icon": "//images.ctfassets.net/45roy5e8ztfd/3dEJFlobslrNEwXFitxqwF/1dc9989ffa238b5ddc5b40efc84a9880/MA-494-10000-BONUS-PLAY_game_tile.png",
+      "topPrize": 10000,
+      "overallOdds": "1 in 5.93",
+      "status": "active",
+      "url": "https://www.masslottery.com/games/draw-and-instants/10000-bonus-play-2025",
+      "expirationDate": null
+    },
+    {
+      "name": "1000000 Bonus Wins 2025",
+      "price": 0,
+      "totalTickets": 10080000,
+      "prizes": [
+        {
+          "prize": 5000,
+          "oddsOneIn": 72000,
+          "start": 140,
+          "claimed": 90,
+          "remaining": 50
+        },
+        {
+          "prize": 1000,
+          "oddsOneIn": 6545.45,
+          "start": 1540,
+          "claimed": 977,
+          "remaining": 563
+        },
+        {
+          "prize": 500,
+          "oddsOneIn": 2666.67,
+          "start": 3780,
+          "claimed": 2512,
+          "remaining": 1268
+        },
+        {
+          "prize": 150,
+          "oddsOneIn": 2181.82,
+          "start": 4620,
+          "claimed": 3056,
+          "remaining": 1564
+        },
+        {
+          "prize": 100,
+          "oddsOneIn": 145.75,
+          "start": 69160,
+          "claimed": 45552,
+          "remaining": 23608
+        },
+        {
+          "prize": 50,
+          "oddsOneIn": 150,
+          "start": 67200,
+          "claimed": 44071,
+          "remaining": 23129
+        },
+        {
+          "prize": 25,
+          "oddsOneIn": 150,
+          "start": 67200,
+          "claimed": 44020,
+          "remaining": 23180
+        },
+        {
+          "prize": 20,
+          "oddsOneIn": 50,
+          "start": 201600,
+          "claimed": 132115,
+          "remaining": 69485
+        },
+        {
+          "prize": 10,
+          "oddsOneIn": 9.38,
+          "start": 1075200,
+          "claimed": 696431,
+          "remaining": 378769
+        },
+        {
+          "prize": 5,
+          "oddsOneIn": 10,
+          "start": 1008000,
+          "claimed": 624358,
+          "remaining": 383642
+        }
+      ],
+      "identifier": "1000000-bonus-wins-2025",
+      "id": 497,
+      "icon": "//images.ctfassets.net/45roy5e8ztfd/34LAf8nWa2c84DXjjBshsu/d4d4703ef3ad8fa16d450d658f7593d5/MA-497-1000000-Bonus-Wins_game_tile.png",
+      "topPrize": 1000000,
+      "overallOdds": "1 in 4.03",
+      "status": "active",
+      "url": "https://www.masslottery.com/games/draw-and-instants/1000000-bonus-wins-2025",
+      "expirationDate": null
+    },
+    {
+      "name": "500 Cash 2025",
+      "price": 0,
+      "totalTickets": 15120000,
+      "prizes": [
+        {
+          "prize": 10000,
+          "oddsOneIn": 72000,
+          "start": 210,
+          "claimed": 96,
+          "remaining": 114
+        },
+        {
+          "prize": 1000,
+          "oddsOneIn": 7578.95,
+          "start": 1995,
+          "claimed": 909,
+          "remaining": 1086
+        },
+        {
+          "prize": 500,
+          "oddsOneIn": 1152,
+          "start": 13125,
+          "claimed": 6189,
+          "remaining": 6936
+        },
+        {
+          "prize": 100,
+          "oddsOneIn": 182.51,
+          "start": 82845,
+          "claimed": 39084,
+          "remaining": 43761
+        },
+        {
+          "prize": 50,
+          "oddsOneIn": 150,
+          "start": 100800,
+          "claimed": 47406,
+          "remaining": 53394
+        },
+        {
+          "prize": 25,
+          "oddsOneIn": 150,
+          "start": 100800,
+          "claimed": 47230,
+          "remaining": 53570
+        },
+        {
+          "prize": 20,
+          "oddsOneIn": 50,
+          "start": 302400,
+          "claimed": 141697,
+          "remaining": 160703
+        },
+        {
+          "prize": 10,
+          "oddsOneIn": 10,
+          "start": 1512000,
+          "claimed": 703046,
+          "remaining": 808954
+        },
+        {
+          "prize": 5,
+          "oddsOneIn": 10,
+          "start": 1512000,
+          "claimed": 683916,
+          "remaining": 828084
+        }
+      ],
+      "identifier": "500-cash-2025",
+      "id": 496,
+      "icon": "//images.ctfassets.net/45roy5e8ztfd/2znZpciHBLBO5IKN4RvSHn/b8276c81efaed2d6a1de925136649167/MA-496-500-Cash_game_tile.png",
+      "topPrize": 1000000,
+      "overallOdds": "1 in 4.17",
+      "status": "active",
+      "url": "https://www.masslottery.com/games/draw-and-instants/500-cash-2025",
+      "expirationDate": null
+    },
+    {
+      "name": "100 Stacked 2025",
+      "price": 0,
+      "totalTickets": 10080000,
+      "prizes": [
+        {
+          "prize": 100000,
+          "oddsOneIn": 2016000,
+          "start": 5,
+          "claimed": 3,
+          "remaining": 2
+        },
+        {
+          "prize": 10000,
+          "oddsOneIn": 1260000,
+          "start": 8,
+          "claimed": 5,
+          "remaining": 3
+        },
+        {
+          "prize": 1000,
+          "oddsOneIn": 72000,
+          "start": 140,
+          "claimed": 83,
+          "remaining": 57
+        },
+        {
+          "prize": 100,
+          "oddsOneIn": 351.22,
+          "start": 28700,
+          "claimed": 18243,
+          "remaining": 10457
+        },
+        {
+          "prize": 40,
+          "oddsOneIn": 219.51,
+          "start": 45920,
+          "claimed": 29253,
+          "remaining": 16667
+        },
+        {
+          "prize": 20,
+          "oddsOneIn": 111.11,
+          "start": 90720,
+          "claimed": 57448,
+          "remaining": 33272
+        },
+        {
+          "prize": 10,
+          "oddsOneIn": 62.5,
+          "start": 161280,
+          "claimed": 101887,
+          "remaining": 59393
+        },
+        {
+          "prize": 5,
+          "oddsOneIn": 50,
+          "start": 201600,
+          "claimed": 126237,
+          "remaining": 75363
+        },
+        {
+          "prize": 4,
+          "oddsOneIn": 13.33,
+          "start": 756000,
+          "claimed": 471394,
+          "remaining": 284606
+        },
+        {
+          "prize": 2,
+          "oddsOneIn": 11.11,
+          "start": 907200,
+          "claimed": 559551,
+          "remaining": 347649
+        }
+      ],
+      "identifier": "100-stacked-2025",
+      "id": 495,
+      "icon": "//images.ctfassets.net/45roy5e8ztfd/5e8TzvUso9N1u8njXpiHTf/2a5fbf17b64563f595cb0db4d3e4bf6a/MA-495-100-Stacked_game_tile.png",
+      "topPrize": 100000,
+      "overallOdds": "1 in 4.60",
+      "status": "active",
+      "url": "https://www.masslottery.com/games/draw-and-instants/100-stacked-2025",
+      "expirationDate": null
+    },
+    {
+      "name": "Winner Winner Chicken Dinner 2025",
+      "price": 0,
+      "totalTickets": 5040000,
+      "prizes": [
+        {
+          "prize": 50000,
+          "oddsOneIn": 1008000,
+          "start": 5,
+          "claimed": 5,
+          "remaining": 0
+        },
+        {
+          "prize": 10000,
+          "oddsOneIn": 720000,
+          "start": 7,
+          "claimed": 5,
+          "remaining": 2
+        },
+        {
+          "prize": 1000,
+          "oddsOneIn": 126000,
+          "start": 40,
+          "claimed": 31,
+          "remaining": 9
+        },
+        {
+          "prize": 100,
+          "oddsOneIn": 369.23,
+          "start": 13650,
+          "claimed": 12283,
+          "remaining": 1367
+        },
+        {
+          "prize": 30,
+          "oddsOneIn": 213.02,
+          "start": 23660,
+          "claimed": 21118,
+          "remaining": 2542
+        },
+        {
+          "prize": 20,
+          "oddsOneIn": 58.82,
+          "start": 85680,
+          "claimed": 74762,
+          "remaining": 10918
+        },
+        {
+          "prize": 10,
+          "oddsOneIn": 66.67,
+          "start": 75600,
+          "claimed": 66844,
+          "remaining": 8756
+        },
+        {
+          "prize": 5,
+          "oddsOneIn": 55.56,
+          "start": 90720,
+          "claimed": 79631,
+          "remaining": 11089
+        },
+        {
+          "prize": 3,
+          "oddsOneIn": 13.33,
+          "start": 378000,
+          "claimed": 326569,
+          "remaining": 51431
+        },
+        {
+          "prize": 2,
+          "oddsOneIn": 11.76,
+          "start": 428400,
+          "claimed": 366500,
+          "remaining": 61900
+        }
+      ],
+      "identifier": "winner-winner-chicken-dinner-2025",
+      "id": 505,
+      "icon": "//images.ctfassets.net/45roy5e8ztfd/1c1bottVoSfLFvF2SvQVWR/4d3c735239aed3887cab6bf2420189ec/MA-505-Winner-Winner-Chicken-Dinner_game_tile.png",
+      "topPrize": 50000,
+      "overallOdds": "1 in 4.60",
+      "status": "active",
+      "url": "https://www.masslottery.com/games/draw-and-instants/winner-winner-chicken-dinner-2025",
+      "expirationDate": null
+    },
+    {
+      "name": "25 50 And 250 Celebration Blowout 2025 3",
+      "price": 0,
+      "totalTickets": 6048000,
+      "prizes": [
+        {
+          "prize": 250,
+          "oddsOneIn": 553.85,
+          "start": 10920,
+          "claimed": 10565,
+          "remaining": 355
+        },
+        {
+          "prize": 50,
+          "oddsOneIn": 36.4,
+          "start": 166152,
+          "claimed": 160839,
+          "remaining": 5313
+        },
+        {
+          "prize": 25,
+          "oddsOneIn": 12.5,
+          "start": 483840,
+          "claimed": 467145,
+          "remaining": 16695
+        }
+      ],
+      "identifier": "25-50-and-250-celebration-blowout-2025-3",
+      "id": 506,
+      "icon": "//images.ctfassets.net/45roy5e8ztfd/34KpHrl2eojRONakvXQJTI/646e60c80ac4292346dc8480f05c805c/MA-465-Celebration-Blowout_game_tile.png",
+      "topPrize": 250,
+      "overallOdds": "1 in 9.15",
+      "status": "active",
+      "url": "https://www.masslottery.com/games/draw-and-instants/25-50-and-250-celebration-blowout-2025-3",
+      "expirationDate": null
+    },
+    {
+      "name": "200 X 2025",
+      "price": 0,
+      "totalTickets": 12096000,
+      "prizes": [
+        {
+          "prize": 5000,
+          "oddsOneIn": 6461.54,
+          "start": 1872,
+          "claimed": 754,
+          "remaining": 1118
+        },
+        {
+          "prize": 2000,
+          "oddsOneIn": 7578.95,
+          "start": 1596,
+          "claimed": 654,
+          "remaining": 942
+        },
+        {
+          "prize": 1000,
+          "oddsOneIn": 1800,
+          "start": 6720,
+          "claimed": 2701,
+          "remaining": 4019
+        },
+        {
+          "prize": 500,
+          "oddsOneIn": 1021.28,
+          "start": 11844,
+          "claimed": 4981,
+          "remaining": 6863
+        },
+        {
+          "prize": 200,
+          "oddsOneIn": 159.47,
+          "start": 75852,
+          "claimed": 31692,
+          "remaining": 44160
+        },
+        {
+          "prize": 100,
+          "oddsOneIn": 33.33,
+          "start": 362880,
+          "claimed": 151411,
+          "remaining": 211469
+        },
+        {
+          "prize": 50,
+          "oddsOneIn": 50,
+          "start": 241920,
+          "claimed": 100736,
+          "remaining": 141184
+        },
+        {
+          "prize": 40,
+          "oddsOneIn": 50,
+          "start": 241920,
+          "claimed": 100351,
+          "remaining": 141569
+        },
+        {
+          "prize": 30,
+          "oddsOneIn": 25,
+          "start": 483840,
+          "claimed": 200588,
+          "remaining": 283252
+        },
+        {
+          "prize": 25,
+          "oddsOneIn": 12.5,
+          "start": 967680,
+          "claimed": 395381,
+          "remaining": 572299
+        },
+        {
+          "prize": 20,
+          "oddsOneIn": 7.14,
+          "start": 1693440,
+          "claimed": 698413,
+          "remaining": 995027
+        }
+      ],
+      "identifier": "200x-2025",
+      "id": 489,
+      "icon": "//images.ctfassets.net/45roy5e8ztfd/3EhvJ73MBsuD1Ztk5C9rMG/daa8238a089944c9777cb3746355d4de/MA-489-200X_game_tile.png",
+      "topPrize": 10000000,
+      "overallOdds": "1 in 2.96 ",
+      "status": "active",
+      "url": "https://www.masslottery.com/games/draw-and-instants/200x-2025",
+      "expirationDate": null
+    },
+    {
+      "name": "100 X 2025",
+      "price": 0,
+      "totalTickets": 16128000,
+      "prizes": [
+        {
+          "prize": 10000,
+          "oddsOneIn": 72000,
+          "start": 224,
+          "claimed": 142,
+          "remaining": 82
+        },
+        {
+          "prize": 2000,
+          "oddsOneIn": 24000,
+          "start": 672,
+          "claimed": 437,
+          "remaining": 235
+        },
+        {
+          "prize": 1000,
+          "oddsOneIn": 2086.96,
+          "start": 7728,
+          "claimed": 4895,
+          "remaining": 2833
+        },
+        {
+          "prize": 500,
+          "oddsOneIn": 1263.16,
+          "start": 12768,
+          "claimed": 8547,
+          "remaining": 4221
+        },
+        {
+          "prize": 300,
+          "oddsOneIn": 615.38,
+          "start": 26208,
+          "claimed": 17538,
+          "remaining": 8670
+        },
+        {
+          "prize": 150,
+          "oddsOneIn": 473.68,
+          "start": 34048,
+          "claimed": 22828,
+          "remaining": 11220
+        },
+        {
+          "prize": 100,
+          "oddsOneIn": 100,
+          "start": 161280,
+          "claimed": 107158,
+          "remaining": 54122
+        },
+        {
+          "prize": 50,
+          "oddsOneIn": 100,
+          "start": 161280,
+          "claimed": 107442,
+          "remaining": 53838
+        },
+        {
+          "prize": 25,
+          "oddsOneIn": 100,
+          "start": 161280,
+          "claimed": 107044,
+          "remaining": 54236
+        },
+        {
+          "prize": 20,
+          "oddsOneIn": 12.5,
+          "start": 1290240,
+          "claimed": 858358,
+          "remaining": 431882
+        },
+        {
+          "prize": 15,
+          "oddsOneIn": 16.67,
+          "start": 967680,
+          "claimed": 640533,
+          "remaining": 327147
+        },
+        {
+          "prize": 10,
+          "oddsOneIn": 9.09,
+          "start": 1774080,
+          "claimed": 1165529,
+          "remaining": 608551
+        }
+      ],
+      "identifier": "100x-2025",
+      "id": 488,
+      "icon": "//images.ctfassets.net/45roy5e8ztfd/36EJifxew2Bz51Fe89VugL/db5030b44d7ea9e9d98037d2c29df3c4/MA-488-100X_game_tile.png",
+      "topPrize": 4000000,
+      "overallOdds": "1 in 3.51",
+      "status": "active",
+      "url": "https://www.masslottery.com/games/draw-and-instants/100x-2025",
+      "expirationDate": null
+    },
+    {
+      "name": "50 X 2025",
+      "price": 0,
+      "totalTickets": 15120000,
+      "prizes": [
+        {
+          "prize": 10000,
+          "oddsOneIn": 72000,
+          "start": 210,
+          "claimed": 121,
+          "remaining": 89
+        },
+        {
+          "prize": 1000,
+          "oddsOneIn": 4800,
+          "start": 3150,
+          "claimed": 1874,
+          "remaining": 1276
+        },
+        {
+          "prize": 500,
+          "oddsOneIn": 2400,
+          "start": 6300,
+          "claimed": 3894,
+          "remaining": 2406
+        },
+        {
+          "prize": 150,
+          "oddsOneIn": 1252.17,
+          "start": 12075,
+          "claimed": 7491,
+          "remaining": 4584
+        },
+        {
+          "prize": 100,
+          "oddsOneIn": 145.6,
+          "start": 103845,
+          "claimed": 62952,
+          "remaining": 40893
+        },
+        {
+          "prize": 50,
+          "oddsOneIn": 150,
+          "start": 100800,
+          "claimed": 62045,
+          "remaining": 38755
+        },
+        {
+          "prize": 20,
+          "oddsOneIn": 50,
+          "start": 302400,
+          "claimed": 185382,
+          "remaining": 117018
+        },
+        {
+          "prize": 15,
+          "oddsOneIn": 150,
+          "start": 100800,
+          "claimed": 61536,
+          "remaining": 39264
+        },
+        {
+          "prize": 10,
+          "oddsOneIn": 10,
+          "start": 1512000,
+          "claimed": 919105,
+          "remaining": 592895
+        },
+        {
+          "prize": 5,
+          "oddsOneIn": 10,
+          "start": 1512000,
+          "claimed": 887187,
+          "remaining": 624813
+        }
+      ],
+      "identifier": "50x-2025",
+      "id": 487,
+      "icon": "//images.ctfassets.net/45roy5e8ztfd/7GvCUHcNQfVqTVlwWuLlUj/61fdf4d9a0a82a7596c609c11889d57b/MA-487-50X_game_tile.png",
+      "topPrize": 1000000,
+      "overallOdds": "1 in 4.14",
+      "status": "active",
+      "url": "https://www.masslottery.com/games/draw-and-instants/50x-2025",
+      "expirationDate": null
+    },
+    {
+      "name": "20 X 2025",
+      "price": 0,
+      "totalTickets": 10080000,
+      "prizes": [
+        {
+          "prize": 100000,
+          "oddsOneIn": 3360000,
+          "start": 3,
+          "claimed": 2,
+          "remaining": 1
+        },
+        {
+          "prize": 50000,
+          "oddsOneIn": 1440000,
+          "start": 7,
+          "claimed": 6,
+          "remaining": 1
+        },
+        {
+          "prize": 1000,
+          "oddsOneIn": 16000,
+          "start": 630,
+          "claimed": 484,
+          "remaining": 146
+        },
+        {
+          "prize": 200,
+          "oddsOneIn": 4645.16,
+          "start": 2170,
+          "claimed": 1726,
+          "remaining": 444
+        },
+        {
+          "prize": 100,
+          "oddsOneIn": 389.19,
+          "start": 25900,
+          "claimed": 20644,
+          "remaining": 5256
+        },
+        {
+          "prize": 40,
+          "oddsOneIn": 494.85,
+          "start": 20370,
+          "claimed": 16195,
+          "remaining": 4175
+        },
+        {
+          "prize": 25,
+          "oddsOneIn": 355.56,
+          "start": 28350,
+          "claimed": 23117,
+          "remaining": 5233
+        },
+        {
+          "prize": 20,
+          "oddsOneIn": 142.86,
+          "start": 70560,
+          "claimed": 56159,
+          "remaining": 14401
+        },
+        {
+          "prize": 10,
+          "oddsOneIn": 58.82,
+          "start": 171360,
+          "claimed": 138048,
+          "remaining": 33312
+        },
+        {
+          "prize": 5,
+          "oddsOneIn": 62.5,
+          "start": 161280,
+          "claimed": 129235,
+          "remaining": 32045
+        },
+        {
+          "prize": 4,
+          "oddsOneIn": 13.33,
+          "start": 756000,
+          "claimed": 604232,
+          "remaining": 151768
+        },
+        {
+          "prize": 2,
+          "oddsOneIn": 10.53,
+          "start": 957600,
+          "claimed": 750519,
+          "remaining": 207081
+        }
+      ],
+      "identifier": "20x-2025",
+      "id": 486,
+      "icon": "//images.ctfassets.net/45roy5e8ztfd/32d8T8VjwiZNV3UtMbC9Zb/b0f1ca10a26f12a318d6225af8ad0d1f/MA-486-20X_game_tile__1_.png",
+      "topPrize": 100000,
+      "overallOdds": "1 in 4.59",
+      "status": "active",
+      "url": "https://www.masslottery.com/games/draw-and-instants/20x-2025",
+      "expirationDate": null
+    },
+    {
+      "name": "10 X 2025",
+      "price": 0,
+      "totalTickets": 8064000,
+      "prizes": [
+        {
+          "prize": 10000,
+          "oddsOneIn": 1344000,
+          "start": 6,
+          "claimed": 6,
+          "remaining": 0
+        },
+        {
+          "prize": 1000,
+          "oddsOneIn": 168000,
+          "start": 48,
+          "claimed": 40,
+          "remaining": 8
+        },
+        {
+          "prize": 100,
+          "oddsOneIn": 1000,
+          "start": 8064,
+          "claimed": 7175,
+          "remaining": 889
+        },
+        {
+          "prize": 40,
+          "oddsOneIn": 1051.09,
+          "start": 7672,
+          "claimed": 6744,
+          "remaining": 928
+        },
+        {
+          "prize": 25,
+          "oddsOneIn": 888.89,
+          "start": 9072,
+          "claimed": 8112,
+          "remaining": 960
+        },
+        {
+          "prize": 20,
+          "oddsOneIn": 250,
+          "start": 32256,
+          "claimed": 27725,
+          "remaining": 4531
+        },
+        {
+          "prize": 10,
+          "oddsOneIn": 107.14,
+          "start": 75264,
+          "claimed": 65602,
+          "remaining": 9662
+        },
+        {
+          "prize": 5,
+          "oddsOneIn": 187.5,
+          "start": 43008,
+          "claimed": 37819,
+          "remaining": 5189
+        },
+        {
+          "prize": 4,
+          "oddsOneIn": 75,
+          "start": 107520,
+          "claimed": 94027,
+          "remaining": 13493
+        },
+        {
+          "prize": 3,
+          "oddsOneIn": 93.75,
+          "start": 86016,
+          "claimed": 75164,
+          "remaining": 10852
+        },
+        {
+          "prize": 2,
+          "oddsOneIn": 14.15,
+          "start": 569856,
+          "claimed": 490432,
+          "remaining": 79424
+        },
+        {
+          "prize": 1,
+          "oddsOneIn": 10.71,
+          "start": 752640,
+          "claimed": 625487,
+          "remaining": 127153
+        }
+      ],
+      "identifier": "10x-2025",
+      "id": 485,
+      "icon": "//images.ctfassets.net/45roy5e8ztfd/3earU8MkNsfX4mAZ3UFxbe/9b38c72ccd2de7645ad1c415c9247e0c/MA-485-10X_game_tile.png",
+      "topPrize": 10000,
+      "overallOdds": "1 in 4.77",
+      "status": "active",
+      "url": "https://www.masslottery.com/games/draw-and-instants/10x-2025",
+      "expirationDate": null
+    },
+    {
+      "name": "25000000 Mega Money 2025",
+      "price": 0,
+      "totalTickets": 25200000,
+      "prizes": [
+        {
+          "prize": 50000,
+          "oddsOneIn": 201600,
+          "start": 125,
+          "claimed": 46,
+          "remaining": 79
+        },
+        {
+          "prize": 20000,
+          "oddsOneIn": 14823.53,
+          "start": 1700,
+          "claimed": 607,
+          "remaining": 1093
+        },
+        {
+          "prize": 10000,
+          "oddsOneIn": 9509.43,
+          "start": 2650,
+          "claimed": 927,
+          "remaining": 1723
+        },
+        {
+          "prize": 5000,
+          "oddsOneIn": 3638.99,
+          "start": 6925,
+          "claimed": 2447,
+          "remaining": 4478
+        },
+        {
+          "prize": 1000,
+          "oddsOneIn": 832.37,
+          "start": 30275,
+          "claimed": 10636,
+          "remaining": 19639
+        },
+        {
+          "prize": 500,
+          "oddsOneIn": 45.11,
+          "start": 558600,
+          "claimed": 204986,
+          "remaining": 353614
+        },
+        {
+          "prize": 100,
+          "oddsOneIn": 4.55,
+          "start": 5544000,
+          "claimed": 2031595,
+          "remaining": 3512405
+        }
+      ],
+      "identifier": "25000000-mega-money-2025",
+      "id": 490,
+      "icon": "//images.ctfassets.net/45roy5e8ztfd/3TlZnvrpP9oENuV3g4j9qX/7454e288426b3afaeb65fd356c3b270f/MA-490-25000000-Mega-Money_game_tile.png",
+      "topPrize": 25000000,
+      "overallOdds": "1 in 4.10",
+      "status": "active",
+      "url": "https://www.masslottery.com/games/draw-and-instants/25000000-mega-money-2025",
+      "expirationDate": null
+    },
+    {
+      "name": "500000 Cashword Corners 2025",
+      "price": 0,
+      "totalTickets": 15120000,
+      "prizes": [
+        {
+          "prize": 500000,
+          "oddsOneIn": 3780000,
+          "start": 4,
+          "claimed": 1,
+          "remaining": 3
+        },
+        {
+          "prize": 10000,
+          "oddsOneIn": 1008000,
+          "start": 15,
+          "claimed": 4,
+          "remaining": 11
+        },
+        {
+          "prize": 1000,
+          "oddsOneIn": 144000,
+          "start": 105,
+          "claimed": 26,
+          "remaining": 79
+        },
+        {
+          "prize": 500,
+          "oddsOneIn": 18000,
+          "start": 840,
+          "claimed": 225,
+          "remaining": 615
+        },
+        {
+          "prize": 300,
+          "oddsOneIn": 13090.91,
+          "start": 1155,
+          "claimed": 306,
+          "remaining": 849
+        },
+        {
+          "prize": 150,
+          "oddsOneIn": 3600,
+          "start": 4200,
+          "claimed": 1128,
+          "remaining": 3072
+        },
+        {
+          "prize": 100,
+          "oddsOneIn": 83.33,
+          "start": 181440,
+          "claimed": 48771,
+          "remaining": 132669
+        },
+        {
+          "prize": 60,
+          "oddsOneIn": 750,
+          "start": 20160,
+          "claimed": 5317,
+          "remaining": 14843
+        },
+        {
+          "prize": 50,
+          "oddsOneIn": 150,
+          "start": 100800,
+          "claimed": 27097,
+          "remaining": 73703
+        },
+        {
+          "prize": 40,
+          "oddsOneIn": 250,
+          "start": 60480,
+          "claimed": 16184,
+          "remaining": 44296
+        },
+        {
+          "prize": 25,
+          "oddsOneIn": 150,
+          "start": 100800,
+          "claimed": 27023,
+          "remaining": 73777
+        },
+        {
+          "prize": 20,
+          "oddsOneIn": 39.47,
+          "start": 383040,
+          "claimed": 102930,
+          "remaining": 280110
+        },
+        {
+          "prize": 10,
+          "oddsOneIn": 25,
+          "start": 604800,
+          "claimed": 161924,
+          "remaining": 442876
+        },
+        {
+          "prize": 5,
+          "oddsOneIn": 6.94,
+          "start": 2177280,
+          "claimed": 575486,
+          "remaining": 1601794
+        }
+      ],
+      "identifier": "500000-cashword-corners-2025",
+      "id": 381,
+      "icon": "//images.ctfassets.net/45roy5e8ztfd/4xFwNLhMMyaQ2ZtQ8c1UUX/d681d4eaaa36b05236ef984a7caa11b5/MA-381-500K-Cword-Crnrs_Green_game_tile.png",
+      "topPrize": 500000,
+      "overallOdds": "1 in 4.16",
+      "status": "active",
+      "url": "https://www.masslottery.com/games/draw-and-instants/500000-cashword-corners-2025",
+      "expirationDate": null
+    },
+    {
+      "name": "50 100 And 500 Blowout 2025",
+      "price": 0,
+      "totalTickets": 16128000,
+      "prizes": [
+        {
+          "prize": 500,
+          "oddsOneIn": 545.45,
+          "start": 29568,
+          "claimed": 22124,
+          "remaining": 7444
+        },
+        {
+          "prize": 100,
+          "oddsOneIn": 32.22,
+          "start": 500528,
+          "claimed": 373513,
+          "remaining": 127015
+        },
+        {
+          "prize": 50,
+          "oddsOneIn": 12.5,
+          "start": 1290240,
+          "claimed": 962762,
+          "remaining": 327478
+        }
+      ],
+      "identifier": "50-100-and-500-blowout-2025",
+      "id": 477,
+      "icon": "//images.ctfassets.net/45roy5e8ztfd/6fHoMnQhkUzt16maAgZmBI/5b2512123799cbdb77381542773e11e0/MA-451-Blowout_game_tile.png",
+      "topPrize": 500,
+      "overallOdds": "1 in 8.86",
+      "status": "active",
+      "url": "https://www.masslottery.com/games/draw-and-instants/50-100-and-500-blowout-2025",
+      "expirationDate": null
+    },
+    {
+      "name": "15000000 Colossal Millions 2025",
+      "price": 0,
+      "totalTickets": 15120000,
+      "prizes": [
+        {
+          "prize": 100000,
+          "oddsOneIn": 84000,
+          "start": 180,
+          "claimed": 58,
+          "remaining": 122
+        },
+        {
+          "prize": 10000,
+          "oddsOneIn": 112000,
+          "start": 135,
+          "claimed": 46,
+          "remaining": 89
+        },
+        {
+          "prize": 2000,
+          "oddsOneIn": 28800,
+          "start": 525,
+          "claimed": 169,
+          "remaining": 356
+        },
+        {
+          "prize": 1000,
+          "oddsOneIn": 1125,
+          "start": 13440,
+          "claimed": 4328,
+          "remaining": 9112
+        },
+        {
+          "prize": 500,
+          "oddsOneIn": 265.19,
+          "start": 57015,
+          "claimed": 19165,
+          "remaining": 37850
+        },
+        {
+          "prize": 200,
+          "oddsOneIn": 498.27,
+          "start": 30345,
+          "claimed": 10189,
+          "remaining": 20156
+        },
+        {
+          "prize": 100,
+          "oddsOneIn": 19.05,
+          "start": 793800,
+          "claimed": 266049,
+          "remaining": 527751
+        },
+        {
+          "prize": 60,
+          "oddsOneIn": 50,
+          "start": 302400,
+          "claimed": 101037,
+          "remaining": 201363
+        },
+        {
+          "prize": 50,
+          "oddsOneIn": 12.5,
+          "start": 1209600,
+          "claimed": 405482,
+          "remaining": 804118
+        },
+        {
+          "prize": 40,
+          "oddsOneIn": 12.5,
+          "start": 1209600,
+          "claimed": 404351,
+          "remaining": 805249
+        },
+        {
+          "prize": 30,
+          "oddsOneIn": 8.33,
+          "start": 1814400,
+          "claimed": 605135,
+          "remaining": 1209265
+        }
+      ],
+      "identifier": "15000000-colossal-millions-2025",
+      "id": 491,
+      "icon": "//images.ctfassets.net/45roy5e8ztfd/7LKNzujkcEf5bLbNMswG7m/520f9c60b097d2b0c55ab572d85860a7/MA-491-15000000-Colossal-Millions-Pink_game_tile.png",
+      "topPrize": 15000000,
+      "overallOdds": "1 in 2.78",
+      "status": "active",
+      "url": "https://www.masslottery.com/games/draw-and-instants/15000000-colossal-millions-2025",
+      "expirationDate": null
+    },
+    {
+      "name": "4000000 Cash King Doubler 2025",
+      "price": 0,
+      "totalTickets": 15120000,
+      "prizes": [
+        {
+          "prize": 10000,
+          "oddsOneIn": 756000,
+          "start": 20,
+          "claimed": 11,
+          "remaining": 9
+        },
+        {
+          "prize": 5000,
+          "oddsOneIn": 48000,
+          "start": 315,
+          "claimed": 195,
+          "remaining": 120
+        },
+        {
+          "prize": 1000,
+          "oddsOneIn": 3692.31,
+          "start": 4095,
+          "claimed": 2452,
+          "remaining": 1643
+        },
+        {
+          "prize": 500,
+          "oddsOneIn": 1152,
+          "start": 13125,
+          "claimed": 8129,
+          "remaining": 4996
+        },
+        {
+          "prize": 200,
+          "oddsOneIn": 3789.47,
+          "start": 3990,
+          "claimed": 2459,
+          "remaining": 1531
+        },
+        {
+          "prize": 150,
+          "oddsOneIn": 3512.2,
+          "start": 4305,
+          "claimed": 2658,
+          "remaining": 1647
+        },
+        {
+          "prize": 100,
+          "oddsOneIn": 65.42,
+          "start": 231105,
+          "claimed": 142358,
+          "remaining": 88747
+        },
+        {
+          "prize": 50,
+          "oddsOneIn": 100,
+          "start": 151200,
+          "claimed": 93463,
+          "remaining": 57737
+        },
+        {
+          "prize": 30,
+          "oddsOneIn": 100,
+          "start": 151200,
+          "claimed": 92772,
+          "remaining": 58428
+        },
+        {
+          "prize": 20,
+          "oddsOneIn": 12.5,
+          "start": 1209600,
+          "claimed": 742338,
+          "remaining": 467262
+        },
+        {
+          "prize": 15,
+          "oddsOneIn": 14.29,
+          "start": 1058400,
+          "claimed": 651394,
+          "remaining": 407006
+        },
+        {
+          "prize": 10,
+          "oddsOneIn": 10,
+          "start": 1512000,
+          "claimed": 922576,
+          "remaining": 589424
+        }
+      ],
+      "identifier": "4000000-cash-king-doubler-2025",
+      "id": 483,
+      "icon": "//images.ctfassets.net/45roy5e8ztfd/1OV31dFYgGOg6MlAM5bRLY/4dfcd48054b1bcb6944f77b4f26aee79/MA-483-4000000-Cash-King-Doubler_1_game_tile.png",
+      "topPrize": 4000000,
+      "overallOdds": "1 in 3.48",
+      "status": "active",
+      "url": "https://www.masslottery.com/games/draw-and-instants/4000000-cash-king-doubler-2025",
+      "expirationDate": null
+    },
+    {
+      "name": "Triple 777 2025",
+      "price": 0,
+      "totalTickets": 15120000,
+      "prizes": [
+        {
+          "prize": 2000,
+          "oddsOneIn": 72000,
+          "start": 210,
+          "claimed": 114,
+          "remaining": 96
+        },
+        {
+          "prize": 1000,
+          "oddsOneIn": 5760,
+          "start": 2625,
+          "claimed": 1434,
+          "remaining": 1191
+        },
+        {
+          "prize": 500,
+          "oddsOneIn": 2322.58,
+          "start": 6510,
+          "claimed": 3616,
+          "remaining": 2894
+        },
+        {
+          "prize": 100,
+          "oddsOneIn": 126.21,
+          "start": 119805,
+          "claimed": 66121,
+          "remaining": 53684
+        },
+        {
+          "prize": 50,
+          "oddsOneIn": 150,
+          "start": 100800,
+          "claimed": 55358,
+          "remaining": 45442
+        },
+        {
+          "prize": 20,
+          "oddsOneIn": 50,
+          "start": 302400,
+          "claimed": 165087,
+          "remaining": 137313
+        },
+        {
+          "prize": 15,
+          "oddsOneIn": 150,
+          "start": 100800,
+          "claimed": 54744,
+          "remaining": 46056
+        },
+        {
+          "prize": 10,
+          "oddsOneIn": 9.38,
+          "start": 1612800,
+          "claimed": 868996,
+          "remaining": 743804
+        },
+        {
+          "prize": 5,
+          "oddsOneIn": 10,
+          "start": 1512000,
+          "claimed": 786806,
+          "remaining": 725194
+        }
+      ],
+      "identifier": "triple-777-2025",
+      "id": 474,
+      "icon": "//images.ctfassets.net/45roy5e8ztfd/36B5e57DdHuiYcjx5hFNjC/32ceb49969b85b802dbe537132fa37b1/MA-Triple-777-474_game_tile.png",
+      "topPrize": 1000000,
+      "overallOdds": "1 in 4.02",
+      "status": "active",
+      "url": "https://www.masslottery.com/games/draw-and-instants/triple-777-2025",
+      "expirationDate": null
+    },
+    {
+      "name": "100000 Double Match 2025",
+      "price": 0,
+      "totalTickets": 8064000,
+      "prizes": [
+        {
+          "prize": 100000,
+          "oddsOneIn": 2016000,
+          "start": 4,
+          "claimed": 4,
+          "remaining": 0
+        },
+        {
+          "prize": 10000,
+          "oddsOneIn": 1008000,
+          "start": 8,
+          "claimed": 5,
+          "remaining": 3
+        },
+        {
+          "prize": 1000,
+          "oddsOneIn": 1008000,
+          "start": 8,
+          "claimed": 5,
+          "remaining": 3
+        },
+        {
+          "prize": 200,
+          "oddsOneIn": 3600,
+          "start": 2240,
+          "claimed": 1898,
+          "remaining": 342
+        },
+        {
+          "prize": 100,
+          "oddsOneIn": 372.09,
+          "start": 21672,
+          "claimed": 18359,
+          "remaining": 3313
+        },
+        {
+          "prize": 40,
+          "oddsOneIn": 313.04,
+          "start": 25760,
+          "claimed": 21994,
+          "remaining": 3766
+        },
+        {
+          "prize": 30,
+          "oddsOneIn": 297.52,
+          "start": 27104,
+          "claimed": 22590,
+          "remaining": 4514
+        },
+        {
+          "prize": 20,
+          "oddsOneIn": 166.67,
+          "start": 48384,
+          "claimed": 41183,
+          "remaining": 7201
+        },
+        {
+          "prize": 10,
+          "oddsOneIn": 71.43,
+          "start": 112896,
+          "claimed": 95937,
+          "remaining": 16959
+        },
+        {
+          "prize": 5,
+          "oddsOneIn": 40,
+          "start": 201600,
+          "claimed": 166663,
+          "remaining": 34937
+        },
+        {
+          "prize": 4,
+          "oddsOneIn": 8.7,
+          "start": 927360,
+          "claimed": 742970,
+          "remaining": 184390
+        }
+      ],
+      "identifier": "100000-double-match-2025",
+      "id": 481,
+      "icon": "//images.ctfassets.net/45roy5e8ztfd/514xWu3I0z0ijS9FrerA70/92338c5fb9dd60d5d0f644e5db536493/MA-481-100000-Double-Match_game_tile.png",
+      "topPrize": 100000,
+      "overallOdds": "1 in 5.90",
+      "status": "active",
+      "url": "https://www.masslottery.com/games/draw-and-instants/100000-double-match-2025",
+      "expirationDate": null
+    },
+    {
+      "name": "25 50 And 250 Celebration Blowout 2025",
+      "price": 0,
+      "totalTickets": 4032000,
+      "prizes": [
+        {
+          "prize": 250,
+          "oddsOneIn": 553.85,
+          "start": 7280,
+          "claimed": 7206,
+          "remaining": 74
+        },
+        {
+          "prize": 50,
+          "oddsOneIn": 36.4,
+          "start": 110768,
+          "claimed": 109748,
+          "remaining": 1020
+        },
+        {
+          "prize": 25,
+          "oddsOneIn": 12.5,
+          "start": 322560,
+          "claimed": 319237,
+          "remaining": 3323
+        }
+      ],
+      "identifier": "25-50-and-250-celebration-blowout-2025",
+      "id": 482,
+      "icon": "//images.ctfassets.net/45roy5e8ztfd/482SGjBEHM0vlcVxKUANVO/ffa7d91285c74e1120ef56987d1e0cc9/MA-465-Celebration-Blowout_game_tile__1_.png",
+      "topPrize": 250,
+      "overallOdds": "1 in 9.15",
+      "status": "active",
+      "url": "https://www.masslottery.com/games/draw-and-instants/25-50-and-250-celebration-blowout-2025",
+      "expirationDate": null
+    },
+    {
+      "name": "50 K Star Cashword 2025",
+      "price": 0,
+      "totalTickets": 15120000,
+      "prizes": [
+        {
+          "prize": 50000,
+          "oddsOneIn": 1008000,
+          "start": 15,
+          "claimed": 13,
+          "remaining": 2
+        },
+        {
+          "prize": 1000,
+          "oddsOneIn": 48000,
+          "start": 315,
+          "claimed": 270,
+          "remaining": 45
+        },
+        {
+          "prize": 500,
+          "oddsOneIn": 14400,
+          "start": 1050,
+          "claimed": 996,
+          "remaining": 54
+        },
+        {
+          "prize": 200,
+          "oddsOneIn": 3600,
+          "start": 4200,
+          "claimed": 3949,
+          "remaining": 251
+        },
+        {
+          "prize": 100,
+          "oddsOneIn": 1469.39,
+          "start": 10290,
+          "claimed": 9728,
+          "remaining": 562
+        },
+        {
+          "prize": 50,
+          "oddsOneIn": 514.29,
+          "start": 29400,
+          "claimed": 28096,
+          "remaining": 1304
+        },
+        {
+          "prize": 20,
+          "oddsOneIn": 62.5,
+          "start": 241920,
+          "claimed": 231032,
+          "remaining": 10888
+        },
+        {
+          "prize": 10,
+          "oddsOneIn": 50,
+          "start": 302400,
+          "claimed": 288369,
+          "remaining": 14031
+        },
+        {
+          "prize": 5,
+          "oddsOneIn": 41.67,
+          "start": 362880,
+          "claimed": 344868,
+          "remaining": 18012
+        },
+        {
+          "prize": 4,
+          "oddsOneIn": 13.64,
+          "start": 1108800,
+          "claimed": 1041878,
+          "remaining": 66922
+        },
+        {
+          "prize": 2,
+          "oddsOneIn": 10,
+          "start": 1512000,
+          "claimed": 1421216,
+          "remaining": 90784
+        }
+      ],
+      "identifier": "50k-star-cashword-2025",
+      "id": 471,
+      "icon": "//images.ctfassets.net/45roy5e8ztfd/1DqwqIixDV8Un90NDFOm0K/29593a3eea6ca0a83102ec8669d8b5ea/MA-451-50000-Star-Cashword_game_tile.png",
+      "topPrize": 50000,
+      "overallOdds": "1 in 4.23",
+      "status": "active",
+      "url": "https://www.masslottery.com/games/draw-and-instants/50k-star-cashword-2025",
+      "expirationDate": null
+    }
+  ]
+}
