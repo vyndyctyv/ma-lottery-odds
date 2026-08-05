@@ -5,6 +5,101 @@ import { fileURLToPath } from "url";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = path.join(__dirname, "data");
+const POSITIVE_EV_STATE = path.join(DATA_DIR, "positive-ev-alert-state.json");
+const ROUTER_URL = process.env.DISCORD_ROUTER_URL || "http://127.0.0.1:3005";
+const WORKSPACE_DIR = process.env.WORKSPACE_DIR || "/Users/ianhandy/Programming/workspace";
+const DISCORD_CONFIG_PATH = process.env.DISCORD_CONFIG_PATH || path.join(WORKSPACE_DIR, "tasks", "discord-config.json");
+
+function loadPositiveEvState() {
+  if (!fs.existsSync(POSITIVE_EV_STATE)) return null;
+  try {
+    return JSON.parse(fs.readFileSync(POSITIVE_EV_STATE, "utf8"));
+  } catch {
+    return {};
+  }
+}
+
+function savePositiveEvState(state) {
+  fs.mkdirSync(DATA_DIR, { recursive: true });
+  fs.writeFileSync(POSITIVE_EV_STATE, JSON.stringify(state, null, 2) + "\n");
+}
+
+function discordAlertsChannelId() {
+  if (process.env.DISCORD_ALERTS_CHANNEL_ID) return process.env.DISCORD_ALERTS_CHANNEL_ID;
+  if (!fs.existsSync(DISCORD_CONFIG_PATH)) return null;
+  try {
+    const config = JSON.parse(fs.readFileSync(DISCORD_CONFIG_PATH, "utf8"));
+    return config.channels?.[config.alertsChannel || "alerts"] || null;
+  } catch {
+    return null;
+  }
+}
+
+async function sendDiscordAlert(message) {
+  const channelId = discordAlertsChannelId();
+  if (!channelId) {
+    console.error("[notify] Discord alerts channel is not configured");
+    return false;
+  }
+  try {
+    const res = await fetch(`${ROUTER_URL}/channel/${encodeURIComponent(channelId)}/reply`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ text: message }),
+    });
+    if (!res.ok) {
+      console.error(`[notify] Discord alert failed: HTTP ${res.status}`);
+      return false;
+    }
+    return true;
+  } catch (err) {
+    console.error(`[notify] Discord alert failed: ${err.message}`);
+    return false;
+  }
+}
+
+// Alert only when an active ticket crosses from non-positive to positive
+// adjusted EV. The state file makes this edge-triggered rather than noisy.
+export async function notifyPositiveEvCrossings(analysis) {
+  const positive = analysis.tickets
+    .filter((ticket) => ticket.status === "active" && ticket.adjustedEv > 0)
+    .map((ticket) => ({
+      id: ticket.identifier,
+      name: ticket.name,
+      price: ticket.price,
+      adjustedEv: ticket.adjustedEv,
+      adjustedEvPercent: ticket.adjustedEvPercent,
+      url: ticket.url,
+    }));
+  const current = Object.fromEntries(positive.map((ticket) => [ticket.id, ticket]));
+  const previous = loadPositiveEvState();
+
+  // Establish a baseline on first run; existing positive tickets did not
+  // cross during this installation.
+  if (previous === null) {
+    savePositiveEvState(current);
+    console.log(`[notify] Positive-EV alert baseline established (${positive.length} active)`);
+    return false;
+  }
+
+  const crossed = positive.filter((ticket) => !previous[ticket.id]);
+  if (crossed.length === 0) {
+    savePositiveEvState(current);
+    return false;
+  }
+
+  let message = "🎟️ **MA Lottery: positive adjusted EV**\n";
+  message += "The following active ticket(s) just crossed above zero:\n\n";
+  for (const ticket of crossed) {
+    message += `**${ticket.name}** — $${ticket.price} ticket; adjusted EV **+$${ticket.adjustedEv} (${ticket.adjustedEvPercent}%)**\n`;
+    message += `${ticket.url}\n\n`;
+  }
+  message += "Verify current availability before buying; the edge is an estimate, not a guarantee.";
+
+  const sent = await sendDiscordAlert(message);
+  if (sent) savePositiveEvState(current);
+  return sent;
+}
 
 // Load Pushover credentials
 function loadPushover() {

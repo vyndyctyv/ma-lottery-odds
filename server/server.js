@@ -4,12 +4,18 @@ import path from "path";
 import { fileURLToPath } from "url";
 import { analyzeAll } from "./analyzer.js";
 import { scrapeAll } from "./scraper.js";
-import { sendDailyReport } from "./notify.js";
+import { notifyPositiveEvCrossings, sendDailyReport } from "./notify.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const app = express();
 const PORT = process.env.PORT || 3001;
 const DATA_DIR = path.join(__dirname, "data");
+
+async function scrapeAndNotify() {
+  const data = await scrapeAll();
+  await notifyPositiveEvCrossings(analyzeAll(data));
+  return data;
+}
 
 app.use(express.static(path.join(__dirname, "public")));
 app.use(express.json());
@@ -32,7 +38,7 @@ app.post("/api/scrape", async (req, res) => {
   scraping = true;
   res.json({ status: "started" });
   try {
-    await scrapeAll();
+    await scrapeAndNotify();
     console.log("[server] Scrape complete");
   } catch (err) {
     console.error("[server] Scrape failed:", err.message);
@@ -86,7 +92,7 @@ function scheduleDailyTasks() {
   setTimeout(async function runScrape() {
     console.log("[schedule] Starting daily scrape...");
     try {
-      await scrapeAll();
+      await scrapeAndNotify();
     } catch (err) {
       console.error("[schedule] Scrape failed:", err.message);
     }
@@ -115,7 +121,25 @@ function scheduleDailyTasks() {
   );
 }
 
-app.listen(PORT, () => {
+app.listen(PORT, async () => {
   console.log(`MA Lottery Odds at http://localhost:${PORT}`);
   scheduleDailyTasks();
+
+  // Catch-up scrape if data is stale (>23h old or missing)
+  const latestPath = path.join(DATA_DIR, "latest.json");
+  let stale = true;
+  if (fs.existsSync(latestPath)) {
+    const { timestamp } = JSON.parse(fs.readFileSync(latestPath, "utf8"));
+    stale = Date.now() - new Date(timestamp).getTime() > 23 * 60 * 60 * 1000;
+  }
+  if (stale && !scraping) {
+    console.log("[schedule] Data stale on startup — running catch-up scrape...");
+    scraping = true;
+    try {
+      await scrapeAndNotify();
+    } catch (err) {
+      console.error("[schedule] Catch-up scrape failed:", err.message);
+    }
+    scraping = false;
+  }
 });
